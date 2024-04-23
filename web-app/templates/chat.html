@@ -3,34 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Job Description Processor</title>
+    <title>Submit Job ID</title>
 </head>
 <body>
-    <h1>Job Description Processor</h1>
-    <textarea id="userInput" rows="10" cols="50" placeholder="Paste the job description here..."></textarea><br>
-    <button onclick="processDescription()">Process</button>
-    <pre id="structuredOutput"></pre>
+    <h1>Submit Job ID</h1>
+    <form id="jobIdForm">
+        <label for="userInput">Enter Job ID or Description:</label><br>
+        <input type="text" id="userInput" name="userInput"><br>
+        <input type="button" value="Submit" onclick="submitJobId()">
+    </form>
+    <p id="result"></p>
 
     <script>
-        function processDescription() {
-            const inputField = document.getElementById('userInput');
-            const jobDescription = inputField.value;
-            fetch('/process-input', {
+        function submitJobId() {
+            const userInput = document.getElementById('userInput').value;
+            fetch('/submit-job-id', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
                 },
-                body: JSON.stringify({user_input: jobDescription})
+                body: JSON.stringify({ user_input: userInput })
             })
             .then(response => response.json())
             .then(data => {
-                // Assuming 'structured_response' is a JSON object
-                const output = JSON.stringify(data.structured_response, null, 2);
-                document.getElementById('structuredOutput').textContent = output;
+                document.getElementById('result').textContent = JSON.stringify(data);
             })
             .catch(error => {
                 console.error('Error:', error);
-                document.getElementById('structuredOutput').textContent = 'Error processing job description.';
             });
         }
     </script>

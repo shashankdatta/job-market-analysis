@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify, render_template
-from openai import OpenAI, ChatCompletion
+from openai import OpenAI
 import json
 
 app = Flask(__name__)
@@ -25,7 +25,7 @@ def submit_job_id():
 def extract_job_id(user_input):
     prompt = f"Extract the job ID from the following input and format it as JSON: \"{user_input}\""
 
-    response = client.ChatCompletion.create(
+    response = client.chat.completions.create(
         messages=[{"role": "user", "content": prompt}],
         model="gpt-3.5-turbo"
     )
@@ -47,7 +47,7 @@ def get_job_comparison():
 def generate_natural_language_description(comparison_data):
     prompt = f"Convert the following comparison data into a natural language description:\n\n{comparison_data}"
 
-    response = client.ChatCompletion.create(
+    response = client.chat.completions.create(
         messages=[{"role": "user", "content": prompt}],
         model="gpt-3.5-turbo"
     )
