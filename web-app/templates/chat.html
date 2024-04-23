@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Description Processor</title>
+</head>
+<body>
+    <h1>Job Description Processor</h1>
+    <textarea id="userInput" rows="10" cols="50" placeholder="Paste the job description here..."></textarea><br>
+    <button onclick="processDescription()">Process</button>
+    <pre id="structuredOutput"></pre>
+
+    <script>
+        function processDescription() {
+            const inputField = document.getElementById('userInput');
+            const jobDescription = inputField.value;
+            fetch('/process-input', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({user_input: jobDescription})
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Assuming 'structured_response' is a JSON object
+                const output = JSON.stringify(data.structured_response, null, 2);
+                document.getElementById('structuredOutput').textContent = output;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('structuredOutput').textContent = 'Error processing job description.';
+            });
+        }
+    </script>
+</body>
+</html>
