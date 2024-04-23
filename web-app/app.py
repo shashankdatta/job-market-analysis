@@ -23,7 +23,16 @@ def submit_job_id():
 
 
 def extract_job_id(user_input):
-    prompt = f"Extract the job ID from the following input and format it as JSON: \"{user_input}\""
+    prompt = f"""
+    The user has provided the following job posting information, which includes an ID number:
+    "{user_input}"
+    Using the job posting ID, transfer it into json
+
+    The structured JSON should follow this format:
+    {{
+        "id": "Extracted job ID"
+    }}
+    """
 
     response = client.chat.completions.create(
         messages=[{"role": "user", "content": prompt}],
