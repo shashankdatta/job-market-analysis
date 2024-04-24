@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Features Testing</title>
+</head>
+<body>
+    <h1>Test Job Features</h1>
+
+    <!-- Feature 1: Submit Job ID -->
+    <h2>Feature 1: Submit Job ID</h2>
+    <form action="/submit-job-id" method="POST">
+        <label for="user_input">Enter Job Information:</label>
+        <input type="text" id="user_input" name="user_input" required>
+        <button type="submit">Submit Job ID</button>
+    </form>
+
+    <!-- Feature 2: Submit Role -->
+    <h2>Feature 2: Submit Role</h2>
+    <form action="/submit-role" method="POST">
+        <label for="role">Enter Role:</label>
+        <input type="text" id="role" name="role" required>
+        <button type="submit">Submit Role</button>
+    </form>
+
+    <!-- Feature 3: Recommend Jobs -->
+    <h2>Feature 3: Recommend Jobs</h2>
+    <form action="/recommend-jobs" method="POST">
+        <label for="user_input">Enter User Input for Job Recommendation:</label>
+        <input type="text" id="user_input" name="user_input" required>
+        <button type="submit">Recommend Jobs</button>
+    </form>
+
+    <script>
+        // Use JavaScript to handle AJAX requests if needed
+        document.querySelectorAll('form').forEach(form => {
+            form.addEventListener('submit', function(event) {
+                event.preventDefault();
+                const formData = new FormData(form);
+                const url = form.action;
+                const method = form.method;
+                const data = {};
+                formData.forEach((value, key) => { data[key] = value; });
+
+                fetch(url, {
+                    method: method,
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(data)
+                })
+                .then(response => response.json())
+                .then(data => alert(JSON.stringify(data)))
+                .catch(error => alert('Error: ' + error));
+            });
+        });
+    </script>
+</body>
+</html>
