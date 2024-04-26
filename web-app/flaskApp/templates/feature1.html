@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Posting Comparison</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <h1>Job Description Analysis</h1>
+    <form id="jobForm">
+        <label for="jobDescription">Enter job description:</label><br>
+        <textarea id="jobDescription" name="jobDescription" rows="10" cols="50" placeholder="Type the job description here..."></textarea><br>
+        <input type="submit" value="Submit">
+    </form>
+    <div id="results">
+        <!-- Results will be displayed here -->
+    </div>
+
+    <script>
+        $(document).ready(function() {
+            $('#jobForm').on('submit', function(e) {
+                e.preventDefault();  // Prevent the default form submission
+
+                var jobDescription = $('#jobDescription').val();
+                $.ajax({
+                    url: '/compare_job_posting',  // The URL to the Flask route
+                    type: 'POST',
+                    contentType: 'application/json',
+                    data: JSON.stringify({job_description: jobDescription}),
+                    dataType: 'json',
+                    success: function(data) {
+                        console.log(data);
+                        $('#results').html('<pre>' + JSON.stringify(data, null, 2) + '</pre>');
+                    },
+                    error: function(xhr, status, error) {
+                        console.log('Error: ' + error);
+                        $('#results').html('<p>An error occurred.</p>');
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
