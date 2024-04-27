@@ -94,7 +94,14 @@ def compare_job_posting():
         else:
             output["education"] = "average"
 
-    return jsonify(output)
+    summary_prompt = f"Convert this JSON into a natural language summary: {json.dumps(output)}"
+    summary_response = client.chat.completions.create(
+        messages=[{"role": "user", "content": summary_prompt}],
+        model="gpt-3.5-turbo"
+    )
+    summary_text = summary_response.choices[0].message.content.strip()
+
+    return jsonify({"summary": summary_text})
 
 
 if __name__ == '__main__':
