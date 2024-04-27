@@ -28,14 +28,14 @@
                     type: 'POST',
                     contentType: 'application/json',
                     data: JSON.stringify({job_description: jobDescription}),
-                    dataType: 'json',
+                    dataType: 'text',  // Expecting text in response, not JSON
                     success: function(data) {
                         console.log(data);
-                        $('#results').html('<pre>' + JSON.stringify(data, null, 2) + '</pre>');
+                        $('#results').html('<pre>' + data + '</pre>');  // Display text directly
                     },
                     error: function(xhr, status, error) {
                         console.log('Error: ' + error);
-                        $('#results').html('<p>An error occurred.</p>');
+                        $('#results').html('<p>An error occurred: ' + error + '</p>');  // Show error
                     }
                 });
             });

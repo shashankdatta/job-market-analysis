@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, request, jsonify, render_template, Response
 import json
 from openai import OpenAI
 import numbers
@@ -101,7 +101,7 @@ def compare_job_posting():
     )
     summary_text = summary_response.choices[0].message.content.strip()
 
-    return jsonify({"summary": summary_text})
+    return Response(summary_text, mimetype='text/plain')
 
 
 if __name__ == '__main__':
