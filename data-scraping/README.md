@@ -6,7 +6,7 @@ This is a job posting scrapper for indeed.com
 ```linux
 conda create -n scrapper python==3.10
 conda activate
-pip3 install -r requirement
+pip3 install -r requirement.txt
 ```
 
 ### Start Crawling
