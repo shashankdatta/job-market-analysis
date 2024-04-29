@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Skills Analysis</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <h1>Find Job Skills</h1>
+    <form id="jobForm">
+        <label for="roleRequest">Enter your job role description:</label><br>
+        <input type="text" id="roleRequest" name="roleRequest" placeholder="e.g., Data Analyst, Software Engineer...">
+        <input type="submit" value="Submit">
+    </form>
+    <div id="results">
+        <!-- Results will be displayed here -->
+    </div>
+
+    <script>
+        $(document).ready(function() {
+            $('#jobForm').on('submit', function(e) {
+                e.preventDefault();  // Prevent the default form submission
+                var roleRequest = $('#roleRequest').val();
+
+                $.ajax({
+                    url: '/get_job_skills_description',  // The URL to the Flask route
+                    type: 'POST',
+                    contentType: 'application/json',
+                    data: JSON.stringify({role_req: roleRequest}),
+                    dataType: 'text',  // Expecting text in response
+                    success: function(data) {
+                        // Display plain text directly
+                        $('#results').html('<pre>' + data + '</pre>');
+                    },
+                    error: function(xhr, status, error) {
+                        // Show error message
+                        $('#results').html('<p>An error occurred: ' + error + '</p>');
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

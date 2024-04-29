@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Finder</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <h1>Find Suitable Jobs</h1>
+    <form id="jobForm">
+        <label for="userRequest">Describe your desired job and skills:</label><br>
+        <textarea id="userRequest" name="userRequest" rows="4" cols="50" placeholder="E.g., I want a job in data analysis, skills include Python, SQL..."></textarea><br>
+        <input type="submit" value="Submit">
+    </form>
+    <div id="results">
+        <!-- Results will be displayed here -->
+    </div>
+
+    <script>
+        $(document).ready(function() {
+            $('#jobForm').on('submit', function(e) {
+                e.preventDefault(); // Prevent the default form submission
+                var userRequest = $('#userRequest').val();
+
+                $.ajax({
+                    url: '/find_jobs', // The URL to the Flask route
+                    type: 'POST',
+                    contentType: 'application/json',
+                    data: JSON.stringify({user_request: userRequest}),
+                    dataType: 'text', // Expecting text in response, not JSON
+                    success: function(data) {
+                        $('#results').html('<pre>' + data + '</pre>'); // Display plain text directly
+                    },
+                    error: function(xhr, status, error) {
+                        $('#results').html('<p>An error occurred: ' + error + '</p>'); // Show error message
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
