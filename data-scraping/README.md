@@ -20,6 +20,5 @@ export SCRAPFLY_KEY = 'your_api_key'
 ```linux
 python3 run.py
 ```
-By default, the program will scrape the 10 most recent job postings for software engineering positions in New York City from Indeed.com.
 
-For each job, you'll see job title, company name, salary range, requirements and job types.
+You can define POSITION, LOCATION and PAGES (number of web pages) you want to scrap from indeed.com in `run.py`.
