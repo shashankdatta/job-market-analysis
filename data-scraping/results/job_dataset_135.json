@@ -1,0 +1,410 @@
+[
+  {
+    "company name": "APTIVA CORP",
+    "job title": "Software Engineer (We offer H1B)",
+    "salary": "$60 - $80 an hour",
+    "skills": [
+      "Leadership",
+      "Oracle"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee mentoring program",
+      "Family leave",
+      "Flexible schedule",
+      "Food provided",
+      "Free health screenings",
+      "Green card sponsorship",
+      "Health insurance",
+      "Housing allowance",
+      "Internet reimbursement",
+      "Life insurance",
+      "Paid holidays",
+      "Paid training",
+      "Parental leave",
+      "Referral program",
+      "Relocation assistance",
+      "Tuition reimbursement",
+      "Visa sponsorship",
+      "Vision insurance",
+      "Wellness program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "SpectraMedix",
+    "job title": "Senior Software Engineer (Java/J2EE)",
+    "salary": "0",
+    "skills": [
+      "XML",
+      "Multithreading",
+      "J2EE",
+      "Natural language processing",
+      "Microsoft SQL Server",
+      "Spring",
+      "JUnit",
+      "JSP",
+      "OOP",
+      "Java",
+      "REST",
+      "JSON",
+      "Hibernate",
+      "Tomcat",
+      "Design patterns",
+      "Spring MVC"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Gym membership",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CoinList",
+    "job title": "Software Engineer - Builders",
+    "salary": "$175,000 - $215,000 a year",
+    "skills": [
+      "Ruby on Rails",
+      "Full-stack development",
+      "React",
+      "Open source contribution"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Bank of America",
+    "job title": "Senior Quantitative Finance Analyst, AML Software Engineer",
+    "salary": "$125,000 - $210,000 a year",
+    "skills": [
+      "NumPy",
+      "Git",
+      "Software development",
+      "Hadoop",
+      "Pandas",
+      "SDLC",
+      "DevOps",
+      "Data structures",
+      "Analysis skills",
+      "SciPy",
+      "Jenkins",
+      "Python"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Horizon Consulting Inc.",
+    "job title": "Software Developer",
+    "salary": "$96,866 a year",
+    "skills": [
+      "Computer science",
+      "Analysis skills"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Doctoral degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Cybertech",
+    "job title": "Angular UI Developer",
+    "salary": "$100,000 - $110,000 a year",
+    "skills": [
+      "HTML5",
+      "Angular",
+      "Front-end development",
+      "JavaScript",
+      "UI",
+      "AJAX",
+      "REST",
+      "CSS"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CapB InfoteK",
+    "job title": "Software Engineer - iOS",
+    "salary": "0",
+    "skills": [
+      "ASP.NET",
+      "Scripting",
+      "Mac OS",
+      "UI",
+      "Ruby on Rails",
+      "iOS",
+      "REST",
+      "Software architecture",
+      "PHP",
+      "Design patterns",
+      "AI",
+      "Shell Scripting",
+      "Swift"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "the NBA",
+    "job title": "Senior DevOps Engineer",
+    "salary": "$155,000 - $190,000 a year",
+    "skills": [
+      "GitHub",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "AWS",
+      "SAFe",
+      "Cloud infrastructure",
+      "Computer science",
+      "Kanban",
+      "High availability",
+      "DevOps",
+      "CI/CD",
+      "Leadership",
+      "Configuration management",
+      "Scrum",
+      "Project leadership",
+      "IT",
+      "Terraform",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Corporate America Business Solutions",
+    "job title": "Senior Software Engineers",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "XML",
+      "UNIX",
+      "PeopleSoft",
+      "Oracle"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NYC Careers",
+    "job title": "SENIOR CLOUD APPLICATION DEVELOPER",
+    "salary": "$75,000 - $120,000 a year",
+    "skills": [
+      "Azure",
+      "Analytics",
+      ".NET Core",
+      "Bootstrap",
+      "Angular",
+      "Data visualization",
+      "DevOps",
+      "Business analysis",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Associate's degree"
+    ],
+    "benefits": [
+      "Food provided",
+      "Loan forgiveness"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Sumas Corporation",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "Java",
+      "UNIX",
+      "ETL",
+      "Scala",
+      "Talend",
+      "Shell Scripting"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "AppLab Systems",
+    "job title": "Lead Software Developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Software troubleshooting",
+      "PL/SQL",
+      "Oracle"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "The Carlyle Group",
+    "job title": "Software Engineer, Global Credit Technologies",
+    "salary": "$165,000 - $175,000 a year",
+    "skills": [
+      "SQL",
+      "XML",
+      "Continuous integration",
+      "Financial services",
+      "TypeScript",
+      "Software development",
+      "Budgeting",
+      "Accounting",
+      "Data warehouse",
+      "SDLC",
+      "DevOps",
+      "Test automation",
+      "APIs",
+      "Data modeling",
+      "Private equity",
+      "Service-oriented architecture",
+      "ETL",
+      "Unit testing",
+      "Node.js",
+      "Natural language processing",
+      "Microsoft SQL Server",
+      "C#",
+      "Full-stack development",
+      "Visio",
+      "Snowflake",
+      "Angular",
+      "Leadership",
+      ".NET",
+      "IT",
+      "AI",
+      "JavaScript",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Life insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon.com Services LLC",
+    "job title": "Software Devlopment Engineer, FinTech Account Receivables Cash Applications",
+    "salary": "From $115,000 a year",
+    "skills": [
+      "Software development",
+      "AWS",
+      "Computer science",
+      "SDLC",
+      "Design patterns",
+      "Data structures",
+      "OOP"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Peraton",
+    "job title": "Senior ServiceNow Software Engineer - Remote (SECRET or above)",
+    "salary": "$112,000 - $179,000 a year",
+    "skills": [
+      "Backbone.js",
+      "Software implementation",
+      "AWS",
+      "HTML5",
+      "SDLC",
+      "DevOps",
+      "Java",
+      "Configuration management",
+      "Business requirements",
+      "Google Cloud Platform",
+      "Scripting",
+      "ITIL",
+      "Angular",
+      "Databases",
+      "ServiceNow",
+      "SOAP",
+      "REST",
+      "Computer networking",
+      "jQuery",
+      "JavaScript",
+      "CSS",
+      "Agile",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree",
+      "Doctoral degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

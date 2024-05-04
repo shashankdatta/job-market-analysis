@@ -1,0 +1,378 @@
+[
+  {
+    "company name": "JPMorgan Chase & Co",
+    "job title": "Senior Lead Software Engineer - Java/J2EE, Micro Services, AWS",
+    "salary": "$171,000 - $260,000 a year",
+    "skills": [
+      "Git",
+      "Financial services",
+      "J2EE",
+      "Microservices",
+      "AWS",
+      "Computer science",
+      "SDLC",
+      "Maven",
+      "Java",
+      "Application development",
+      "S3",
+      "Machine learning",
+      "PostgreSQL",
+      "Spring",
+      "Cloud infrastructure",
+      "REST",
+      "Jira",
+      "DynamoDB",
+      "System design",
+      "Kafka",
+      "AI",
+      "Terraform",
+      "Web services"
+    ],
+    "education": [],
+    "benefits": [
+      "Health insurance",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "JPMorgan Chase & Co",
+    "job title": "Java Senior Lead Software Engineer",
+    "salary": "$171,000 - $260,000 a year",
+    "skills": [
+      "Java",
+      "AWS",
+      "System design",
+      "Full-stack development",
+      "Application development",
+      "Computer science",
+      "SDLC",
+      "AI",
+      "Machine learning"
+    ],
+    "education": [],
+    "benefits": [
+      "Health insurance",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Matlen Silver",
+    "job title": "Core Python Developer (Jersey City- W2)",
+    "salary": "$60 - $68 an hour",
+    "skills": [
+      "Git",
+      "UNIX",
+      "Software development",
+      "Linux",
+      "Computer science",
+      "SDLC",
+      "Test automation",
+      "OOP",
+      "System design",
+      "SVN",
+      "Python",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Rockstar Games",
+    "job title": "Software Engineer C++",
+    "salary": "$101,100 - $141,600 a year",
+    "skills": [
+      "Software development",
+      "C++",
+      "Encryption",
+      "Debugging",
+      "SDLC",
+      "Analysis skills"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Bank of America",
+    "job title": "Software Engineer II",
+    "salary": "$88,300 - $143,000 a year",
+    "skills": [
+      "SQL",
+      "Data management",
+      "Continuous integration",
+      "Application development",
+      "Unit testing",
+      "Risk management",
+      "Python",
+      "DevOps",
+      "Agile",
+      "CI/CD",
+      "OOP"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Spotify",
+    "job title": "Senior Backend Engineer",
+    "salary": "$156,275 - $223,250 a year",
+    "skills": [
+      "Java"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Employee assistance program",
+      "Health insurance",
+      "Meals & incidentals stipend",
+      "Paid parental leave",
+      "Parental leave",
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "The New York Stem Cell Foundation Research Institute",
+    "job title": "Associate Software Engineer",
+    "salary": "$65,000 - $100,000 a year",
+    "skills": [
+      "SQL",
+      "Relational databases",
+      "Software development",
+      "C#",
+      "SDLC",
+      "Databases",
+      "Visual Basic",
+      "Entity Framework",
+      "Software troubleshooting",
+      ".NET",
+      "React"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "403(b)",
+      "403(b) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Columbia University",
+    "job title": "Software Engineer",
+    "salary": "$86,700 - $95,000 a year",
+    "skills": [
+      "SQL",
+      "Relational databases",
+      "Kubernetes",
+      "Linux",
+      "Oracle",
+      "Data structures",
+      "SAS",
+      "Databases",
+      "Quantitative research",
+      "Leadership",
+      "R",
+      "Statistical software",
+      "MATLAB",
+      "Data analysis skills",
+      "SPSS",
+      "Big data",
+      "Docker",
+      "Data science",
+      "Python",
+      "Information security"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": [
+      "Great communication skills.",
+      "Extensive knowledge of relational databases, SQL, and EHR data structures",
+      "Experience with FHIR and SMART standards, AWS cloud services, electronic health record data, software container programming (Kubernetes, Docker), technology, information management, relational database design and development, including programming, managing and maintaining data systems, and Experience using and maintaining systems across a variety of platforms (Windows, Linux, AWS, etc.)",
+      "Proficient with Python programming.",
+      "Related experience of statistical software, such as R, SAS or SPSS, Matlab and big data management processes. Knowledge of relational and other databases (Oracle, SQL, PL/SQ) is also required.",
+      "Prior experience in quantitative research.",
+      "Ability to work cross-functionally as part of a team, as well as an individual contributor and to think independently as well as perform tasks according to the directions of project leaders.",
+      "Must demonstrate good decision-making skills, be able to call out conflicting issues when they arise and possess knowledge of how and when to follow through on issues.",
+      "Good interpersonal skills and the ability to exercise leadership in data analysis activities as part of a research project team."
+    ]
+  },
+  {
+    "company name": "NYC Careers",
+    "job title": "Junior Software Engineer/Programmer",
+    "salary": "$65,000 a year",
+    "skills": [
+      "Data structures",
+      "Databases"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "High school diploma or GED"
+    ],
+    "benefits": [
+      "Loan forgiveness"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Warner Bros. Discovery",
+    "job title": "Senior Software Engineer",
+    "salary": "$109,900 - $204,100 a year",
+    "skills": [],
+    "education": [],
+    "benefits": [
+      "Disability insurance",
+      "Health insurance",
+      "Retirement plan",
+      "Wellness program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Apple",
+    "job title": "Sr. Software Engineer - Sports",
+    "salary": "$170,700 - $300,200 a year",
+    "skills": [
+      "Distributed systems",
+      "GraphQL",
+      "Computer science",
+      "Cassandra",
+      "Data structures",
+      "CI/CD",
+      "Java",
+      "Back-end development",
+      "Redis"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Employee stock purchase plan",
+      "Health insurance",
+      "RSU",
+      "Retirement plan"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Adobe",
+    "job title": "Staff Frontend Engineer",
+    "salary": "$154,000 - $278,800 a year",
+    "skills": [
+      "Web accessibility",
+      "Redux",
+      "TypeScript",
+      "GraphQL",
+      "Jest",
+      "React",
+      "JavaScript",
+      "CSS",
+      "UI"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NBCUniversal",
+    "job title": "Software Engineer, iOS/TVOS",
+    "salary": "$105,000 - $145,000 a year",
+    "skills": [
+      "Git",
+      "Continuous integration",
+      "Azure",
+      "Software deployment",
+      "Product management",
+      "iOS development",
+      "UX",
+      "iOS",
+      "Computer networking",
+      "Jenkins",
+      "Debugging",
+      "Objective-C",
+      "Design patterns",
+      "Swift",
+      "MVC",
+      "UI design"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Bank of America",
+    "job title": "Software Engineer",
+    "salary": "$97,700 - $178,000 a year",
+    "skills": [
+      "Relational databases",
+      "Continuous integration",
+      "C++",
+      "C#",
+      "DevOps",
+      "CI/CD",
+      "Databases",
+      "Java",
+      "Python"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CEDENT",
+    "job title": "Hiring Fresh Software Engineers",
+    "salary": "0",
+    "skills": [],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

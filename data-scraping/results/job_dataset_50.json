@@ -1,0 +1,414 @@
+[
+  {
+    "company name": "Adobe",
+    "job title": "Senior Software Engineer, Web Video/Audio Products & Services",
+    "salary": "$154,000 - $278,800 a year",
+    "skills": [
+      "TypeScript",
+      "Test-driven development",
+      "Ruby",
+      "Computer science",
+      "Product management",
+      "AI",
+      "APIs"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Metropolitan Transportation Authority",
+    "job title": "Specialist Software Engineer- Dev Ops",
+    "salary": "$110,748 - $130,719 a year",
+    "skills": [
+      "SQL",
+      "GitHub",
+      "AWS",
+      "C++",
+      "Encryption",
+      "Elasticsearch",
+      "Kanban",
+      "DevOps",
+      "Slack",
+      "GitLab",
+      "Java",
+      "Application development",
+      "Unit testing",
+      "Operating systems",
+      "Python",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "Azure",
+      "Software testing",
+      "Microsoft SQL Server",
+      "Database management",
+      "Ruby",
+      "Linux",
+      "Splunk",
+      "Product management",
+      "Microsoft Windows Server",
+      "Oracle",
+      "Ansible",
+      "Data structures",
+      "COBOL",
+      "CI/CD",
+      "ServiceNow",
+      ".NET",
+      "Authentication",
+      "Jenkins",
+      "Cloud computing",
+      "Docker",
+      "Web development",
+      "Puppet",
+      "JavaScript",
+      "Selenium",
+      "Terraform",
+      "Cybersecurity",
+      "Windows"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "UBS",
+    "job title": "Senior Software Engineer, Regulatory Reporting",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Technical writing",
+      "Software development",
+      "Spark",
+      "Data warehouse",
+      "Computer science",
+      "SDLC",
+      "Oracle",
+      "Databases",
+      "Regulatory reporting",
+      "Big data",
+      "Scala",
+      "Cloud computing",
+      "Python",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Broadridge",
+    "job title": "Cloud Engineer (Hybrid - Flexible Options)",
+    "salary": "0",
+    "skills": [
+      "AWS",
+      "Scripting",
+      "Cloud infrastructure",
+      "PowerShell",
+      "Computer networking",
+      "Scrum",
+      "S3",
+      "Python",
+      "Shell Scripting",
+      "Terraform",
+      "Bash",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon.com Services LLC",
+    "job title": "Sr. Technical Program Manager, Audio + Podcast Ads",
+    "salary": "From $119,000 a year",
+    "skills": [
+      "Software development",
+      "Project management",
+      "Program management",
+      "Product management"
+    ],
+    "education": [],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Demant",
+    "job title": "Azure Appl. Developer",
+    "salary": "0",
+    "skills": [
+      "Git",
+      "Software development",
+      "Azure",
+      "Computer science",
+      "DevOps",
+      "Analysis skills",
+      "CI/CD",
+      "SOAP",
+      "Java",
+      "Software troubleshooting",
+      ".NET",
+      "REST",
+      "Scrum",
+      "Application development",
+      "Design patterns",
+      "C",
+      "Agile",
+      "Microsoft Dynamics 365",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Marlabs",
+    "job title": "Python Developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "NumPy",
+      "Test cases",
+      "UNIX",
+      "Flask",
+      "AWS",
+      "Pandas",
+      "Snowflake",
+      "Django",
+      "APIs",
+      "Java",
+      "Big data",
+      "Data science",
+      "S3",
+      "Identity & access management",
+      "Python",
+      "Shell Scripting"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Marlabs",
+    "job title": "Mid Level Java Developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "GitHub",
+      "Java",
+      "Git",
+      "Microservices",
+      "Spring",
+      "Spring Boot",
+      "PL/SQL",
+      "IT"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Netlink",
+    "job title": "Senior Principal Software Engineer",
+    "salary": "$45 - $50 an hour",
+    "skills": [
+      "C++",
+      "Embedded software",
+      "Linux",
+      "C",
+      "Software development",
+      "Continuous improvement",
+      "Leadership",
+      "Robotics",
+      "Debugging",
+      "Mentoring"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": [
+      "Design, create, and maintain embedded software solutions for controlling machines, robotics, and automation tools.",
+      "Lead the architecture and implementation of device drivers for various hardware components, ensuring optimal performance, reliability, and efficiency.",
+      "Collaborate closely with cross-functional teams including hardware engineers, firmware engineers, and system architects to define requirements and ensure seamless integration.",
+      "Conduct thorough testing and debugging of embedded software to identify and resolve issues, ensuring high-quality and reliable operation.",
+      "Provide technical guidance and mentorship to junior engineers, fostering a culture of innovation and excellence within the team.",
+      "Stay abreast of emerging technologies, industry trends, and best practices in embedded systems development, robotics, and automation.",
+      "Participate in design reviews, code reviews, and other team activities to promote knowledge sharing and continuous improvement.",
+      "Contribute to the development of technical documentation, including specifications, design documents, and user manuals."
+    ]
+  },
+  {
+    "company name": "Marsh McLennan",
+    "job title": "Oracle PCMCS Developer",
+    "salary": "$60 - $80 an hour",
+    "skills": [
+      "Business requirements",
+      "Software troubleshooting",
+      "Data modeling",
+      "Metadata",
+      "Financial planning",
+      "Oracle",
+      "Analysis skills"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": [
+      "Collaborate with business stakeholders to understand their requirements and translate them into technical solutions using Oracle PCMCS.",
+      "Design and develop Oracle PCMCS applications, including data models, calculations, forms, reports, and dashboards.",
+      "Configure and customize Oracle PCMCS to meet specific business needs, including creating and maintaining metadata, dimensions, and hierarchies.",
+      "Develop and maintain data integration processes between Oracle PCMCS and other systems, ensuring data accuracy and consistency.",
+      "Perform testing and debugging of Oracle PCMCS applications to identify and resolve issues and ensure optimal performance.",
+      "Provide technical support and troubleshooting for Oracle PCMCS applications, working closely with end-users to address their needs and resolve any system-related problems.",
+      "Stay up-to-date with the latest Oracle PCMCS features and enhancements, and proactively identify opportunities to leverage them to improve our financial planning and analysis processes.",
+      "Collaborate with cross-functional teams, including finance, IT, and business intelligence, to ensure seamless integration and alignment of Oracle PCMCS with other systems and processes.",
+      "Document technical specifications, system configurations, and development processes to ensure knowledge transfer and maintain system documentation."
+    ]
+  },
+  {
+    "company name": "Spino Inc",
+    "job title": "Digital Electronics/Firmware Engineer",
+    "salary": "$125,000 - $160,000 a year",
+    "skills": [
+      "Firmware",
+      "Microcontrollers",
+      "C",
+      "FPGA",
+      "PCB"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Phadke Associates",
+    "job title": "Software Manager",
+    "salary": "0",
+    "skills": [
+      "Software development"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "E-IT Professionals",
+    "job title": "Scala Developer",
+    "salary": "$105,715.70 - $127,313.52 a year",
+    "skills": [
+      "AWS",
+      "Scala",
+      "Debugging",
+      "Software deployment",
+      "Front-end development"
+    ],
+    "education": [],
+    "benefits": [
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Compass",
+    "job title": "Senior iOS Software Engineer",
+    "salary": "$110,800 - $166,100 a year",
+    "skills": [
+      "Computer science",
+      "iOS development",
+      "Test automation",
+      "Maven",
+      "CI/CD",
+      "Leadership",
+      "iOS",
+      "REST",
+      "RxSwift",
+      "Scrum",
+      "Unit testing",
+      "Design patterns",
+      "Mentoring",
+      "Swift",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee assistance program",
+      "Flexible spending account",
+      "Health insurance",
+      "Parental leave",
+      "Pet insurance",
+      "RSU",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Canfield Scientific",
+    "job title": "Software Engineering/Development: Clinical Software Web Developer II",
+    "salary": "0",
+    "skills": [
+      "AJAX",
+      "Relational databases",
+      "Software development",
+      "Web design",
+      "HTML5",
+      "Microsoft SQL Server",
+      "MySQL",
+      "Computer science",
+      "APIs",
+      "Databases",
+      "SOAP",
+      "REST",
+      "JSON",
+      "PHP",
+      "jQuery",
+      "JavaScript",
+      "CSS",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

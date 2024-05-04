@@ -1,0 +1,407 @@
+[
+  {
+    "company name": "New York City Housing Development Corporation",
+    "job title": "IT Software Developer",
+    "salary": "$100,000 - $120,000 a year",
+    "skills": [
+      "SQL",
+      "SharePoint",
+      "Software development",
+      "HTML5",
+      "Azure",
+      "C#",
+      "Project management",
+      "IT project management",
+      "Computer science",
+      "Business analysis",
+      "OOP",
+      "Visual Basic",
+      "Software troubleshooting",
+      ".NET",
+      "Data analysis skills",
+      "UI development",
+      "JavaScript",
+      "CSS",
+      "Microsoft Dynamics 365"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Loan forgiveness",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "MUFG Bank, Ltd.",
+    "job title": "Mobile Engineer",
+    "salary": "$110,000 - $145,000 a year",
+    "skills": [
+      "Intune",
+      "iOS",
+      "Mac OS",
+      "Analysis skills",
+      "VPN"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Kavayah Solutions",
+    "job title": "Software Developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "AJAX",
+      "HTML5",
+      "Microsoft SQL Server",
+      "APIs",
+      "SOAP",
+      "REST",
+      "jQuery",
+      "MVC",
+      "CSS"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ILOGIC INC",
+    "job title": "SOFTWARE DEVELOPERS",
+    "salary": "0",
+    "skills": [
+      "ASP.NET",
+      "HTML5",
+      "Microsoft SQL Server",
+      "C#",
+      "Software deployment",
+      "SDLC",
+      "APIs",
+      "SSIS",
+      "ServiceNow",
+      ".NET",
+      "Jira",
+      "System testing",
+      "MVC",
+      "CSS",
+      "Windows"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "UBS",
+    "job title": "Senior Java Engineer - Coverage & Advisory, Global Banking",
+    "salary": "$135,000 - $165,000 a year",
+    "skills": [
+      "SQL",
+      "Azure",
+      "Apache",
+      "Spring",
+      "JUnit",
+      "Computer science",
+      "Test automation",
+      "Data structures",
+      "CI/CD",
+      "OOP",
+      "Java",
+      "REST",
+      "Hibernate",
+      "Tomcat",
+      "Kafka",
+      "JDBC",
+      "Design patterns",
+      "React",
+      "Selenium",
+      "JavaScript",
+      "UML"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Sigma Computing",
+    "job title": "Senior Software Engineer - Fullstack",
+    "salary": "$180,000 - $220,000 a year",
+    "skills": [
+      "SQL",
+      "Distributed systems",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "GraphQL",
+      "Rust",
+      "AWS",
+      "Cloud infrastructure",
+      "Computer science",
+      "APIs",
+      "Go",
+      "Analysis skills",
+      "Data analytics"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Flexible schedule",
+      "Flexible spending account",
+      "Health insurance",
+      "Stock options"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Block",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [],
+    "education": [],
+    "benefits": [
+      "AD&D insurance",
+      "Caregiver leave",
+      "Dental insurance",
+      "Employee stock purchase plan",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Life insurance",
+      "Paid parental leave",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "Retirement plan",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Meta",
+    "job title": "Research Scientist - FAIR",
+    "salary": "$117,000 - $173,000 a year",
+    "skills": [
+      "PyTorch",
+      "Research",
+      "GitHub",
+      "Natural language processing",
+      "TensorFlow",
+      "C++",
+      "Computer science",
+      "Deep learning",
+      "C",
+      "AI",
+      "Python",
+      "Machine learning",
+      "Open source contribution"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Experian",
+    "job title": "Staff Software Engineer - Ruby, Experian Consumer Services (remote)",
+    "salary": "$107,024 - $192,644 a year",
+    "skills": [
+      "Node.js",
+      "Elasticsearch",
+      "Ruby",
+      "MySQL",
+      "Computer science",
+      "Product management",
+      "APIs",
+      "REST",
+      "Data modeling",
+      "Unit testing",
+      "React",
+      "Agile",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Bereavement leave",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Referral program",
+      "Tuition reimbursement",
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Kensington Information Group",
+    "job title": "SOFTWARE ENGINEER",
+    "salary": "0",
+    "skills": [
+      "Business requirements",
+      "AJAX",
+      "Salesforce",
+      "HTML5",
+      "Oracle",
+      "JavaScript",
+      "LoadRunner"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Ramp Financial",
+    "job title": "Staff Software Engineer | Backend",
+    "salary": "0",
+    "skills": [
+      "Leadership",
+      "Java",
+      "Team management",
+      "Python",
+      "Go",
+      "Purchasing"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Parental leave",
+      "Pet insurance",
+      "Vision insurance",
+      "Work from home stipend"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "DataPrint Technology, Inc",
+    "job title": "EMBEDDED CHIP ENGINEER",
+    "salary": "$35 - $40 an hour",
+    "skills": [
+      "Firmware",
+      "C++",
+      "Encryption",
+      "Signal processing",
+      "Embedded software",
+      "C"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Visionet Systems",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "GitHub",
+      "AJAX",
+      "Git",
+      "Software development",
+      "HTML5",
+      "Computer science",
+      "Web accessibility",
+      "SOAP",
+      "REST",
+      "WCAG",
+      "Jenkins",
+      "SVN",
+      "Less",
+      "jQuery",
+      "JavaScript",
+      "CSS",
+      "SASS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "StationMD",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "PostgreSQL",
+      "SaaS",
+      "Ubuntu",
+      "AWS",
+      "NIST standards",
+      "MySQL",
+      "Linux",
+      "SDLC",
+      "OOP",
+      "Software troubleshooting",
+      "PHP",
+      "Operating systems",
+      "Waterfall",
+      "Python",
+      "JavaScript",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "21st Century Software Technologies, Inc.",
+    "job title": "VSE Software Engineer II",
+    "salary": "0",
+    "skills": [
+      "Debugging",
+      "Operating systems",
+      "Analysis skills",
+      "Agile",
+      "Middleware"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

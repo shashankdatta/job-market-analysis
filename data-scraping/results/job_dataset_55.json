@@ -1,0 +1,421 @@
+[
+  {
+    "company name": "Broadridge",
+    "job title": "Sr z/OS Network Software Systems Programmer (Hybrid - Flexible Options)",
+    "salary": "0",
+    "skills": [
+      "Encryption",
+      "System administration",
+      "Customer service",
+      "TCP",
+      "TCP/IP",
+      "Analysis skills",
+      "Disaster recovery",
+      "Mainframe development",
+      "Enterprise software",
+      "SSL"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Empire State Development, NYS",
+    "job title": "Project Manager, Digital Game Development",
+    "salary": "$67,000 - $70,000 a year",
+    "skills": [
+      "Economic development",
+      "LIHTC",
+      "Project management",
+      "Business development",
+      "Analysis skills"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Rippling",
+    "job title": "Staff Software Engineer, Data Bridge",
+    "salary": "$162,000 - $283,500 a year",
+    "skills": [
+      "SQL",
+      "AWS",
+      "Spark",
+      "Design patterns",
+      "Python",
+      "High availability",
+      "Django",
+      "APIs",
+      "MongoDB"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Invonto",
+    "job title": "Sr. Computer Vision and Machine Learning Engineer (hybrid)",
+    "salary": "$75,000 - $90,000 a year",
+    "skills": [
+      "PyTorch",
+      "PostgreSQL",
+      "AWS",
+      "TensorFlow",
+      "Database management",
+      "Full-stack development",
+      "APIs",
+      "Deep learning",
+      "Robotics",
+      "Computer vision",
+      "Object detection",
+      "Python",
+      "AI",
+      "Machine learning"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Infosys",
+    "job title": "Mainframe Developer",
+    "salary": "0",
+    "skills": [
+      "Software development",
+      "Mainframe development",
+      "OS Kernels",
+      "Continuous improvement",
+      "SDLC",
+      "IT",
+      "CICS",
+      "DB2",
+      "Analysis skills",
+      "COBOL",
+      "Banking"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Ferring Pharmaceuticals, Inc.",
+    "job title": "Senior Analyst, Gross-to-Net (GTN)",
+    "salary": "$95,000 - $145,000 a year",
+    "skills": [
+      "SAP",
+      "Accounting",
+      "Visio",
+      "EDI",
+      "GAAP",
+      "Data structures",
+      "SAP S/4HANA",
+      "SAP Materials Management",
+      "Lean Six Sigma"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "JPMorgan Chase & Co",
+    "job title": "Senior Lead Software Engineer - Product Acceleration Garage",
+    "salary": "$171,000 - $260,000 a year",
+    "skills": [
+      "NoSQL",
+      "Financial services",
+      "Software development",
+      "AWS",
+      "Encryption",
+      "Computer science",
+      "SDLC",
+      "APIs",
+      "Java",
+      "Application development",
+      "Negotiation",
+      "Risk management",
+      "Python",
+      "Information security",
+      "Machine learning",
+      "Google Cloud Platform",
+      "Azure",
+      "Prompt engineering",
+      "REST",
+      "System design",
+      "Big data",
+      "AI",
+      "React",
+      "Banking"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Atlantic Health System",
+    "job title": "Senior DevOps Engineer - Systems Engineer III",
+    "salary": "0",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "PostgreSQL",
+      "Git",
+      "Flask",
+      "Google Cloud Platform",
+      "AWS",
+      "Azure",
+      "C#",
+      "Cloud infrastructure",
+      "Computer science",
+      "Product management",
+      "DevOps",
+      "APIs",
+      "Go",
+      "HTTPS",
+      "CI/CD",
+      "Java",
+      "DNS",
+      "Identity & access management",
+      "Python"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon Development Center U.S., Inc.",
+    "job title": "Applied Scientist III, AWS AI/ML",
+    "salary": "From $136,000 a year",
+    "skills": [
+      "Research",
+      "Natural language processing",
+      "AWS",
+      "C++",
+      "Deep learning",
+      "Java",
+      "S3",
+      "AI",
+      "Python",
+      "Machine learning"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "JPMorgan Chase & Co",
+    "job title": "Software Engineer II - AI/ML",
+    "salary": "$114,000 - $140,000 a year",
+    "skills": [
+      "PyTorch",
+      "TypeScript",
+      "AWS",
+      "Elasticsearch",
+      "Java",
+      "Debugging",
+      "Python",
+      "Redis",
+      "Machine learning",
+      "PostgreSQL",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "TensorFlow",
+      "Azure",
+      "Scripting",
+      "Cloud infrastructure",
+      "Cassandra",
+      "Deep learning",
+      "CI/CD",
+      "DynamoDB",
+      "Web development",
+      "Docker",
+      "AI",
+      "React",
+      "JavaScript",
+      "Terraform",
+      "Vue.js"
+    ],
+    "education": [],
+    "benefits": [
+      "Health insurance",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Meta",
+    "job title": "Software Engineer, Video - Reality Labs",
+    "salary": "$146,994 - $208,000 a year",
+    "skills": [
+      "Software development",
+      "C++",
+      "Computer science",
+      "APIs",
+      "Drafting",
+      "Computer networking",
+      "SDKs",
+      "C",
+      "Machine learning"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Aptiva Corp",
+    "job title": "SOFTWARE ENGINEERS",
+    "salary": "0",
+    "skills": [
+      "Jira",
+      "Azure",
+      "AWS",
+      "Microsoft SQL Server",
+      "Docker",
+      "Splunk"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NBCUniversal",
+    "job title": "SAP BTP Senior Staff Engineer",
+    "salary": "$150,000 - $190,000 a year",
+    "skills": [
+      "Git",
+      "SFTP",
+      "SAP",
+      "Informatica",
+      "APIs",
+      "AMQP",
+      "HTTPS",
+      "CI/CD",
+      "Leadership",
+      "Java",
+      "Solution architecture",
+      "SAP S/4HANA",
+      "REST",
+      "SAP ERP",
+      "Application development",
+      "ABAP",
+      "Identity & access management",
+      "Web services"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Creed Infotech",
+    "job title": "Oracle Developer ONLY W2",
+    "salary": "$87,155.63 - $104,961.62 a year",
+    "skills": [
+      "Performance tuning",
+      "SQL",
+      "Tableau",
+      "Debugging",
+      "PL/SQL",
+      "Computer science",
+      "Oracle",
+      "Python",
+      "Data structures",
+      "Analysis skills"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Zenith Services",
+    "job title": "Sr. Java/SQL Developer",
+    "salary": "$47.57 an hour",
+    "skills": [
+      "SQL",
+      "Git",
+      "J2EE",
+      "Microsoft SQL Server",
+      "Spring",
+      "JPA",
+      "Spring Boot",
+      "Computer science",
+      "CI/CD",
+      "Ext JS",
+      "Java",
+      "Weblogic",
+      "Jenkins",
+      "Web development",
+      "JavaScript",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

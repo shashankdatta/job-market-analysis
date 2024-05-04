@@ -1,0 +1,365 @@
+[
+  {
+    "company name": "Viam",
+    "job title": "Product Manager",
+    "salary": "$156,000 - $211,000 a year",
+    "skills": [
+      "Product development",
+      "Robotics",
+      "Internet of things",
+      "Computer science",
+      "Product management",
+      "APIs"
+    ],
+    "education": [],
+    "benefits": [
+      "Commuter assistance",
+      "Dental insurance",
+      "Food provided",
+      "Health insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "OXMAN",
+    "job title": "Full-Stack Embedded Systems Engineer",
+    "salary": "$75,000 - $138,000 a year",
+    "skills": [
+      "SQL",
+      "C++",
+      "Project management",
+      "Java",
+      "Manufacturing",
+      "Robotics",
+      "HR sourcing",
+      "Immigration law",
+      "C",
+      "Python"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Fidelity Investments",
+    "job title": "Director of Software Engineering - APIs",
+    "salary": "$103,000 - $218,000 a year",
+    "skills": [
+      "Business requirements",
+      "Distributed systems",
+      "AWS",
+      "Spring",
+      "Spring Boot",
+      "Computer science",
+      "APIs",
+      "Analysis skills",
+      "CI/CD",
+      "Java"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Loan repayment program",
+      "Paid time off",
+      "Parental leave",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Caden",
+    "job title": "DevOps Engineer - Platform Operations",
+    "salary": "$120,000 - $135,000 a year",
+    "skills": [
+      "Performance tuning",
+      "NoSQL",
+      "Distributed systems",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "AWS",
+      "DevOps",
+      "MongoDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Commuter assistance",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon.com Services LLC",
+    "job title": "Software Devlopment Engineer, FinTech Account Receivables Cash Applications",
+    "salary": "From $115,000 a year",
+    "skills": [
+      "Software development",
+      "AWS",
+      "Computer science",
+      "SDLC",
+      "Design patterns",
+      "Data structures",
+      "OOP"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Plaxonic Technologies",
+    "job title": "Frontend Developer",
+    "salary": "$100,000 - $125,000 a year",
+    "skills": [
+      "Front-end development",
+      "SQL",
+      "AJAX",
+      "APIs",
+      "WebSphere",
+      "Java",
+      "Data modeling",
+      "Hibernate",
+      "Tomcat",
+      "SVN",
+      "PL/SQL",
+      "Design patterns",
+      "Kubernetes",
+      "Spring",
+      "JSP",
+      "Angular",
+      "Oracle",
+      "Data structures",
+      "REST",
+      "JSON",
+      "JDBC",
+      "Docker",
+      "Spring MVC",
+      "MVC",
+      "JavaScript",
+      "Web services"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Cybertech",
+    "job title": "Angular UI Developer",
+    "salary": "$100,000 - $110,000 a year",
+    "skills": [
+      "HTML5",
+      "Angular",
+      "Front-end development",
+      "JavaScript",
+      "UI",
+      "AJAX",
+      "REST",
+      "CSS"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "iOasiZ",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Horizon Consulting Inc.",
+    "job title": "Software Developer",
+    "salary": "$96,866 a year",
+    "skills": [
+      "Computer science",
+      "Analysis skills"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Doctoral degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Hana Cloud Solutions LLC",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "Microsoft SQL Server",
+      "Spring",
+      "Full-stack development",
+      "Angular",
+      "Oracle",
+      "Ext JS",
+      "Java",
+      "IT",
+      "React",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Genisis Technology Solutions",
+    "job title": "Core Java Developer",
+    "salary": "$40.26 - $45.53 an hour",
+    "skills": [
+      "Spring",
+      "Ansible",
+      "Java",
+      "Hibernate",
+      "Shell Scripting",
+      "Database management",
+      "MySQL",
+      "Computer science",
+      "Software troubleshooting",
+      ".NET",
+      "Computer networking",
+      "Web development",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Audible",
+    "job title": "Software Development Engineer, Personalization",
+    "salary": "0",
+    "skills": [
+      "NoSQL",
+      "Distributed systems",
+      "Software development",
+      "AWS",
+      "C++",
+      "C#",
+      "Spark",
+      "Computer science",
+      "Continuous improvement",
+      "Data structures",
+      "Analysis skills",
+      "CI/CD",
+      "OOP",
+      "Leadership",
+      "Java",
+      "Kafka",
+      "Big data",
+      "Unit testing",
+      "Design patterns"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Abridge",
+    "job title": "Staff Software Engineer, Full Stack",
+    "salary": "$200,000 - $225,000 a year",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "Google Cloud Platform",
+      "Full-stack development",
+      "AI",
+      "React",
+      "Machine learning"
+    ],
+    "education": [
+      "Doctoral degree"
+    ],
+    "benefits": [
+      "Flexible schedule",
+      "Paid parental leave",
+      "Parental leave",
+      "Unlimited paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CoinList",
+    "job title": "Software Engineer - Builders",
+    "salary": "$175,000 - $215,000 a year",
+    "skills": [
+      "Ruby on Rails",
+      "Full-stack development",
+      "React",
+      "Open source contribution"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Softova, Inc.",
+    "job title": "Senior Software Engineer",
+    "salary": "0",
+    "skills": [
+      "Java",
+      "J2EE",
+      "Computer science",
+      "Struts"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

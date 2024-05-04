@@ -1,0 +1,440 @@
+[
+  {
+    "company name": "Quest Diagnostics",
+    "job title": "Senior Specialist, Release Management",
+    "salary": "0",
+    "skills": [
+      "GitHub",
+      "Google Cloud Platform",
+      "Azure",
+      "AWS",
+      "SDLC",
+      "APIs",
+      "GitLab",
+      "Leadership",
+      "Jira",
+      "Confluence",
+      "Scrum",
+      "Release management",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Barclays",
+    "job title": "Middleware Engineer/Developer",
+    "salary": "0",
+    "skills": [
+      "Kubernetes",
+      "SRE",
+      "AWS",
+      "Project management methodology",
+      "Chef",
+      "Ansible",
+      "DevOps",
+      "Go",
+      "CI/CD",
+      "PaaS",
+      "Jira",
+      "Confluence",
+      "Jenkins",
+      "Docker",
+      "Business continuity planning",
+      "IT",
+      "Python",
+      "Agile"
+    ],
+    "education": [
+      "Associate's degree",
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Referral program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "TikTok",
+    "job title": "Senior Machine Learning Engineer - Data Curation - AIGC, TikTok Monetization GenAI",
+    "salary": "$194,000 - $355,000 a year",
+    "skills": [
+      "PyTorch",
+      "Distributed systems",
+      "Machine learning frameworks",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "AWS",
+      "Project management",
+      "Spark",
+      "Linux",
+      "Deep learning",
+      "Cloud computing",
+      "Docker",
+      "Python",
+      "Distributed computing",
+      "AI",
+      "Machine learning"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "AD&D insurance",
+      "Disability insurance",
+      "Employee assistance program",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Paid parental leave",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "RSU",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "PulsePoint",
+    "job title": "Sr. Site Reliability Engineer (U.S.)",
+    "salary": "0",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "Memcached",
+      "Git",
+      "Continuous integration",
+      "SRE",
+      "AWS",
+      "MySQL",
+      "Virtualization",
+      "TCP",
+      "TCP/IP",
+      "Martech",
+      "Python",
+      "Redis",
+      "CentOS",
+      "PostgreSQL",
+      "Google Cloud Platform",
+      "Scripting",
+      "Ruby",
+      "Linux",
+      "Cassandra",
+      "MongoDB",
+      "Databases",
+      "PKI",
+      "DNS",
+      "Jenkins",
+      "Docker",
+      "Puppet",
+      "Load balancing",
+      "IT",
+      "Shell Scripting",
+      "Bash"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Adoption assistance",
+      "Commuter assistance",
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "Referral program",
+      "Tuition reimbursement",
+      "Vision insurance",
+      "Wellness program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "QSS",
+    "job title": "Salesforce Marketing Cloud Engineer",
+    "salary": "$120,000 - $130,000 a year",
+    "skills": [
+      "Tableau",
+      "Marketing",
+      "Test-driven development",
+      "Software development",
+      "Salesforce",
+      "Marketing automation",
+      "Operating systems",
+      "SDLC",
+      "CI/CD",
+      "Salesforce Marketing Cloud"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ANB Sourcing LLC",
+    "job title": "Golang Developer || Berkeley Heights, NJ || only W2 ( NO C2C)",
+    "salary": "$55 - $60 an hour",
+    "skills": [
+      "PostgreSQL",
+      "Software development",
+      "gRPC",
+      "Go"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Franklin Templeton Investments",
+    "job title": "Full Stack Developer",
+    "salary": "$128,000 - $151,800 a year",
+    "skills": [
+      "Continuous integration",
+      "TypeScript",
+      "Node.js",
+      "Software development",
+      "AWS",
+      "Asset management",
+      "Full-stack development",
+      "DevOps",
+      "APIs",
+      "MongoDB",
+      "REST",
+      "Jira",
+      "Confluence",
+      "Unit testing",
+      "Python",
+      "IT",
+      "React",
+      "Agile",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "On-site gym",
+      "Paid time off",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Chubb",
+    "job title": "Software Engineering Skills Academy Leader",
+    "salary": "$189,000 a year",
+    "skills": [
+      "Leadership",
+      "Financial services",
+      "Labor & delivery",
+      "Relationship management",
+      "Customer service",
+      "Training & development"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Arch Capital Group Ltd.",
+    "job title": "Director, Software Engineering - Agile Program Manager for Interoperability Layer Team (Hybrid)",
+    "salary": "0",
+    "skills": [
+      "Leadership",
+      "Java",
+      "Software development",
+      "SDLC",
+      "Test automation",
+      "Business analysis",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Store No. 8",
+    "job title": "Senior, Software Engineer (Simulation)",
+    "salary": "$108,000 - $216,000 a year",
+    "skills": [
+      "Web accessibility",
+      "Leadership",
+      "WCAG",
+      "Systems engineering",
+      "Mentoring"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Family leave",
+      "Health insurance",
+      "Life insurance",
+      "Military leave",
+      "Paid jury duty",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Cognizant Technology Solutions",
+    "job title": "AEM Backend Developer",
+    "salary": "0",
+    "skills": [
+      "Adobe Analytics",
+      "Adobe Experience Manager",
+      "Adobe Target",
+      "Cloud architecture",
+      "Digital marketing",
+      "Adobe Marketing",
+      "Social media management"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee stock purchase plan",
+      "Health insurance",
+      "Life insurance",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Data Inc",
+    "job title": "C++ Developer",
+    "salary": "$70 - $75 an hour",
+    "skills": [
+      "C++",
+      "AJAX",
+      "Git",
+      "Software development",
+      "Web design",
+      "JSP",
+      "Website maintenance",
+      "Maven"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Intone Networks",
+    "job title": "Software Engineer with heavy development and some system administration",
+    "salary": "0",
+    "skills": [
+      "Git",
+      "Node.js",
+      "J2EE",
+      "Software development",
+      "Microservices",
+      "FileNet",
+      "AWS",
+      "HTML5",
+      "Microsoft SQL Server",
+      "Spring",
+      "Spring Boot",
+      "Full-stack development",
+      "APIs",
+      "SOAP",
+      "Java",
+      ".NET",
+      "REST",
+      "Docker",
+      "MVC",
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "IPS especialistas en RH",
+    "job title": "Desarrollador Apache Kafka - Bilingüe",
+    "salary": "$100,000 a year",
+    "skills": [
+      "SQL",
+      "Java",
+      "Relational databases",
+      "C++",
+      "C#",
+      "Kafka",
+      "PHP",
+      "C",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Cognizant Technology Solutions",
+    "job title": "AEM Front End Developer",
+    "salary": "0",
+    "skills": [
+      "Leadership",
+      "Design patterns",
+      "UI development",
+      "React",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee stock purchase plan",
+      "Health insurance",
+      "Life insurance",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

@@ -1,0 +1,388 @@
+[
+  {
+    "company name": "NovoInvent",
+    "job title": "ANDROID DEVELOPER",
+    "salary": "0",
+    "skills": [
+      "Git",
+      "Multithreading",
+      "SDLC",
+      "Databases",
+      "OOP",
+      "Android",
+      "SVN",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "TRA'BIAN ENTERPRISES",
+    "job title": "FRONT END APPLICATION DEVELOPER",
+    "salary": "0",
+    "skills": [
+      "Front-end development",
+      "React",
+      "UI"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "United IT",
+    "job title": "Software Developer / Java Developer (Multiple openings)",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "XML",
+      "AJAX",
+      "J2EE",
+      "Hadoop",
+      "HTML5",
+      "C++",
+      "SDLC",
+      "Java",
+      "Hibernate",
+      "ETL",
+      "PL/SQL",
+      "XHTML",
+      "Relational databases",
+      "DHTML",
+      "Spring",
+      "Spring Boot",
+      "JSP",
+      "Analysis skills",
+      "SOAP",
+      "REST",
+      "JSON",
+      "JDBC",
+      "jQuery",
+      "Spring MVC",
+      "JavaScript",
+      "CSS",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Cognizant Technology Solutions",
+    "job title": "AEM Backend Developer",
+    "salary": "0",
+    "skills": [
+      "Adobe Analytics",
+      "Adobe Experience Manager",
+      "Adobe Target",
+      "Cloud architecture",
+      "Digital marketing",
+      "Adobe Marketing",
+      "Social media management"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee stock purchase plan",
+      "Health insurance",
+      "Life insurance",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Data Inc",
+    "job title": "C++ Developer",
+    "salary": "$70 - $75 an hour",
+    "skills": [
+      "C++",
+      "AJAX",
+      "Git",
+      "Software development",
+      "Web design",
+      "JSP",
+      "Website maintenance",
+      "Maven"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Nb Ventures Inc",
+    "job title": "Senior Software Engineer - Interfaces",
+    "salary": "0",
+    "skills": [
+      "ASP.NET",
+      "WCF",
+      "HTML5",
+      "Microsoft SQL Server",
+      "C#",
+      "Angular",
+      "SDLC",
+      "Oracle",
+      "MongoDB",
+      "OOP",
+      ".NET",
+      "jQuery",
+      "JavaScript",
+      "CSS",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ConnectOne Bank",
+    "job title": "Cloud Engineer",
+    "salary": "0",
+    "skills": [
+      "Cloud architecture",
+      "Kubernetes",
+      "AWS",
+      "Azure",
+      "Scripting",
+      "Cloud infrastructure",
+      "PowerShell",
+      "Computer science",
+      "Virtualization",
+      "DevOps",
+      "GitLab",
+      "CI/CD",
+      "Jenkins",
+      "Cloud computing",
+      "Docker",
+      "Python",
+      "IT",
+      "Shell Scripting",
+      "Terraform",
+      "Bash"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Benefits from day one",
+      "Dental insurance",
+      "Employee assistance program",
+      "Employee discount",
+      "Health insurance",
+      "Tuition reimbursement",
+      "Vision insurance",
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Capgemini",
+    "job title": "Développeuse/ Développeur Java fullstack - BAYONNE",
+    "salary": "0",
+    "skills": [],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "IPG Health",
+    "job title": "Sr Developer",
+    "salary": "$90,000 - $140,000 a year",
+    "skills": [
+      "SQL",
+      "Integration testing",
+      "Cloud architecture",
+      "Azure",
+      "Scripting",
+      "C#",
+      "SOX",
+      "Workday",
+      "DevOps",
+      "APIs",
+      "Software troubleshooting",
+      ".NET",
+      "Enterprise software",
+      "PeopleSoft",
+      "Design patterns",
+      "Python"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Chubb",
+    "job title": "Software Engineering Skills Academy Leader",
+    "salary": "$189,000 a year",
+    "skills": [
+      "Leadership",
+      "Financial services",
+      "Labor & delivery",
+      "Relationship management",
+      "Customer service",
+      "Training & development"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Athreya",
+    "job title": "IT Professional Software Build/Devops Engineer",
+    "salary": "0",
+    "skills": [
+      "Jira",
+      "Visual Studio",
+      "Perforce",
+      "Jenkins",
+      "Visio",
+      "Linux",
+      "DevOps",
+      "Perl"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Intone Networks",
+    "job title": "Drupal/Open Source Developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Memcached",
+      "GitHub",
+      "XML",
+      "Git",
+      "Continuous integration",
+      "AJAX",
+      "Backbone.js",
+      "AWS",
+      "HTML5",
+      "MySQL",
+      "SDLC",
+      "Perl",
+      "Visual Basic",
+      "Ruby on Rails",
+      "Responsive web design",
+      "Back-end development",
+      "LAMP stack",
+      "Configuration management",
+      "Operating systems",
+      "Front-end development",
+      "Python",
+      "Drupal",
+      "Redis",
+      "XHTML",
+      "PostgreSQL",
+      "Node.js",
+      "UNIX",
+      "Microsoft SQL Server",
+      "Linux",
+      "WordPress",
+      "Software deployment",
+      "Angular",
+      "Oracle",
+      "OOP",
+      "Leadership",
+      "REST",
+      "Jira",
+      "PHP",
+      "jQuery",
+      "IT",
+      "JavaScript",
+      "CSS",
+      "Windows"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Staxa Technologies",
+    "job title": "Software Developer",
+    "salary": "0",
+    "skills": [
+      "XML",
+      "Java",
+      "Test-driven development",
+      "J2EE",
+      "Spring",
+      "JUnit",
+      "Unit testing",
+      "Test automation",
+      "JavaScript",
+      "DB2",
+      "OOP"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Tek Ninjas",
+    "job title": "Node JS Developer",
+    "salary": "0",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "Authentication",
+      "Service-oriented architecture",
+      "GraphQL",
+      "Unit testing",
+      "APIs",
+      "Analysis skills",
+      "CI/CD",
+      "OOP"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Hovione",
+    "job title": "Global Automation Engineer",
+    "salary": "0",
+    "skills": [
+      "CAD"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

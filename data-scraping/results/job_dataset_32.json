@@ -1,0 +1,401 @@
+[
+  {
+    "company name": "BDG",
+    "job title": "Senior Staff Software Engineer (Rails)",
+    "salary": "$170,000 - $180,000 a year",
+    "skills": [
+      "Ruby on Rails",
+      "ERP systems",
+      "DevOps",
+      "Analysis skills"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Rippling",
+    "job title": "Senior Software Engineer, Identity Platform",
+    "salary": "$135,000 - $236,250 a year",
+    "skills": [
+      "AWS",
+      "Identity & access management",
+      "SSO",
+      "Mentoring",
+      "Python",
+      "React",
+      "Django",
+      "Go",
+      "MongoDB"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "GP-Technologies",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "Software troubleshooting"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "GalaxE.Solutions",
+    "job title": "Software Engineer- Java",
+    "salary": "0",
+    "skills": [
+      "GitHub",
+      "J2EE",
+      "Microservices",
+      "AWS",
+      "MySQL",
+      "Kanban",
+      "Maven",
+      "Java",
+      "Hibernate",
+      "Machine learning",
+      "Relational databases",
+      "ZooKeeper",
+      "Azure",
+      "Spring",
+      "Spring Boot",
+      "JUnit",
+      "Software deployment",
+      "CI/CD",
+      "MongoDB",
+      "Databases",
+      "REST",
+      "Scrum",
+      "Jenkins",
+      "Kafka",
+      "AI",
+      "Spring MVC",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Kliger-Weiss Infosystems Inc",
+    "job title": "Senior React Developer",
+    "salary": "$140,000 - $150,000 a year",
+    "skills": [
+      "Technical writing",
+      "Node.js",
+      "Scrum",
+      "Computer science",
+      "Front-end development",
+      "React",
+      "JavaScript",
+      "CSS",
+      "Agile",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Referral program",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "JPMorgan Chase & Co",
+    "job title": "Director of Software Engineering - Payments Technology",
+    "salary": "$194,750 - $285,000 a year",
+    "skills": [
+      "Redshift",
+      "Spark",
+      "Computer science",
+      "Snowflake",
+      "Product management",
+      "Data structures",
+      "Leadership",
+      "Data mining",
+      "ETL",
+      "System design",
+      "Big data",
+      "Data analytics",
+      "Machine learning"
+    ],
+    "education": [],
+    "benefits": [
+      "Health insurance",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Reality Defender",
+    "job title": "Senior Backend Infrastructure Engineer",
+    "salary": "$140,000 - $170,000 a year",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "AWS",
+      "DevOps",
+      "Go",
+      "Java",
+      "Python",
+      "Machine learning",
+      "Node.js",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "Azure",
+      "Rust",
+      "Database management",
+      "CI/CD",
+      "Leadership",
+      "Docker",
+      "AI",
+      "Terraform"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Esusu",
+    "job title": "Senior Full Stack Software Engineer",
+    "salary": "$180,000 a year",
+    "skills": [
+      "NoSQL",
+      "PostgreSQL",
+      "Distributed systems",
+      "Technical writing",
+      "TypeScript",
+      "Software development",
+      "Test-driven development",
+      "Microservices",
+      "AWS",
+      "Snowflake",
+      "DevOps",
+      "APIs",
+      "UX",
+      "CI/CD",
+      "MongoDB",
+      "Flutter",
+      "S3",
+      "Design patterns",
+      "React"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Commuter assistance",
+      "Dental insurance",
+      "Gym membership",
+      "Health insurance",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "RSU",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Neotecra, Inc",
+    "job title": "Software Developer",
+    "salary": "$50 - $55 an hour",
+    "skills": [
+      "C++",
+      "SQL",
+      "Performance tuning",
+      "Git",
+      "Continuous integration",
+      "Microsoft SQL Server",
+      "Linux",
+      "Oracle",
+      "Leadership",
+      "Java",
+      "SVN",
+      "C",
+      "Shell Scripting"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Recruitfuze",
+    "job title": "Software Engineer",
+    "salary": "$125,000 - $200,000 a year",
+    "skills": [
+      "Linux",
+      "C",
+      "Scripting",
+      "Computer science",
+      "Data structures",
+      "Python",
+      "Shell Scripting",
+      "AI",
+      "Bash",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": [
+      "Dental insurance",
+      "Paid time off"
+    ]
+  },
+  {
+    "company name": "SVAM International Inc.",
+    "job title": "Software Developer",
+    "salary": "$109,283 a year",
+    "skills": [
+      "Software development",
+      "HTML5",
+      "Microsoft SQL Server",
+      "IT",
+      "CSS"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Titan",
+    "job title": "Senior Software Engineer - Backend",
+    "salary": "$150,000 - $210,000 a year",
+    "skills": [
+      "Ruby on Rails",
+      "TypeScript",
+      "JavaScript",
+      "APIs"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Internet reimbursement",
+      "Stock options",
+      "Unlimited paid time off",
+      "Work from home stipend"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Marotta Controls, Inc.",
+    "job title": "Engineer, Quality (Software)",
+    "salary": "0",
+    "skills": [
+      "Assembly",
+      "Software development",
+      "C++",
+      "Computer science",
+      "SDLC",
+      "Customer service",
+      "Leadership",
+      "Java",
+      "Debugging",
+      "Python",
+      "C"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Flexible schedule",
+      "Health insurance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Wiz, Inc.",
+    "job title": "DevOps Engineer (NYC)",
+    "salary": "$145,000 - $199,000 a year",
+    "skills": [
+      "Kubernetes",
+      "Microservices",
+      "Scripting",
+      "Linux",
+      "DevOps",
+      "Go",
+      "CI/CD",
+      "Employment & labor law",
+      "Docker",
+      "Python",
+      "Shell Scripting",
+      "Bash"
+    ],
+    "education": [],
+    "benefits": [
+      "RSU"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Zodiac Solutions",
+    "job title": "C/C++ Developer",
+    "salary": "0",
+    "skills": [
+      "Software troubleshooting",
+      "Multithreading",
+      "Financial services",
+      "Software architecture",
+      "C++",
+      "SDLC",
+      "C",
+      "Data structures",
+      "Analysis skills",
+      "OOP"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

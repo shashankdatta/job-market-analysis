@@ -1,0 +1,353 @@
+[
+  {
+    "company name": "Codinix Technologies",
+    "job title": "C++ Developer",
+    "salary": "From $45 an hour",
+    "skills": [
+      "C++",
+      "AJAX",
+      "Web design",
+      "JSP",
+      "Website maintenance"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Renaissance Technologies",
+    "job title": "Data Programmer",
+    "salary": "$129,000 - $224,000 a year",
+    "skills": [
+      "UNIX",
+      "Statistics",
+      "C++",
+      "Linux",
+      "C",
+      "Analysis skills"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ITEchelon",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "Hyperion",
+      ".NET",
+      "Microsoft SQL Server",
+      "Informatica",
+      "Data warehouse"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Hyqoo",
+    "job title": "Senior Python Developer",
+    "salary": "0",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "Relational databases",
+      "Git",
+      "Full-stack development",
+      "Databases",
+      "OOP",
+      "REST",
+      "Python",
+      "Pricing",
+      "React",
+      "JavaScript",
+      "Research & development",
+      "Agile",
+      "Banking"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "UBS",
+    "job title": "Senior Full Stack Java Developer, Equity Derivatives - PFT",
+    "salary": "$160,000 - $210,000 a year",
+    "skills": [
+      "Java",
+      "Full-stack development",
+      "React",
+      "DevOps",
+      "JavaScript",
+      "Vue.js"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Clear Street",
+    "job title": "Software Engineer, Clearing & Settlement Systems",
+    "salary": "$170,000 - $220,000 a year",
+    "skills": [
+      "PostgreSQL",
+      "Distributed systems",
+      "Kubernetes",
+      "C++",
+      "DevOps",
+      "APIs",
+      "Go",
+      "Data structures",
+      "CI/CD",
+      "Java",
+      "gRPC",
+      "System design",
+      "Kafka",
+      "Docker",
+      "Design patterns",
+      "Redis"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Happy hour",
+      "Health insurance",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Cardknox",
+    "job title": "Software Development Manager",
+    "salary": "$155,000 - $190,000 a year",
+    "skills": [
+      "Leadership",
+      "Cloud architecture",
+      "Software development",
+      "AWS",
+      "C#",
+      "React",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Uber",
+    "job title": "Staff Application Developer",
+    "salary": "$183,000 a year",
+    "skills": [
+      "Data management",
+      "Git",
+      "Ant",
+      "Encryption",
+      "Computer science",
+      "APIs",
+      "CI/CD",
+      "SOAP",
+      "Authentication",
+      "REST",
+      "Marketing",
+      "Salesforce",
+      "Sales",
+      "Jenkins",
+      "Database design",
+      "Unit testing",
+      "Design patterns",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon Development Center U.S., Inc.",
+    "job title": "Sr. Frontend Engineer, CP Billing - Directs",
+    "salary": "From $134,500 a year",
+    "skills": [
+      "Wireframing",
+      "Software development",
+      "AWS",
+      "HTML5",
+      "Angular",
+      "SOAP",
+      "REST",
+      "Front-end development",
+      "MVC",
+      "React",
+      "JavaScript",
+      "CSS",
+      "Web services",
+      "Vue.js"
+    ],
+    "education": [],
+    "benefits": [
+      "Flexible schedule",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "MongoDB",
+    "job title": "Senior Software Engineer, Payments",
+    "salary": "$118,000 - $231,000 a year",
+    "skills": [
+      "Software troubleshooting",
+      "Java",
+      "Distributed systems",
+      "MongoDB"
+    ],
+    "education": [],
+    "benefits": [
+      "Parental leave"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "StubHub",
+    "job title": "Lead Staff Software Engineer - Visual Assets",
+    "salary": "$240,000 - $350,000 a year",
+    "skills": [
+      "Performance marketing",
+      "Software development",
+      "Metadata",
+      "C#",
+      "CAD",
+      "Customer service",
+      "Adobe Illustrator",
+      "Leadership",
+      "Java",
+      "Project leadership",
+      "Mentoring",
+      "Python",
+      "React",
+      "JavaScript",
+      "Unity"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ArborSys Group",
+    "job title": "Software Quality Product Engineer",
+    "salary": "0",
+    "skills": [
+      "Tableau",
+      "SharePoint",
+      "Node.js",
+      "AWS",
+      "HTML5",
+      "Rally",
+      "Visio",
+      "MySQL",
+      "Ansible",
+      "Confluence",
+      "Jenkins",
+      "S3",
+      "Shell Scripting",
+      "CSS"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Honeywell",
+    "job title": "Lead Software Engineer - JAVA Technical Lead",
+    "salary": "0",
+    "skills": [
+      "Software development",
+      "AWS",
+      "Analysis skills",
+      "Leadership",
+      "Java",
+      "AI",
+      "React",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Better Talent Advisors",
+    "job title": "Python Engineer (Top Secret Clearance)",
+    "salary": "$130,000 - $300,000 a year",
+    "skills": [
+      "Software development",
+      "Computer science",
+      "Django",
+      "REST",
+      "AI",
+      "Python",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Relocation assistance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CompatibL",
+    "job title": "Full Stack Engineer",
+    "salary": "0",
+    "skills": [
+      "Software development",
+      "Project management",
+      "Computer science",
+      "Enterprise software",
+      "Python",
+      "APIs",
+      "React",
+      "JavaScript",
+      "Agile",
+      "CI/CD"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

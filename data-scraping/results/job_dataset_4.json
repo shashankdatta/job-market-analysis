@@ -1,0 +1,428 @@
+[
+  {
+    "company name": "EARTHMOVER",
+    "job title": "Software Engineer",
+    "salary": "$150,000 - $200,000 a year",
+    "skills": [
+      "TypeScript",
+      "Rust",
+      "AWS",
+      "Python",
+      "APIs",
+      "Data structures"
+    ],
+    "education": [],
+    "benefits": [
+      "Family leave",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Kensho",
+    "job title": "Backend Software Engineer II",
+    "salary": "$130,000 - $175,000 a year",
+    "skills": [
+      "PostgreSQL",
+      "Business requirements",
+      "Distributed systems",
+      "Git",
+      "SaaS",
+      "Flask",
+      "Kubernetes",
+      "Natural language processing",
+      "SDLC",
+      "Django",
+      "APIs",
+      "Data structures",
+      "Text classification",
+      "RabbitMQ",
+      "Jenkins",
+      "Kafka",
+      "Docker",
+      "Python",
+      "AI",
+      "Machine learning"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "401(k) 6% Match",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "Tuition reimbursement",
+      "Unlimited paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Disney Entertainment & ESPN Technology",
+    "job title": "Senior Backend Engineer (Java)",
+    "salary": "$142,600 - $191,100 a year",
+    "skills": [
+      "NoSQL",
+      "Java",
+      "Kotlin",
+      "REST",
+      "AWS",
+      "Akka",
+      "Computer science",
+      "Terraform",
+      "CI/CD"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Breaking Ground",
+    "job title": "Software Engineer, HMIS",
+    "salary": "$85,000 a year",
+    "skills": [
+      "SQL",
+      "Software development",
+      "Azure",
+      "C#",
+      "Computer science",
+      "APIs",
+      "Requirements gathering",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon.com Services LLC",
+    "job title": "Software Development Engineer II",
+    "salary": "From $115,000 a year",
+    "skills": [
+      "Distributed systems",
+      "Continuous integration",
+      "Software development",
+      "AWS",
+      "HTML5",
+      "Full-stack development",
+      "Computer science",
+      "Data structures",
+      "Analysis skills",
+      "OOP",
+      "JavaScript",
+      "CSS",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Citi",
+    "job title": "SVP, Software Engineer (Hybrid)",
+    "salary": "$176,720 - $265,080 a year",
+    "skills": [
+      "NumPy",
+      "Flask",
+      "C++",
+      "Pandas",
+      "Django",
+      "APIs",
+      "Data structures",
+      "Analysis skills",
+      "Java",
+      "Unit testing",
+      "Python",
+      "C",
+      "Web services",
+      "Open source contribution"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Monzo",
+    "job title": "Backend Engineer",
+    "salary": "$160,000 - $225,000 a year",
+    "skills": [
+      "Java",
+      "System design",
+      "Scala",
+      "Go"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) 4% Match",
+      "Dental insurance",
+      "Flexible schedule",
+      "Health insurance",
+      "Parental leave",
+      "Stock options",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Match Group",
+    "job title": "Android Engineer II",
+    "salary": "$115,000 - $138,000 a year",
+    "skills": [
+      "Java",
+      "Kotlin",
+      "Android",
+      "SDKs",
+      "Software deployment",
+      "Design patterns",
+      "Mobile applications",
+      "Android development",
+      "Mobile design"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Paid parental leave",
+      "Parental leave"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Warner Bros. Discovery",
+    "job title": "Senior Software Engineer (Database Reliability Engineer)",
+    "salary": "$119,700 - $222,300 a year",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "PostgreSQL",
+      "Kubernetes",
+      "MySQL",
+      "APIs",
+      "CI/CD",
+      "Databases",
+      "Leadership",
+      "DynamoDB",
+      "Database administration",
+      "Python",
+      "JavaScript",
+      "Terraform"
+    ],
+    "education": [],
+    "benefits": [
+      "Disability insurance",
+      "Health insurance",
+      "Retirement plan",
+      "Wellness program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon.com Services LLC",
+    "job title": "Software Development Engineer",
+    "salary": "From $115,000 a year",
+    "skills": [
+      "Service-oriented architecture",
+      "AWS",
+      "Computer science",
+      "Identity & access management",
+      "SDLC",
+      "Design patterns"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amex",
+    "job title": "Engineer - Java/Python/Scala - Marketing Data Technology",
+    "salary": "$85,000 - $150,000 a year",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "Git",
+      "Software development",
+      "Hadoop",
+      "Spark",
+      "DevOps",
+      "Maven",
+      "Java",
+      "Confluence",
+      "Scala",
+      "Application development",
+      "Python",
+      "HBase",
+      "Apache Hive",
+      "Scripting",
+      "Splunk",
+      "Ansible",
+      "Analysis skills",
+      "Jira",
+      "Jenkins",
+      "Shell Scripting",
+      "MapReduce",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "Retirement plan",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Disney Entertainment & ESPN Technology",
+    "job title": "Software Engineer II, Scala",
+    "salary": "$117,998 - $158,290 a year",
+    "skills": [
+      "Git",
+      "Google Cloud Platform",
+      "AWS",
+      "Azure",
+      "Software deployment",
+      "Splunk",
+      "Data structures",
+      "CI/CD",
+      "REST",
+      "DynamoDB",
+      "Scrum",
+      "Jenkins",
+      "Kafka",
+      "Scala",
+      "Unit testing",
+      "Docker",
+      "S3",
+      "Design patterns",
+      "Redis",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Dow Jones",
+    "job title": "Principal Software Engineer, IOS",
+    "salary": "$65,000 - $200,000 a year",
+    "skills": [
+      "Git",
+      "iOS",
+      "GraphQL",
+      "Journalism",
+      "System design",
+      "Full-stack development",
+      "Design patterns",
+      "DevOps",
+      "APIs",
+      "Swift",
+      "Data structures"
+    ],
+    "education": [],
+    "benefits": [
+      "Commuter assistance",
+      "Health insurance",
+      "Paid time off",
+      "Referral program",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Grammarly, Inc.",
+    "job title": "Software Engineer, Cloud Infrastructure",
+    "salary": "$250,000 - $284,000 a year",
+    "skills": [
+      "Google Cloud Platform",
+      "Azure",
+      "AWS",
+      "Cloud infrastructure",
+      "Linux"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Justworks",
+    "job title": "Senior Software Engineer, New Products",
+    "salary": "$167,500 - $205,000 a year",
+    "skills": [
+      "TypeScript",
+      "Software development",
+      "Kubernetes",
+      "GraphQL",
+      "AWS",
+      "APIs",
+      "Data structures",
+      "OOP",
+      "Ruby on Rails",
+      "Leadership",
+      "Service-oriented architecture",
+      "Scrum",
+      "React",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "Wellness program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

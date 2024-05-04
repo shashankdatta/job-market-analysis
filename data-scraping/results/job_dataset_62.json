@@ -1,0 +1,405 @@
+[
+  {
+    "company name": "Walmart",
+    "job title": "Distinguished, Software Engineer Solution Architect",
+    "salary": "$130,000 - $260,000 a year",
+    "skills": [
+      "Web accessibility",
+      "WCAG",
+      "Systems engineering"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Family leave",
+      "Health insurance",
+      "Life insurance",
+      "Military leave",
+      "Paid jury duty",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Corporate America Business Solutions",
+    "job title": "Senior Software Engineers",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "XML",
+      "UNIX",
+      "PeopleSoft",
+      "Oracle"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Guidepoint",
+    "job title": "Senior DevOps Engineer",
+    "salary": "$150,000 - $175,000 a year",
+    "skills": [
+      "Microservices",
+      "Google Cloud Platform",
+      "AWS",
+      "Azure",
+      "Scripting",
+      "Cloud infrastructure",
+      "DevOps",
+      "CI/CD",
+      "Leadership",
+      "Docker",
+      "Python",
+      "Shell Scripting",
+      "Terraform",
+      "Bash",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Commuter assistance",
+      "Dental insurance",
+      "Happy hour",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Intone Networks",
+    "job title": "DevOps Engineer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Scripting",
+      "PowerShell",
+      "DevOps",
+      "APIs",
+      "Databases",
+      "Jira",
+      "Jenkins",
+      "Python",
+      "Shell Scripting",
+      "Bash",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Liquidly",
+    "job title": "Azure Infrastructure Engineer (DevOps)",
+    "salary": "$110,000 - $150,000 a year",
+    "skills": [
+      "Kubernetes",
+      "Azure",
+      "Microsoft SQL Server",
+      "Cloud infrastructure",
+      "PowerShell",
+      "Software deployment",
+      "IaaS",
+      "DevOps",
+      "CI/CD",
+      "PaaS",
+      "Docker"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Oncorre",
+    "job title": "Software Developer, II",
+    "salary": "0",
+    "skills": [
+      "Java",
+      "JSON",
+      "J2EE",
+      "HTML5",
+      "Spring",
+      "JSP",
+      "jQuery",
+      "JavaScript",
+      "Ext JS"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Abridge",
+    "job title": "Staff Software Engineer, Full Stack",
+    "salary": "$200,000 - $225,000 a year",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "Google Cloud Platform",
+      "Full-stack development",
+      "AI",
+      "React",
+      "Machine learning"
+    ],
+    "education": [
+      "Doctoral degree"
+    ],
+    "benefits": [
+      "Flexible schedule",
+      "Paid parental leave",
+      "Parental leave",
+      "Unlimited paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Xpedite Technologies",
+    "job title": "Sr.Software Engineer",
+    "salary": "$108,680 a year",
+    "skills": [],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NYC Careers",
+    "job title": "SENIOR DEVELOPER",
+    "salary": "$100,743 - $115,854 a year",
+    "skills": [
+      "SQL",
+      "XML",
+      "DevOps",
+      "APIs",
+      "GitLab",
+      "Quality assurance",
+      "Entity Framework",
+      "Technical support",
+      "Debugging",
+      "ASP.NET",
+      "Relational databases",
+      "Visual Studio",
+      "WCF",
+      "Microsoft SQL Server",
+      "C#",
+      "Angular",
+      "Oracle",
+      "Software troubleshooting",
+      ".NET",
+      "Jira",
+      "Jenkins",
+      "Database design",
+      "Project leadership",
+      "jQuery",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree",
+      "High school diploma or GED"
+    ],
+    "benefits": [
+      "Food provided",
+      "Loan forgiveness"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Locks Global Staffing LLC",
+    "job title": "Python Developer",
+    "salary": "$60 - $75 an hour",
+    "skills": [
+      "SQL",
+      "Flask",
+      "Clinical trials",
+      "Python",
+      "Django",
+      "APIs"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NYC Careers",
+    "job title": "APPLICATIONS DEVELOPMENT SPECIALIST",
+    "salary": "$93,288 - $130,988 a year",
+    "skills": [
+      "SQL",
+      "XML",
+      "Software development",
+      "HTML5",
+      "PowerShell",
+      "DevOps",
+      "Java",
+      "Classroom experience",
+      "Employment & labor law",
+      "Application development",
+      "Business development",
+      "ASP.NET",
+      "Azure",
+      "Microsoft SQL Server",
+      "C#",
+      "Analysis skills",
+      "OOP",
+      "SOAP",
+      "Software troubleshooting",
+      ".NET",
+      "REST",
+      "GIS",
+      "IT",
+      "CSS",
+      "Microsoft Dynamics 365",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree",
+      "High school diploma or GED"
+    ],
+    "benefits": [
+      "Loan forgiveness"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "LT Technology Services",
+    "job title": "Software Developer",
+    "salary": "0",
+    "skills": [
+      "C++",
+      "C",
+      "IT"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Rutgers University",
+    "job title": "Research Associate - Junior DevOps Engineer",
+    "salary": "0",
+    "skills": [
+      "GitHub",
+      "Node.js",
+      "Software development",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "AWS",
+      "Cloud infrastructure",
+      "System administration",
+      "Computer science",
+      "SDLC",
+      "DevOps",
+      "CI/CD",
+      "Java",
+      "Docker",
+      "Python",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Botify",
+    "job title": "SEO Consultant",
+    "salary": "0",
+    "skills": [
+      "GitHub",
+      "Leadership",
+      "Project management",
+      "SEO",
+      "JavaScript"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "MSG Entertainment Holdings, LLC",
+    "job title": "Manager Software Engineering",
+    "salary": "$96,000 - $180,000 a year",
+    "skills": [
+      "Memcached",
+      "GitHub",
+      "Git",
+      "Software development",
+      "GraphQL",
+      "AWS",
+      "HTML5",
+      "Elasticsearch",
+      "ECMAScript",
+      "APIs",
+      "Ruby on Rails",
+      "Product development",
+      "Redux",
+      "SDKs",
+      "Application development",
+      "Design patterns",
+      "Python",
+      "Redis",
+      "PostgreSQL",
+      "SCSS",
+      "Node.js",
+      "Enterprise architecture",
+      "Leadership",
+      "Scrum",
+      "PHP",
+      "Jest",
+      "Enterprise software",
+      "React",
+      "JavaScript",
+      "CSS",
+      "Content management systems",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

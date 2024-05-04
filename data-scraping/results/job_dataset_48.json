@@ -1,0 +1,426 @@
+[
+  {
+    "company name": "nTopology Inc",
+    "job title": "Geometry Software Engineer",
+    "salary": "$100,000 - $125,000 a year",
+    "skills": [
+      "Git",
+      "Continuous integration",
+      "Test-driven development",
+      "Scripting",
+      "C++",
+      "CAD",
+      "SolidWorks",
+      "SDLC",
+      "APIs",
+      "Data structures",
+      "Manufacturing",
+      "CATIA",
+      "GLSL",
+      "C",
+      "Python",
+      "JavaScript"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "EGROVE SYSTEMS CORPORATION",
+    "job title": "WordPress Developer",
+    "salary": "$20 an hour",
+    "skills": [
+      "Authentication",
+      "WordPress",
+      "Risk management",
+      "Information security"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Interactive Brokers",
+    "job title": "Software Developer - C++",
+    "salary": "0",
+    "skills": [
+      "Software development",
+      "UNIX",
+      "Scripting",
+      "C++",
+      "Linux",
+      "Data structures",
+      "OOP",
+      "Debugging",
+      "Design patterns",
+      "C",
+      "Shell Scripting"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Employee assistance program",
+      "Health insurance",
+      "Paid time off",
+      "Parental leave",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon Web Services, Inc.",
+    "job title": "Sr. WW Specialist, GenAI, Strategic Initiatives, GenAI Frameworks",
+    "salary": "From $118,400 a year",
+    "skills": [
+      "Sales",
+      "AWS",
+      "Computer science",
+      "Negotiation",
+      "AI",
+      "SAS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Combined Insurance",
+    "job title": "Sr. Full Stack Engineer (Java)",
+    "salary": "0",
+    "skills": [
+      "Java",
+      "Full-stack development"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Multihires",
+    "job title": "Senior DevOps Engineer (DevsecOps)",
+    "salary": "$120,000 - $150,000 a year",
+    "skills": [
+      "AWS",
+      "Linux",
+      "DevOps",
+      "CI/CD",
+      "Terraform",
+      "UNIX",
+      "Scripting",
+      "Kanban",
+      "Analysis skills",
+      "Identity & access management",
+      "Shell Scripting",
+      "Agile",
+      "Cybersecurity"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Employee assistance program",
+      "Employee discount",
+      "Flexible schedule",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Life insurance",
+      "Paid time off",
+      "Parental leave",
+      "Professional development assistance",
+      "Referral program",
+      "Retirement plan",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Flow",
+    "job title": "Senior/Staff Web Engineer",
+    "salary": "$190,000 - $230,000 a year",
+    "skills": [
+      "GraphQL",
+      "Computer science",
+      "Continuous improvement",
+      "UI",
+      "Analysis skills",
+      "UX",
+      "CI/CD",
+      "Google Analytics",
+      "gRPC",
+      "Application development",
+      "Web development",
+      "Recruiting",
+      "React"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Commuter assistance",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee assistance program",
+      "Flexible spending account",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "VES LLC",
+    "job title": "Senior Software Engineer",
+    "salary": "Up to $15 an hour",
+    "skills": [
+      "PostgreSQL",
+      "Software development",
+      "Kubernetes",
+      "Apache",
+      "C++",
+      "Elasticsearch",
+      "SDLC",
+      "Data structures",
+      "Databases",
+      "Leadership",
+      "Java",
+      "Jira",
+      "Confluence",
+      "Kafka",
+      "Debugging",
+      "Big data",
+      "Docker",
+      "C",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Glatt Air Techniques",
+    "job title": "Field Services Engineer (Automation Services Engineer)",
+    "salary": "$95,000 - $125,000 a year",
+    "skills": [
+      "Electrical wiring",
+      "Electrical experience",
+      "System design",
+      "Programmable logic controllers"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Associate's degree",
+      "Trade school"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Flexible spending account",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Retirement plan",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Flexible spending account",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Retirement plan",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ]
+  },
+  {
+    "company name": "Amazon.com Services LLC",
+    "job title": "Sr. Software Dev Engineer, FinTech Account Receivables Cash Apps",
+    "salary": "From $134,500 a year",
+    "skills": [
+      "Leadership",
+      "Software development",
+      "Natural language processing",
+      "Computer science",
+      "SDLC",
+      "Design patterns",
+      "Mentoring",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Via",
+    "job title": "Senior Backend Engineer, Tech Lead",
+    "salary": "$160,000 - $200,000 a year",
+    "skills": [
+      "SQL",
+      "GitHub",
+      "Paratransit",
+      "Multithreading",
+      "Kubernetes",
+      "AWS",
+      "C++",
+      "C#",
+      "MySQL",
+      "Computer science",
+      "GitLab",
+      "Analysis skills",
+      "CI/CD",
+      "OOP",
+      "Java",
+      "Jenkins",
+      "Design patterns",
+      "Python",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "AlphaSense",
+    "job title": "Tech Lead Manager - AI Platform",
+    "salary": "$210,000 - $250,000 a year",
+    "skills": [
+      "Software development",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "AWS",
+      "MLOps",
+      "Analysis skills",
+      "Java",
+      "Debugging",
+      "Docker",
+      "IT",
+      "AI",
+      "Python",
+      "Terraform"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon Web Services, Inc.",
+    "job title": "Business Development Lead, Gen AI, AWS Industries",
+    "salary": "From $140,800 a year",
+    "skills": [
+      "AWS",
+      "Product management",
+      "Deep learning",
+      "Leadership",
+      "Sales",
+      "Cloud computing",
+      "Business development",
+      "AI"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Wingman LLC",
+    "job title": "WordPress/Shopify Coordinator",
+    "salary": "$17 an hour",
+    "skills": [
+      "Website management",
+      "Web design",
+      "WordPress",
+      "Marketing",
+      "Responsive web design",
+      "E-commerce",
+      "Proofreading",
+      "Project management",
+      "APIs",
+      "Social media management"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Tek Ninjas",
+    "job title": "Sr Devops Engineer",
+    "salary": "0",
+    "skills": [
+      "Jira",
+      "Visual Studio",
+      "Jenkins",
+      "C#",
+      "Release management",
+      "Oracle",
+      "DevOps"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

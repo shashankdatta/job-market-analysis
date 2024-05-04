@@ -1,0 +1,428 @@
+[
+  {
+    "company name": "Neptune Retail Solutions",
+    "job title": "Technical Account Manager-Level 2 (Remote)",
+    "salary": "0",
+    "skills": [
+      "HTML5",
+      "C++",
+      "PowerShell",
+      "MySQL",
+      "Perl",
+      "Java",
+      "Technical support",
+      "Debugging",
+      "Operating systems",
+      "Python",
+      "ASP.NET",
+      "Relational databases",
+      "Scripting",
+      "Microsoft SQL Server",
+      "Spring",
+      "Ruby",
+      "Splunk",
+      "Linux",
+      "Oracle",
+      "Cassandra",
+      "Analysis skills",
+      "REST",
+      "Shell Scripting",
+      "JavaScript",
+      "Bash",
+      "Windows"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "HealthFirst",
+    "job title": "Sr Application Developer (Tableau) - Remote",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Redshift",
+      "Alteryx",
+      "Analysis skills",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "High school diploma or GED"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Tory Burch",
+    "job title": "Sr. Engineer, Service Integration and Platform Modernization",
+    "salary": "$145,000 - $165,000 a year",
+    "skills": [
+      "Leadership",
+      "Distributed systems",
+      "Java",
+      "REST",
+      "Kubernetes",
+      "Kafka",
+      "Data analytics",
+      "CI/CD"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Employee discount"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ACMH, Inc.",
+    "job title": "Job Developer/Job Coach",
+    "salary": "$57,200 a year",
+    "skills": [],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Health savings account",
+      "Life insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "JSR Tech Consulting",
+    "job title": "Lead Platform Engineer - Salesforce",
+    "salary": "0",
+    "skills": [
+      "Test-driven development",
+      "Encryption",
+      "Computer science",
+      "DevOps",
+      "Authentication",
+      "Financial sales",
+      "Sales",
+      "Design patterns",
+      "SSL",
+      "Selenium",
+      "SoapUI",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Wipro Limited",
+    "job title": "Developer",
+    "salary": "0",
+    "skills": [
+      "Java",
+      "Software implementation",
+      "SDLC",
+      "React",
+      "JavaScript"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Accenture",
+    "job title": "Application Developer/Mainframe Developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "SFTP",
+      "DevOps",
+      "CICS",
+      "DB2",
+      "COBOL",
+      "Java",
+      "ISPF",
+      "Mainframe development",
+      "IT",
+      "Python"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Akken Inc",
+    "job title": "Site Reliability Engineer (SRE)",
+    "salary": "From $100,000 a year",
+    "skills": [
+      "Kubernetes",
+      "AWS",
+      "Software deployment",
+      "UNIX",
+      "Scripting",
+      "Telemetry"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Arch Capital Group Ltd.",
+    "job title": "VP, Software Engineering - Domain Owner of Enabling Technologies (Hybrid,",
+    "salary": "$155,000 - $251,000 a year",
+    "skills": [
+      "SQL",
+      "TypeScript",
+      "Chef",
+      "JBoss",
+      "Java",
+      "Solution architecture",
+      "Back-end development",
+      "Tomcat",
+      "Front-end development",
+      "Swift",
+      "PostgreSQL",
+      "Relational databases",
+      "OpenStack",
+      "Kubernetes",
+      "Scripting",
+      "C#",
+      "Laboratory experience",
+      "Linux",
+      "CI/CD",
+      "MongoDB",
+      "Leadership",
+      "Docker",
+      "jQuery",
+      "Shell Scripting",
+      "JavaScript",
+      "Memcached",
+      "Software development",
+      "HTML5",
+      "Budgeting",
+      "Test automation",
+      "SSIS",
+      "Salt",
+      "IIS",
+      "PL/SQL",
+      "Business development",
+      "T-SQL",
+      "UI development",
+      "Redis",
+      "Node.js",
+      "Scalability",
+      "Microsoft SQL Server",
+      "Software deployment",
+      "Visio",
+      "Angular",
+      "Oracle",
+      "UX",
+      "Databases",
+      ".NET",
+      "Jenkins",
+      "Bootstrap",
+      "Puppet",
+      "React",
+      "CSS",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "TikTok",
+    "job title": "Site Reliability Engineer - Video Platform - USDS (NYC)",
+    "salary": "$116,000 - $250,000 a year",
+    "skills": [
+      "Distributed systems",
+      "Microservices",
+      "AWS",
+      "C++",
+      "C#",
+      "MySQL",
+      "Linux",
+      "Computer science",
+      "DevOps",
+      "Go",
+      "MongoDB",
+      "Java",
+      "Computer networking",
+      "Python",
+      "C",
+      "Redis"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "AD&D insurance",
+      "Disability insurance",
+      "Employee assistance program",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Paid parental leave",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "RSU",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Snaprecruit.com",
+    "job title": "Oracle Snowflake Developer",
+    "salary": "Up to $68 an hour",
+    "skills": [
+      "SQL",
+      "Data warehouse",
+      "Java",
+      "Data modeling",
+      "Python",
+      "Agile",
+      "Cloud architecture",
+      "AWS",
+      "Snowflake",
+      "Product management",
+      "Oracle",
+      "DevOps",
+      "APIs",
+      "Maven",
+      "CI/CD",
+      "Jenkins",
+      "PL/SQL"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Intone Networks",
+    "job title": "Principal Embedded Software Engineer",
+    "salary": "0",
+    "skills": [
+      "Leadership",
+      "Software troubleshooting",
+      "Software development",
+      "C++",
+      "Embedded software",
+      "Linux",
+      "C",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Everyrealm",
+    "job title": "Principal Software Engineer",
+    "salary": "$130,000 - $220,000 a year",
+    "skills": [
+      "GitHub",
+      "PostgreSQL",
+      "TypeScript",
+      "Node.js",
+      "GraphQL",
+      "AWS",
+      "APIs",
+      "MongoDB",
+      "Databases",
+      "OOP",
+      "REST",
+      "Jira",
+      "DynamoDB",
+      "Software architecture",
+      "S3",
+      "Design patterns"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "AD&D insurance",
+      "Adoption assistance",
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Life insurance",
+      "Stock options",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Katalyst Healthcares & Life Sciences",
+    "job title": "Senior Analyst/Programmer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "XML",
+      "Computer science",
+      "Clinical trials",
+      "SAS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Empire State",
+    "job title": "Project Manager, Digital Game Development",
+    "salary": "$67,000 - $70,000 a year",
+    "skills": [
+      "Economic development",
+      "LIHTC",
+      "Project management",
+      "Business development",
+      "Analysis skills"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

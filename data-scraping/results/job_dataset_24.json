@@ -1,0 +1,409 @@
+[
+  {
+    "company name": "MongoDB",
+    "job title": "Senior UI Engineer",
+    "salary": "$118,000 - $231,000 a year",
+    "skills": [
+      "TypeScript",
+      "HTML5",
+      "Debugging",
+      "Jest",
+      "APIs",
+      "React",
+      "JavaScript",
+      "CSS",
+      "MongoDB"
+    ],
+    "education": [],
+    "benefits": [
+      "Parental leave"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Sumitomo Mitsui Banking Corporation",
+    "job title": "Senior Software Engineer II",
+    "salary": "$180,000 - $237,000 a year",
+    "skills": [
+      "SQL",
+      "Software development",
+      "Software implementation",
+      "C++",
+      "C#",
+      "Computer science",
+      "High availability",
+      "Analysis skills",
+      ".NET",
+      "Java",
+      "C",
+      "Python"
+    ],
+    "education": [],
+    "benefits": [
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Semgrep",
+    "job title": "Senior Software Engineer, Full Stack",
+    "salary": "$184,000 - $195,000 a year",
+    "skills": [
+      "Full-stack development"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Northwell Health",
+    "job title": "Lead Software Engineer - Cloud Developer",
+    "salary": "$121,200 - $212,100 a year",
+    "skills": [
+      "Leadership",
+      "Azure",
+      "Python",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Cirrus Data Solutions Inc.",
+    "job title": "Software Engineer (Go)",
+    "salary": "$70,000 - $135,000 a year",
+    "skills": [
+      "Cloud architecture",
+      "Software development",
+      "Kubernetes",
+      "SAN",
+      "Linux",
+      "DevOps",
+      "Go",
+      "gRPC",
+      "Docker",
+      "Front-end development",
+      "S3",
+      "Design patterns",
+      "Python",
+      "Redis"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "PRIME CONSULTING INC",
+    "job title": "Server Side Engineer",
+    "salary": "$107,004.13 - $128,865.18 a year",
+    "skills": [
+      "SQL",
+      "Kotlin",
+      "REST",
+      "Gradle"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "21st Century Software Technologies, Inc.",
+    "job title": "VSE Software Engineer II",
+    "salary": "0",
+    "skills": [
+      "Debugging",
+      "Operating systems",
+      "Linux",
+      "C",
+      "Analysis skills",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NetCom Systems Inc.",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "GitHub",
+      "PowerShell",
+      "Load balancing",
+      "Microsoft Windows Server",
+      "Computer science",
+      "vSphere",
+      "Windows"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Referral program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Robin AI",
+    "job title": "Applied LLM Engineer",
+    "salary": "$200,000 - $450,000 a year",
+    "skills": [
+      "Research",
+      "AWS",
+      "AI",
+      "Machine learning"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Health savings account",
+      "Life insurance",
+      "Paid time off",
+      "Vision insurance",
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CertiK",
+    "job title": "Senior Software Engineer",
+    "salary": "$120,000 - $165,000 a year",
+    "skills": [
+      "Microservices",
+      "AWS",
+      "HTML5",
+      "Blockchain",
+      "Angular",
+      "Go",
+      "Data structures",
+      "SDKs",
+      "Operating systems",
+      "S3",
+      "AI",
+      "Python",
+      "React",
+      "JavaScript",
+      "CSS",
+      "Vue.js"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Plaxonic Technologies Inc.",
+    "job title": "Software Engineer",
+    "salary": "$125,072.85 - $140,000.00 a year",
+    "skills": [
+      "AJAX",
+      "Web design",
+      "JSP",
+      "Website maintenance",
+      "Maven"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Commerce Canal",
+    "job title": "Software Engineer II / III",
+    "salary": "$85,000 - $150,000 a year",
+    "skills": [
+      "PostgreSQL",
+      "Node.js",
+      "Git",
+      "Redshift",
+      "Database management",
+      "Full-stack development",
+      "Computer science",
+      "Software troubleshooting",
+      "Jira",
+      "Confluence",
+      "React",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "KARGO",
+    "job title": "Senior Software Engineer (Video Player)",
+    "salary": "$180,000 - $200,000 a year",
+    "skills": [
+      "NoSQL",
+      "GitHub",
+      "Software development",
+      "AWS",
+      "HTML5",
+      "Data warehouse",
+      "Computer science",
+      "SDLC",
+      "Martech",
+      "S3",
+      "Mentoring",
+      "Redshift",
+      "Project management",
+      "Database management",
+      "Software deployment",
+      "Angular",
+      "Data structures",
+      "Analysis skills",
+      "MongoDB",
+      "Jira",
+      "DynamoDB",
+      "Scrum",
+      "React",
+      "JavaScript",
+      "CSS",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "BeaconFire Solution",
+    "job title": "Entry Level Java Software Developer",
+    "salary": "$65,000 - $80,000 a year",
+    "skills": [
+      "SQL",
+      "J2EE",
+      "HTML5",
+      "C++",
+      "Computer science",
+      "SDLC",
+      "APIs",
+      "Maven",
+      "Java",
+      "RabbitMQ",
+      "Tomcat",
+      "Weblogic",
+      "Python",
+      "Relational databases",
+      "Presentation skills",
+      "Microsoft SQL Server",
+      "Spring",
+      "C#",
+      "JSP",
+      "Angular",
+      "Oracle",
+      "Data structures",
+      "Databases",
+      "OOP",
+      "JDBC",
+      "C",
+      "React",
+      "CSS"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Employee assistance program",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Professional development assistance",
+      "Referral program",
+      "Visa sponsorship",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Employee assistance program",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Professional development assistance",
+      "Referral program",
+      "Vision insurance"
+    ]
+  },
+  {
+    "company name": "Altera Digital Health Inc. United States",
+    "job title": "Expert Software Engineer - SQL",
+    "salary": "$130,000 - $160,000 a year",
+    "skills": [
+      "Performance tuning",
+      "SQL",
+      "Relational databases",
+      "Microsoft SQL Server",
+      "C#",
+      "PowerShell",
+      "Computer science",
+      "SSRS",
+      "Customer service",
+      "SSIS",
+      "Analysis skills",
+      "Visual Basic",
+      "Technical support",
+      "T-SQL",
+      "Crystal Reports",
+      "Windows"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

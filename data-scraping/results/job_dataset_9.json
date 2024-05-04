@@ -1,0 +1,462 @@
+[
+  {
+    "company name": "Intone Networks",
+    "job title": "Senior Software Engineer (C/C++ with Python & Perl scripting)",
+    "salary": "0",
+    "skills": [
+      "C++",
+      "C",
+      "Python",
+      "Perl"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "FanDuel",
+    "job title": "Senior Software Engineer, Service Framework",
+    "salary": "$134,000 - $167,000 a year",
+    "skills": [
+      "Software development",
+      "Kubernetes",
+      "Microservices",
+      "AWS",
+      "Cloud infrastructure",
+      "DevOps",
+      "APIs",
+      "Go",
+      "Java",
+      "Flutter",
+      "Jira",
+      "gRPC",
+      "Python",
+      "JavaScript",
+      "Terraform"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid sick time",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Apple",
+    "job title": "Senior Software Developer - Server",
+    "salary": "$170,700 - $300,200 a year",
+    "skills": [
+      "Kubernetes",
+      "Scripting",
+      "Cloud infrastructure",
+      "Splunk",
+      "DevOps",
+      "CI/CD",
+      "Java",
+      "Analytics",
+      "Docker",
+      "Python",
+      "Shell Scripting",
+      "Bash"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Employee stock purchase plan",
+      "Health insurance",
+      "RSU",
+      "Retirement plan"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "MongoDB",
+    "job title": "Staff Software Engineer, Identity and Access Management",
+    "salary": "$137,000 - $270,000 a year",
+    "skills": [
+      "Distributed systems",
+      "Java",
+      "Google Cloud Platform",
+      "Azure",
+      "AWS",
+      "C++",
+      "C#",
+      "Computer science",
+      "Product management",
+      "Identity & access management",
+      "Go",
+      "MongoDB"
+    ],
+    "education": [],
+    "benefits": [
+      "Parental leave"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Taif Tec",
+    "job title": "Web Developer",
+    "salary": "$30.58 - $36.82 an hour",
+    "skills": [
+      "Visual Studio",
+      "Adobe Photoshop",
+      "Wireframing",
+      "Front-end development",
+      "UI"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Employee assistance program",
+      "Employee discount",
+      "Health insurance",
+      "Health savings account",
+      "Life insurance",
+      "Paid time off",
+      "Parental leave",
+      "Relocation assistance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": [
+      "401(k)",
+      "Dental insurance",
+      "Employee assistance program",
+      "Employee discount",
+      "Health insurance",
+      "Health savings account",
+      "Life insurance",
+      "Paid time off",
+      "Parental leave",
+      "Relocation assistance",
+      "Vision insurance"
+    ]
+  },
+  {
+    "company name": "Molex",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "Leadership",
+      "C++",
+      "Computer science",
+      "C",
+      "APIs"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "AD&D insurance",
+      "Adoption assistance",
+      "Dental insurance",
+      "Health insurance",
+      "Health savings account",
+      "Life insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Sumitomo Mitsui Banking Corporation",
+    "job title": "Application Developer - Associate",
+    "salary": "$75,000 - $150,000 a year",
+    "skills": [
+      "Software troubleshooting",
+      "Scrum",
+      "Application development",
+      "Front-end development",
+      "DevOps",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "PJT Partners",
+    "job title": "Cloud Engineer Associate",
+    "salary": "$85,000 - $110,000 a year",
+    "skills": [
+      "SharePoint",
+      "Azure",
+      "Cloud infrastructure",
+      "Active Directory",
+      "Identity & access management",
+      "Microsoft Access",
+      "Analysis skills"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ABC News",
+    "job title": "Lead Software Engineer",
+    "salary": "$156,300 - $209,600 a year",
+    "skills": [
+      "SQL",
+      "Node.js",
+      "User research",
+      "Microservices",
+      "AWS",
+      "HTML5",
+      "DevOps",
+      "APIs",
+      "UX",
+      "jQuery",
+      "Python",
+      "React",
+      "JavaScript",
+      "CSS",
+      "UI design"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Agentio",
+    "job title": "Senior Software Engineer",
+    "salary": "$150,000 - $225,000 a year",
+    "skills": [
+      "AJAX",
+      "Web design",
+      "JSP",
+      "Website maintenance",
+      "Maven"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Traba",
+    "job title": "Staff Software Engineer (Backend)",
+    "salary": "$200,000 - $220,000 a year",
+    "skills": [
+      "GitHub",
+      "PostgreSQL",
+      "Distributed systems",
+      "TypeScript",
+      "Node.js",
+      "Full-stack development",
+      "Test automation",
+      "APIs",
+      "CI/CD",
+      "Leadership",
+      "RabbitMQ",
+      "Data modeling",
+      "Analytics",
+      "Kafka",
+      "Docker",
+      "Project leadership",
+      "Design patterns",
+      "Python",
+      "Machine learning"
+    ],
+    "education": [],
+    "benefits": [
+      "Commuter assistance",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CBOE",
+    "job title": "Software Engineer - Remote or Flexible Hybrid (NYC, Chicago, IL or Lenexa, KS)",
+    "salary": "$92,000 - $151,800 a year",
+    "skills": [
+      "PostgreSQL",
+      "Git",
+      "AWS",
+      "Linux",
+      "APIs",
+      "Data structures",
+      "Java",
+      "Confluence",
+      "Big data",
+      "Design patterns",
+      "Python"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Employee discount",
+      "Employee stock purchase plan",
+      "Health insurance",
+      "Internal mobility program",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Referral program",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "The Fund for Public Health in New York City",
+    "job title": "10101 - .Net Developer",
+    "salary": "$90,000 a year",
+    "skills": [
+      "SQL",
+      "ADO.NET",
+      "HTML5",
+      "Azure",
+      "Microsoft SQL Server",
+      "C#",
+      "SSRS",
+      "Angular",
+      "EHR systems",
+      "SSIS",
+      ".NET",
+      "REST",
+      "ETL",
+      "Bootstrap",
+      "Epic",
+      "jQuery",
+      "Public health",
+      "JavaScript",
+      "CSS",
+      "Web services"
+    ],
+    "education": [],
+    "benefits": [
+      "Commuter assistance",
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Loan forgiveness",
+      "Paid time off",
+      "Retirement plan",
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Anheuser-Busch",
+    "job title": "Staff Engineer, Backend Services",
+    "salary": "$149,150 - $226,800 a year",
+    "skills": [
+      "SQL",
+      "GitHub",
+      "Distributed systems",
+      "Git",
+      "TypeScript",
+      "Software development",
+      "GraphQL",
+      "Spark",
+      "DevOps",
+      "APIs",
+      "Java",
+      "Back-end development",
+      ".NET Core",
+      "Debugging",
+      "Design patterns",
+      "Python",
+      "Redis",
+      "Machine learning",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "Visual Studio",
+      "Scalability",
+      "Azure",
+      "Spring",
+      "Microsoft SQL Server",
+      "C#",
+      "Spring Boot",
+      "Cloud infrastructure",
+      "Full-stack development",
+      "Oracle",
+      "Data structures",
+      "CI/CD",
+      "Middleware",
+      "Manufacturing",
+      "REST",
+      "System design",
+      "Kafka",
+      "Programmable logic controllers",
+      "React",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Life insurance",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Google",
+    "job title": "Principal Engineer, Front-End and UI, Search Developer Platform",
+    "salary": "0",
+    "skills": [
+      "Full-stack development",
+      "Computer science",
+      "APIs",
+      "Back-end development",
+      "SDKs",
+      "Debugging",
+      "Layout design",
+      "UI design"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

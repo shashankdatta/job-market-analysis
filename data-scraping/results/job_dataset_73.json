@@ -1,0 +1,447 @@
+[
+  {
+    "company name": "R-Square Inc.",
+    "job title": "Programmer Analysts (Informatica)",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "R",
+      "Informatica",
+      "PL/SQL",
+      "SSRS",
+      "SDLC",
+      "Oracle",
+      "SSIS"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Arch Capital Group Ltd.",
+    "job title": "Director, Software Engineering - Agile Program Manager for Interoperability Layer Team (Hybrid)",
+    "salary": "0",
+    "skills": [
+      "Leadership",
+      "Java",
+      "Software development",
+      "SDLC",
+      "Test automation",
+      "Business analysis",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "TRA'BIAN ENTERPRISES",
+    "job title": "FRONT END APPLICATION DEVELOPER",
+    "salary": "0",
+    "skills": [
+      "Front-end development",
+      "React",
+      "UI"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "PulsePoint",
+    "job title": "Sr. Site Reliability Engineer (U.S.)",
+    "salary": "0",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "Memcached",
+      "Git",
+      "Continuous integration",
+      "AWS",
+      "MySQL",
+      "Virtualization",
+      "TCP",
+      "TCP/IP",
+      "Martech",
+      "Python",
+      "Redis",
+      "CentOS",
+      "PostgreSQL",
+      "Google Cloud Platform",
+      "Scripting",
+      "Ruby",
+      "Linux",
+      "Cassandra",
+      "MongoDB",
+      "Databases",
+      "PKI",
+      "DNS",
+      "Jenkins",
+      "Docker",
+      "Puppet",
+      "Load balancing",
+      "IT",
+      "Shell Scripting",
+      "Bash"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Adoption assistance",
+      "Commuter assistance",
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "Referral program",
+      "Tuition reimbursement",
+      "Vision insurance",
+      "Wellness program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NovoInvent",
+    "job title": "ANDROID DEVELOPER",
+    "salary": "0",
+    "skills": [
+      "Git",
+      "Multithreading",
+      "SDLC",
+      "Databases",
+      "OOP",
+      "Android",
+      "SVN",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Intone Networks",
+    "job title": "Drupal/Open Source Developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Memcached",
+      "GitHub",
+      "XML",
+      "Git",
+      "Continuous integration",
+      "AJAX",
+      "Backbone.js",
+      "AWS",
+      "HTML5",
+      "MySQL",
+      "SDLC",
+      "Perl",
+      "Visual Basic",
+      "Ruby on Rails",
+      "Responsive web design",
+      "Back-end development",
+      "LAMP stack",
+      "Configuration management",
+      "Operating systems",
+      "Front-end development",
+      "Python",
+      "Drupal",
+      "Redis",
+      "XHTML",
+      "PostgreSQL",
+      "Node.js",
+      "UNIX",
+      "Microsoft SQL Server",
+      "Linux",
+      "WordPress",
+      "Software deployment",
+      "Angular",
+      "Oracle",
+      "OOP",
+      "Leadership",
+      "REST",
+      "Jira",
+      "PHP",
+      "jQuery",
+      "IT",
+      "JavaScript",
+      "CSS",
+      "Windows"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "SS&C",
+    "job title": "Senior Software Developer",
+    "salary": "$130,000 - $175,000 a year",
+    "skills": [
+      "SQL",
+      "HTML5",
+      "Azure",
+      "Microsoft SQL Server",
+      "C#",
+      "Accounting",
+      "Product management",
+      "Data structures",
+      "IIS",
+      ".NET",
+      "REST",
+      "Debugging",
+      "Front-end development",
+      "T-SQL",
+      "C",
+      "CSS"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Employee assistance program",
+      "Health insurance",
+      "Parental leave",
+      "Professional development assistance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Spectra Group",
+    "job title": "Senior Java Developer",
+    "salary": "$110,000 a year",
+    "skills": [
+      "Java",
+      "J2EE",
+      "Hibernate",
+      "Spring"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Cognizant Technology Solutions",
+    "job title": "AEM Backend Developer",
+    "salary": "0",
+    "skills": [
+      "Adobe Analytics",
+      "Adobe Experience Manager",
+      "Adobe Target",
+      "Cloud architecture",
+      "Digital marketing",
+      "Adobe Marketing",
+      "Social media management"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee stock purchase plan",
+      "Health insurance",
+      "Life insurance",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Fashion Institute of Technology",
+    "job title": "Senior Programmer / Analyst, Enterprise Application Services (2 Positions)",
+    "salary": "$85,860 - $124,061 a year",
+    "skills": [
+      "SQL",
+      "XML",
+      "Git",
+      "ERP systems",
+      "HTML5",
+      "Help desk",
+      "SDLC",
+      "APIs",
+      "IIS",
+      "Java",
+      "Tomcat",
+      "PL/SQL",
+      "PeopleSoft",
+      "Active Directory",
+      "UNIX",
+      "Microsoft SQL Server",
+      "Linux",
+      "Microsoft Windows Server",
+      "SSO",
+      "Oracle",
+      "Databases",
+      "Software troubleshooting",
+      "REST",
+      "LDAP",
+      "JavaScript",
+      "Groovy",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Commuter assistance",
+      "Employee assistance program",
+      "Flexible spending account",
+      "Health insurance",
+      "Paid time off",
+      "Retirement plan"
+    ],
+    "experience": [],
+    "responsibilities": [
+      "Provide operational, technical, design, and programming support/leadership of 3rd party/custom apps/systems/services using standards/best practices/stakeholder coordination. Develop deep business/functional understanding of systems. Manage/administer EA systems/services as SME. Deliver high quality/tested code. Manage SDLC (specs, prototypes, database, ETL needs, launch). Analyze/optimize EA's systems' performance."
+    ]
+  },
+  {
+    "company name": "Block",
+    "job title": "Firmware Engineering Manager",
+    "salary": "0",
+    "skills": [
+      "Firmware",
+      "Linux",
+      "Information security"
+    ],
+    "education": [],
+    "benefits": [
+      "AD&D insurance",
+      "Caregiver leave",
+      "Dental insurance",
+      "Employee stock purchase plan",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Life insurance",
+      "Paid parental leave",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "Retirement plan",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "EGROVE SYSTEMS CORPORATION",
+    "job title": "WordPress Developer",
+    "salary": "$20 an hour",
+    "skills": [
+      "Authentication",
+      "WordPress",
+      "Risk management",
+      "Information security"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Franklin Templeton Investments",
+    "job title": "Full Stack Developer",
+    "salary": "$128,000 - $151,800 a year",
+    "skills": [
+      "Continuous integration",
+      "TypeScript",
+      "Node.js",
+      "Software development",
+      "AWS",
+      "Asset management",
+      "Full-stack development",
+      "DevOps",
+      "APIs",
+      "MongoDB",
+      "REST",
+      "Jira",
+      "Confluence",
+      "Unit testing",
+      "Python",
+      "IT",
+      "React",
+      "Agile",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "On-site gym",
+      "Paid time off",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Sumas Corporation",
+    "job title": "Programmer Analyst",
+    "salary": "0",
+    "skills": [
+      "Systems engineering"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Enthsquare",
+    "job title": "Software Developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Distributed systems",
+      "Git",
+      "UNIX",
+      "Project management",
+      "Ruby",
+      "Linux",
+      "Perl",
+      "Django",
+      "Go",
+      "Java",
+      "RabbitMQ",
+      "Docker",
+      "Python",
+      "Shell Scripting",
+      "Bash"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

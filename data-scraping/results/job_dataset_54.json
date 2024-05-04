@@ -1,0 +1,399 @@
+[
+  {
+    "company name": "Google",
+    "job title": "Principal Engineer, AI, Trust, Security Site Reliability Engineering",
+    "salary": "0",
+    "skills": [
+      "Leadership",
+      "Distributed systems",
+      "Software development",
+      "Computer science",
+      "AI"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "MetLife",
+    "job title": "Lead Full Stack Software Engineer",
+    "salary": "0",
+    "skills": [
+      "GitHub",
+      "Software development",
+      "Microservices",
+      "Kubernetes",
+      "Power BI",
+      "Azure",
+      "Cloud infrastructure",
+      "SOX",
+      "Data warehouse",
+      "Software deployment",
+      "DevOps",
+      "APIs",
+      "CI/CD",
+      "OOP",
+      "Leadership",
+      "Cloud development",
+      "Docker",
+      "Design patterns",
+      "Mentoring",
+      "Information security",
+      "Terraform",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee assistance program",
+      "Health insurance",
+      "Life insurance",
+      "Parental leave",
+      "Relocation assistance",
+      "Tuition reimbursement",
+      "Vision insurance",
+      "Volunteer time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Atria Physician Practice New York PC",
+    "job title": "Software Engineering Team Lead",
+    "salary": "$180,000 - $200,000 a year",
+    "skills": [
+      "Leadership",
+      "Computer science",
+      "AI",
+      "Mobile applications"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Stevens Institute of Technology",
+    "job title": "STMicroelectronics Embedded Systems Developer",
+    "salary": "0",
+    "skills": [],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "MUFG Bank, Ltd.",
+    "job title": "Commercial Card Software Engineering, AVP",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Business requirements",
+      "Financial services",
+      "Software development",
+      "Google Cloud Platform",
+      "C#",
+      "Team management",
+      "Computer science",
+      "Product management",
+      "APIs",
+      "Business analysis",
+      "CI/CD",
+      "Java",
+      "ETL",
+      "System design",
+      "Application development",
+      "Python",
+      "Agile",
+      "UI design",
+      "Banking"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "KPIT Technologies GmbH",
+    "job title": "C++ Developer",
+    "salary": "0",
+    "skills": [
+      "Git",
+      "Software development",
+      "C++",
+      "Linux",
+      "SDKs",
+      "Jenkins",
+      "OpenCV",
+      "Debugging",
+      "Operating systems",
+      "C",
+      "UML",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Disability insurance",
+      "Employee assistance program",
+      "Employee discount",
+      "Flexible spending account",
+      "Gym membership",
+      "Health savings account",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": [
+      "Responsible for designing, developing, maintaining robust and efficient Infotainment features for next generation IVI/HUD. ",
+      "Optimize performance, safety and security of the software using state-of-the art algorithms and dedicated hardware components. ",
+      "Be part of a fast-paced, highly motivated agile team developing cutting-edge customer features for the Air/Gravity line of products. ",
+      "Candidates will be expected to demonstrate excellence in their respective fields, possess the ability to learn quickly and strive for perfection within a fast-paced environment. "
+    ]
+  },
+  {
+    "company name": "Apollo",
+    "job title": "Associate Director, Quantitative Developer – Global Analytics Platform",
+    "salary": "$125,000 - $175,000 a year",
+    "skills": [
+      "SQL",
+      "Financial services",
+      "Test-driven development",
+      "Software development",
+      "Microservices",
+      "Microsoft SQL Server",
+      "Spring",
+      "C#",
+      "Spring Boot",
+      "Computer science",
+      "Talend",
+      "SDLC",
+      "Data structures",
+      "Java",
+      "REST",
+      "Analytics",
+      "Design patterns",
+      "Web services"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ZT Systems",
+    "job title": "Sr. Staff Software Development Program Manager",
+    "salary": "0",
+    "skills": [
+      "Software development",
+      "Jira",
+      "Project management",
+      "Team management"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Marotta Controls, Inc.",
+    "job title": "Automated Test Equipment Software/Electrical Engineer (ATE/SE)",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Project planning",
+      "C++",
+      "C#",
+      "Visio",
+      "C",
+      "TCP",
+      "TCP/IP"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Flexible schedule",
+      "Health insurance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Coherent Corp.",
+    "job title": "Sr. Principal Embedded Software Engineer",
+    "salary": "0",
+    "skills": [
+      "Software development",
+      "Rust",
+      "C++",
+      "C#",
+      "SoC",
+      "Linux",
+      "LabView",
+      "FPGA",
+      "OOP",
+      "Network protocols",
+      "Debugging",
+      "C",
+      "Python"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Camin Cargo Control Inc.",
+    "job title": "IT Software Developer - Senior",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Software development",
+      "Cloud architecture",
+      "Web design",
+      "WCF",
+      "Microsoft SQL Server",
+      "System architecture",
+      "C#",
+      "Computer science",
+      "SSRS",
+      "APIs",
+      "Kendo",
+      "Entity Framework",
+      ".NET",
+      "Database design",
+      "Unit testing",
+      "jQuery",
+      "Telerik",
+      "MVC"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Adidev Technologies Inc",
+    "job title": "IOS Developer",
+    "salary": "0",
+    "skills": [
+      "GitHub",
+      "HTML5",
+      "iOS development",
+      "Test automation",
+      "APIs",
+      "iOS",
+      "React Native",
+      "Objective-C",
+      "Design patterns",
+      "MVC",
+      "JavaScript",
+      "Swift",
+      "CSS",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Broadridge",
+    "job title": "Sr z/OS Network Software Systems Programmer (Hybrid - Flexible Options)",
+    "salary": "0",
+    "skills": [
+      "Encryption",
+      "System administration",
+      "Customer service",
+      "TCP",
+      "TCP/IP",
+      "Analysis skills",
+      "Disaster recovery",
+      "Mainframe development",
+      "Enterprise software",
+      "SSL"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Empire State Development, NYS",
+    "job title": "Project Manager, Digital Game Development",
+    "salary": "$67,000 - $70,000 a year",
+    "skills": [
+      "Economic development",
+      "LIHTC",
+      "Project management",
+      "Business development",
+      "Analysis skills"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Invonto",
+    "job title": "Sr. Computer Vision and Machine Learning Engineer (hybrid)",
+    "salary": "$75,000 - $90,000 a year",
+    "skills": [
+      "PyTorch",
+      "PostgreSQL",
+      "AWS",
+      "TensorFlow",
+      "Database management",
+      "Full-stack development",
+      "APIs",
+      "Deep learning",
+      "Robotics",
+      "Computer vision",
+      "Object detection",
+      "Python",
+      "AI",
+      "Machine learning"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

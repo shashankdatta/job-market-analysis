@@ -1,0 +1,494 @@
+[
+  {
+    "company name": "Dots Technologies",
+    "job title": "SOFTWARE DEVELOPERS",
+    "salary": "0",
+    "skills": [
+      "Software troubleshooting",
+      "UNIX",
+      "Ubuntu",
+      "HTML5",
+      "Fedora",
+      "Debugging",
+      "Linux",
+      "Angular",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Referral program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CFSB",
+    "job title": "VP, Software Engineer",
+    "salary": "$170,000 - $200,000 a year",
+    "skills": [
+      "SQL",
+      "PostgreSQL",
+      "Relational databases",
+      "Microservices",
+      "Microsoft SQL Server",
+      "C#",
+      "Computer science",
+      "SDLC",
+      "APIs",
+      ".NET",
+      "Java",
+      "RabbitMQ",
+      "Application development",
+      "Redis",
+      "Banking"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Fidelity Investments",
+    "job title": "Principal Software Engineer",
+    "salary": "$85,000 - $179,000 a year",
+    "skills": [
+      "NoSQL",
+      "Git",
+      "Microservices",
+      "Computer science",
+      "Kanban",
+      "DevOps",
+      "APIs",
+      "Maven",
+      "UI",
+      "Java",
+      "Python",
+      "Kubernetes",
+      "Software deployment",
+      "Linux",
+      "Angular",
+      "Ansible",
+      "Analysis skills",
+      "CI/CD",
+      "Databases",
+      "REST",
+      "Regulatory reporting",
+      "Scrum",
+      "Jenkins",
+      "Kafka",
+      "Docker",
+      "Shell Scripting",
+      "React",
+      "Bash",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Loan repayment program",
+      "Paid time off",
+      "Parental leave",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "TikTok",
+    "job title": "Site Reliability Engineer, Recommendation Infrastructure - USDS",
+    "salary": "$116,000 - $237,000 a year",
+    "skills": [
+      "Distributed systems",
+      "C++",
+      "Software deployment",
+      "Linux",
+      "Perl",
+      "Go",
+      "CI/CD",
+      "Computer networking",
+      "System design",
+      "Python",
+      "C"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "AD&D insurance",
+      "Disability insurance",
+      "Employee assistance program",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Paid parental leave",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "RSU",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "The Trade Desk",
+    "job title": "Senior Software Engineer",
+    "salary": "$123,900 - $227,200 a year",
+    "skills": [
+      "SQL",
+      "Distributed systems",
+      "Git",
+      "Software development",
+      "Microservices",
+      "C++",
+      "Computer science",
+      "SDLC",
+      "Java",
+      "gRPC",
+      "Operating systems",
+      "Python",
+      "Redis",
+      "PostgreSQL",
+      "Kubernetes",
+      "Visual Studio",
+      "Perforce",
+      "Microsoft SQL Server",
+      "C#",
+      "Databases",
+      ".NET",
+      "REST",
+      "Kafka",
+      "Docker",
+      "C"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Adobe",
+    "job title": "Senior Software Engineer, Applied AI/ML, Audio/Video",
+    "salary": "$124,000 - $234,200 a year",
+    "skills": [
+      "Leadership",
+      "Distributed systems",
+      "Computer science",
+      "Product management",
+      "AI"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Disney Direct to Consumer",
+    "job title": "Sr Software Engineer (Rust/C++)",
+    "salary": "$142,516 - $191,180 a year",
+    "skills": [
+      "Rust",
+      "C++",
+      "Computer science",
+      "C",
+      "UI"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Ramp Financial",
+    "job title": "Staff Software Engineer | Web",
+    "salary": "0",
+    "skills": [
+      "A/B testing",
+      "Marketing",
+      "SEO",
+      "Debugging",
+      "JavaScript",
+      "CSS",
+      "Content management systems",
+      "Purchasing"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Parental leave",
+      "Pet insurance",
+      "Vision insurance",
+      "Work from home stipend"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Clarapath",
+    "job title": "Senior Software Engineer, DevOps",
+    "salary": "$129,000 - $160,000 a year",
+    "skills": [
+      "Software testing",
+      "Software deployment",
+      "Linux",
+      "DevOps",
+      "Analysis skills",
+      "Software troubleshooting",
+      "Manufacturing",
+      "Docker",
+      "Python",
+      "Shell Scripting",
+      "Bash"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": [
+      "Develop a deep understanding of systems (Linux or similar) and hardware-specific tools such as configurators and programmers (OS, networking, security settings, etc.)",
+      "Design, develop, and maintain automated scripts and software to streamline the installation, testing, and configuration of necessary software per mechanical assembly workflow. This may involve software deployment platforms, and containerization approaches.",
+      "Create and integrate software tools to automate the integration of required third-party hardware/software such as sensors, drivers, and libraries.",
+      "Develop and execute automated testing procedures to ensure overall machine functionality with the production software installed prior to release.",
+      "Establish and maintain efficient processes for reporting and tracking issues during assembly, utilizing automation wherever possible.",
+      "Proactively identify and implement process efficiencies by reviewing procedures, evaluating tools, and providing recommendations to team leads.",
+      "Collaborate with cross-functional engineering teams to design and implement automated solutions for streamlining software deployment in manufacturing operations.",
+      "Create documentation and guides for software maintenance and troubleshooting known issues, ensuring ease of use and understanding for all relevant personnel.",
+      "Develop and maintain automated systems for managing software licenses and updates to installed programs.",
+      "Design and implement automated systems for maintaining software licenses, computer images, backups, and version control for manufactured products/machines.",
+      "Take ownership of the entire software bring-up process during manufacturing, from design and development to deployment and maintenance, ensuring a smooth and efficient workflow."
+    ]
+  },
+  {
+    "company name": "BlackRock",
+    "job title": "Associate, Java/J2EE Backend Developer",
+    "salary": "$132,500 - $157,500 a year",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "Git",
+      "J2EE",
+      "Microservices",
+      "AWS",
+      "DevOps",
+      "Maven",
+      "Java",
+      "Hibernate",
+      "gRPC",
+      "Relational databases",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "Azure",
+      "Spring",
+      "JPA",
+      "Spring Boot",
+      "Product management",
+      "Cassandra",
+      "REST",
+      "Kafka",
+      "Docker",
+      "AI",
+      "JavaScript",
+      "Research",
+      "High availability",
+      "APIs",
+      "Unit testing",
+      "Design patterns",
+      "Redis",
+      "Test-driven development",
+      "Microsoft SQL Server",
+      "Sybase",
+      "Software deployment",
+      "Angular",
+      "Ansible",
+      "Data structures",
+      "Analysis skills",
+      "Databases",
+      "React",
+      "Terraform",
+      "Agile",
+      "Vue.js"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Retirement plan",
+      "Tuition reimbursement",
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon.com Services LLC",
+    "job title": "Sr. Front End Engineer, Creators",
+    "salary": "From $134,500 a year",
+    "skills": [
+      "Wireframing",
+      "Software development",
+      "HTML5",
+      "Angular",
+      "SOAP",
+      "REST",
+      "Front-end development",
+      "MVC",
+      "React",
+      "JavaScript",
+      "CSS",
+      "Web services",
+      "Vue.js"
+    ],
+    "education": [],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Jefferies & Company, Inc.",
+    "job title": "C#/.NET Developer",
+    "salary": "$125,000 - $200,000 a year",
+    "skills": [
+      "SQL",
+      "Continuous integration",
+      "Financial services",
+      "Multithreading",
+      "Kubernetes",
+      "AWS",
+      "Microsoft SQL Server",
+      "C#",
+      "SDLC",
+      "DevOps",
+      "Analysis skills",
+      "CI/CD",
+      "Leadership",
+      ".NET",
+      "Docker"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": [
+      "Lead, architect, manage, develop, and test innovative software solutions ",
+      "Responsible for building a strategic solution using cloud native technologies like Kubernetes, Docker, Yaml, and at least one major cloud provider, preferably AWS ",
+      "Design and deliver front to back technical solutions and integrate into business processes ",
+      "Participate in hands on coding, code reviews, architectural decisions, and reviews ",
+      "Work in an Agile Systems Development Life Cycle (SDLC) process delivering rapid business value ",
+      "Evolve and establish sound technical practices around Continuous Integration (CI), Continuous Development (CD), Site Reliability Engineering (SRE), and automated testing "
+    ]
+  },
+  {
+    "company name": "New York University",
+    "job title": "Senior Research Software Engineer",
+    "salary": "$110,000 - $130,000 a year",
+    "skills": [
+      "Research",
+      "GitHub",
+      "Git",
+      "Statistics",
+      "Google Cloud Platform",
+      "Scripting",
+      "C++",
+      "Linux",
+      "Databases",
+      "Customer support",
+      "GCP",
+      "Julia",
+      "Docker",
+      "Python",
+      "AI",
+      "Shell Scripting",
+      "Bash"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NBCUniversal",
+    "job title": "Senior Software Engineer",
+    "salary": "0",
+    "skills": [
+      "TypeScript",
+      "Software development",
+      "GraphQL",
+      "APIs",
+      "Data structures",
+      "REST",
+      "JSON",
+      "Configuration management",
+      "Software architecture",
+      "Design patterns",
+      "React",
+      "Drupal",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "UBS",
+    "job title": "Software Engineer - Java / Big Data",
+    "salary": "0",
+    "skills": [
+      "Data management",
+      "Distributed systems",
+      "Continuous integration",
+      "Kubernetes",
+      "Spark",
+      "Test automation",
+      "Java",
+      "Regulatory reporting",
+      "Big data",
+      "Scala",
+      "Debugging"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

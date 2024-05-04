@@ -1,0 +1,434 @@
+[
+  {
+    "company name": "PRIME CONSULTING INC",
+    "job title": "Server Side Engineer",
+    "salary": "$107,004.13 - $128,865.18 a year",
+    "skills": [
+      "SQL",
+      "Kotlin",
+      "REST",
+      "Gradle"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CertiK",
+    "job title": "Senior Software Engineer",
+    "salary": "$120,000 - $165,000 a year",
+    "skills": [
+      "Microservices",
+      "AWS",
+      "HTML5",
+      "Blockchain",
+      "Angular",
+      "Go",
+      "Data structures",
+      "SDKs",
+      "Operating systems",
+      "S3",
+      "AI",
+      "Python",
+      "React",
+      "JavaScript",
+      "CSS",
+      "Vue.js"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "TheGuarantors",
+    "job title": "Senior Software Engineer",
+    "salary": "$140,000 - $165,000 a year",
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "Software development",
+      "AWS",
+      "Project implementation",
+      "Full-stack development",
+      "APIs",
+      "Data structures",
+      "Leadership",
+      "Scrum",
+      "System design",
+      "Web development",
+      "React",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Flexible schedule",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NYC Careers",
+    "job title": "Computer Specialist (Software) II - MIS Developer",
+    "salary": "$93,288 - $107,281 a year",
+    "skills": [
+      "SQL",
+      "Scripting",
+      "Database management",
+      "Mobile applications",
+      "Enterprise architecture",
+      "ArcGIS",
+      "Quality assurance",
+      "GIS",
+      "Technical support",
+      "Database design",
+      "Debugging",
+      "Project leadership",
+      "Database administration",
+      "Python",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "High school diploma or GED",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Loan forgiveness"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Dow Jones",
+    "job title": "Sr Software Engineer",
+    "salary": "$40,000 - $160,000 a year",
+    "skills": [
+      "NoSQL",
+      "Git",
+      "AWS",
+      "C++",
+      "Elasticsearch",
+      "Computer science",
+      "SDLC",
+      "Solr",
+      "Java",
+      "Python",
+      "Node.js",
+      "Scripting",
+      "Lucene",
+      "Software deployment",
+      "Linux",
+      "Analysis skills",
+      "CI/CD",
+      "Databases",
+      "OOP",
+      "JSON",
+      "DynamoDB",
+      "Jenkins",
+      "Docker",
+      "AI",
+      "Shell Scripting",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Commuter assistance",
+      "Dental insurance",
+      "Health insurance",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Referral program",
+      "Retirement plan",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ProIT Inc.",
+    "job title": "AWS Cloud Engineer",
+    "salary": "$120,000 - $140,000 a year",
+    "skills": [
+      "AWS",
+      "Cloud infrastructure",
+      "Google Cloud Platform",
+      "Agile",
+      "CI/CD"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Intone Networks",
+    "job title": "Senior Software Engineer",
+    "salary": "0",
+    "skills": [
+      "Node.js",
+      "Git",
+      "Software development",
+      "Microservices",
+      "AWS",
+      "HTML5",
+      "Full-stack development",
+      "APIs",
+      "CI/CD",
+      "Leadership",
+      "Application development",
+      "Docker",
+      "Project leadership",
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Dots Technologies",
+    "job title": "SOFTWARE ENGINEERS",
+    "salary": "0",
+    "skills": [
+      "MATLAB",
+      "TestNG",
+      "Cucumber",
+      "Fortran",
+      "Python",
+      "Selenium",
+      "Maven"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Referral program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Mount Sinai",
+    "job title": "Bioinformatics Software Engineer - Pharmacological Sciences",
+    "salary": "$72,473 - $108,709 a year",
+    "skills": [
+      "Research",
+      "GitHub",
+      "Node.js",
+      "Git",
+      "Kubernetes",
+      "Flask",
+      "Docker",
+      "React"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Asana",
+    "job title": "Senior Software Engineer, Developer Experience",
+    "salary": "$171,000 - $258,000 a year",
+    "skills": [
+      "Distributed systems",
+      "Git",
+      "Continuous integration",
+      "Software development",
+      "Python",
+      "Test automation"
+    ],
+    "education": [],
+    "benefits": [
+      "Retirement plan",
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Apple",
+    "job title": "Software Engineer Frontend, Ad Platforms",
+    "salary": "$138,900 - $208,300 a year",
+    "skills": [
+      "Node.js",
+      "Backbone.js",
+      "GraphQL",
+      "HTML5",
+      "Computer science",
+      "Angular",
+      "UI",
+      "Analysis skills",
+      "UX",
+      "Middleware",
+      "Authentication",
+      "REST",
+      "Ember.js",
+      "React",
+      "JavaScript",
+      "CSS",
+      "UI design",
+      "Vue.js"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Employee stock purchase plan",
+      "Health insurance",
+      "RSU",
+      "Retirement plan"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "JPMorgan Chase & Co",
+    "job title": "Sr. Machine Learning Engineer",
+    "salary": "$147,250 - $260,000 a year",
+    "skills": [
+      "Google Cloud Platform",
+      "Natural language processing",
+      "AWS",
+      "Computer science",
+      "MLOps",
+      "Data structures",
+      "Leadership",
+      "Reinforcement learning",
+      "Machine learning"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "JPMorgan Chase & Co",
+    "job title": "Sr Lead Software Engineer- Full Stack- Connected Commerce",
+    "salary": "$171,000 - $260,000 a year",
+    "skills": [
+      "Leadership",
+      "Java",
+      "Git",
+      "AWS",
+      "Full-stack development",
+      "Unit testing",
+      "Angular",
+      "Enterprise software",
+      "APIs",
+      "React",
+      "JavaScript",
+      "CI/CD"
+    ],
+    "education": [],
+    "benefits": [
+      "Health insurance",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "OpenYield Inc",
+    "job title": "Senior C++ Software Engineer",
+    "salary": "$125,000 - $200,000 a year",
+    "skills": [
+      "Multithreading",
+      "Rust",
+      "Scripting",
+      "C++",
+      "Ruby",
+      "Linux",
+      "Python",
+      "Go"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Constellation Software, Inc.",
+    "job title": "Senior Software Engineer",
+    "salary": "$120,000 - $180,000 a year",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "TypeScript",
+      "Node.js",
+      "Software development",
+      "GraphQL",
+      "AWS",
+      "Database management",
+      "Full-stack development",
+      "Software deployment",
+      "DevOps",
+      "CI/CD",
+      "Redux",
+      "REST",
+      "Unit testing",
+      "React"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Family leave",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

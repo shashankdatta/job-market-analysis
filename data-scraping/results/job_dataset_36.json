@@ -1,0 +1,438 @@
+[
+  {
+    "company name": "Tek Ninjas",
+    "job title": "Cloud Engineer Senior",
+    "salary": "$73 - $75 an hour",
+    "skills": [
+      "Node.js",
+      "Kubernetes",
+      "AWS",
+      "Application development",
+      "Identity & access management",
+      "Ansible",
+      "Python",
+      "DevOps",
+      "APIs"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "JPMorgan Chase & Co",
+    "job title": "Sr. Machine Learning Engineer",
+    "salary": "$147,250 - $260,000 a year",
+    "skills": [
+      "Google Cloud Platform",
+      "Natural language processing",
+      "AWS",
+      "Computer science",
+      "MLOps",
+      "Data structures",
+      "Leadership",
+      "Reinforcement learning",
+      "Machine learning"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Parabit Systems",
+    "job title": "Senior Firmware Engineer",
+    "salary": "$115,000 - $145,000 a year",
+    "skills": [
+      "Network protocols",
+      "Firmware",
+      "Computer networking",
+      "System design",
+      "Schematics",
+      "Internet of things",
+      "Debugging",
+      "TCP",
+      "TCP/IP"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Captions",
+    "job title": "Software Engineer, Identity and Cloud Infrastructure",
+    "salary": "$130,000 - $200,000 a year",
+    "skills": [
+      "PyTorch",
+      "Git",
+      "Machine learning frameworks",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "AWS",
+      "Scripting",
+      "Cloud infrastructure",
+      "MLOps",
+      "DevOps",
+      "CI/CD",
+      "Identity & access management",
+      "Python",
+      "Shell Scripting",
+      "Bash",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Health insurance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon Web Services, Inc.",
+    "job title": "Senior Software Dev Engineer, AWS Marketplace",
+    "salary": "From $134,500 a year",
+    "skills": [
+      "Leadership",
+      "Software development",
+      "AWS",
+      "Computer science",
+      "SDLC",
+      "Design patterns",
+      "Mentoring",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Flexible schedule",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Canyon Associates",
+    "job title": "SQL Database Developer",
+    "salary": "$90,000 - $120,000 a year",
+    "skills": [
+      "SQL",
+      "Microsoft SQL Server",
+      "SQL Server Management Studio",
+      "SSIS",
+      "Databases"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Employee discount",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "S&P Global",
+    "job title": "UI Developer with .Net",
+    "salary": "$58,300 - $115,850 a year",
+    "skills": [
+      "Software development",
+      "ADO.NET",
+      "Software implementation",
+      "AWS",
+      "HTML5",
+      "Microsoft SQL Server",
+      "C#",
+      "Computer science",
+      "SSRS",
+      "Angular",
+      "Analysis skills",
+      ".NET",
+      ".NET Core",
+      "jQuery",
+      "MVC",
+      "React",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Continuing education credits",
+      "Health insurance",
+      "Referral program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Scratchpay",
+    "job title": "Mobile Application Developer (US Remote)",
+    "salary": "$70,000 - $100,000 a year",
+    "skills": [
+      "TypeScript",
+      "Kotlin",
+      "Node.js",
+      "Software development",
+      "Test-driven development",
+      "Scratch",
+      "GraphQL",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "HTML5",
+      "Mobile applications",
+      "UI",
+      "GitLab",
+      "UX",
+      "CI/CD",
+      "OOP",
+      "Java",
+      "iOS",
+      "REST",
+      "React Native",
+      "Docker",
+      "Swift",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Elements Connect",
+    "job title": "Front-End Engineer",
+    "salary": "0",
+    "skills": [
+      "TypeScript",
+      "Web design",
+      "UI",
+      "Web accessibility",
+      "Kendo",
+      "Responsive web design",
+      "WCAG",
+      "PHP",
+      "Jest",
+      "Front-end development",
+      "Python",
+      "React",
+      "JavaScript"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Employee assistance program",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "DigitalOcean",
+    "job title": "Senior Software Engineer II (Droplet Storage)",
+    "salary": "$145,000 - $180,000 a year",
+    "skills": [
+      "Leadership",
+      "Distributed systems",
+      "Computer networking",
+      "Kubernetes",
+      "gRPC",
+      "Docker",
+      "Linux",
+      "NFS",
+      "Virtualization",
+      "S3",
+      "Design patterns",
+      "Go"
+    ],
+    "education": [],
+    "benefits": [
+      "Employee stock purchase plan",
+      "Health insurance",
+      "Parental leave",
+      "Retirement plan",
+      "Stock options"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Wells Fargo",
+    "job title": "Lead Specialty Software Engineer",
+    "salary": "0",
+    "skills": [
+      "NoSQL",
+      "GitHub",
+      "Relational databases",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "Azure",
+      "SDLC",
+      "DevOps",
+      "OOP",
+      "Java",
+      "Jira",
+      "Confluence",
+      "Analytics",
+      "Jenkins",
+      "Kafka",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Caregiver leave",
+      "Commuter assistance",
+      "Dependent care reimbursement",
+      "Health insurance",
+      "Paid time off",
+      "Parental leave",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Little Ruby's Cafe",
+    "job title": "Sous Chef - Little Ruby's Cafe",
+    "salary": "From $65,000 a year",
+    "skills": [
+      "Kitchen management",
+      "Leadership",
+      "Kitchen experience",
+      "Financial acumen",
+      "Ruby"
+    ],
+    "education": [],
+    "benefits": [
+      "Dental insurance",
+      "Employee assistance program",
+      "Employee discount",
+      "Food provided",
+      "Health insurance",
+      "Paid time off",
+      "Referral program",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Child Mind Institute",
+    "job title": "Scientific Software Engineering Generalist",
+    "salary": "$82,600 - $112,000 a year",
+    "skills": [
+      "GitHub",
+      "UNIX",
+      "C++",
+      "C#",
+      "Linux",
+      "R",
+      "MATLAB",
+      "Data analysis skills",
+      "Signal processing",
+      "Python",
+      "Shell Scripting",
+      "JavaScript",
+      "Bash",
+      "Machine learning"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Flexible schedule",
+      "Flexible spending account",
+      "Health insurance",
+      "Paid parental leave",
+      "Parental leave"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ConveyThis",
+    "job title": "Mid-level Back-end PHP Developer",
+    "salary": "From $50,000 a year",
+    "skills": [
+      "Back-end development",
+      "PHP",
+      "PostgreSQL",
+      "Git",
+      "MySQL",
+      "Laravel",
+      "Computer science",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "MongoDB",
+    "job title": "Staff Software Engineer, Atlas Serverless",
+    "salary": "$137,000 - $260,000 a year",
+    "skills": [
+      "Performance tuning",
+      "Distributed systems",
+      "TypeScript",
+      "Google Cloud Platform",
+      "AWS",
+      "C++",
+      "C#",
+      "Encryption",
+      "Go",
+      "PaaS",
+      "MongoDB",
+      "Java",
+      "Debugging",
+      "Load balancing",
+      "Mentoring",
+      "JavaScript"
+    ],
+    "education": [],
+    "benefits": [
+      "Parental leave"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

@@ -1,0 +1,418 @@
+[
+  {
+    "company name": "S&P Global",
+    "job title": "UI Developer with .Net",
+    "salary": "$58,300 - $115,850 a year",
+    "skills": [
+      "Software development",
+      "ADO.NET",
+      "Software implementation",
+      "AWS",
+      "HTML5",
+      "Microsoft SQL Server",
+      "C#",
+      "Computer science",
+      "SSRS",
+      "Angular",
+      "Analysis skills",
+      ".NET",
+      ".NET Core",
+      "jQuery",
+      "MVC",
+      "React",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Continuing education credits",
+      "Health insurance",
+      "Referral program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Wells Fargo",
+    "job title": "Lead Specialty Software Engineer",
+    "salary": "0",
+    "skills": [
+      "NoSQL",
+      "GitHub",
+      "Relational databases",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "Azure",
+      "SDLC",
+      "DevOps",
+      "OOP",
+      "Java",
+      "Jira",
+      "Confluence",
+      "Analytics",
+      "Jenkins",
+      "Kafka",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Caregiver leave",
+      "Commuter assistance",
+      "Dependent care reimbursement",
+      "Health insurance",
+      "Paid time off",
+      "Parental leave",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Little Ruby's Cafe",
+    "job title": "Sous Chef - Little Ruby's Cafe",
+    "salary": "From $65,000 a year",
+    "skills": [
+      "Kitchen management",
+      "Leadership",
+      "Kitchen experience",
+      "Financial acumen",
+      "Ruby"
+    ],
+    "education": [],
+    "benefits": [
+      "Dental insurance",
+      "Employee assistance program",
+      "Employee discount",
+      "Food provided",
+      "Health insurance",
+      "Paid time off",
+      "Referral program",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "MongoDB",
+    "job title": "Staff Software Engineer, Atlas Serverless",
+    "salary": "$137,000 - $260,000 a year",
+    "skills": [
+      "Performance tuning",
+      "Distributed systems",
+      "TypeScript",
+      "Google Cloud Platform",
+      "AWS",
+      "C++",
+      "C#",
+      "Encryption",
+      "Go",
+      "PaaS",
+      "MongoDB",
+      "Java",
+      "Debugging",
+      "Load balancing",
+      "Mentoring",
+      "JavaScript"
+    ],
+    "education": [],
+    "benefits": [
+      "Parental leave"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Tishman Speyer",
+    "job title": "Senior Data & Software Engineer",
+    "salary": "$140,000 - $160,000 a year",
+    "skills": [
+      "SQL",
+      "GitHub",
+      "Azure",
+      "Docker",
+      "Python",
+      "DevOps",
+      "Agile",
+      "Team development"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Activate Games",
+    "job title": "Game Facilitator at Activate Games",
+    "salary": "0",
+    "skills": [
+      "Construction painting"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "D. E. Shaw & Co., L.P.",
+    "job title": "Quant Systems: Cloud Engineer (New York)",
+    "salary": "$200,000 - $275,000 a year",
+    "skills": [
+      "Computer networking",
+      "Google Cloud Platform",
+      "AWS",
+      "Software deployment",
+      "Linux",
+      "Operating systems",
+      "Python",
+      "Terraform",
+      "Go"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Health insurance",
+      "Prescription drug insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Broad Reach Partners",
+    "job title": "Manager, Software Engineer",
+    "salary": "$150,000 - $225,000 a year",
+    "skills": [
+      "Kotlin",
+      "Software development",
+      "AWS",
+      "Distributed systems",
+      "SaaS",
+      "Kubernetes",
+      "Microsoft SQL Server",
+      "C#",
+      "Computer science",
+      "Leadership",
+      "React Native",
+      "Scrum",
+      "AI",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Flextime",
+      "Health insurance",
+      "Health savings account",
+      "Paid parental leave",
+      "Parental leave",
+      "Vision insurance",
+      "Volunteer time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Dynamic Motion Control Inc",
+    "job title": "Embedded Project Engineer",
+    "salary": "$115,918 a year",
+    "skills": [
+      "SQL",
+      "TypeScript",
+      "Software development",
+      "Visual Studio",
+      "C++",
+      "C#",
+      "SolidWorks",
+      "Leadership",
+      ".NET",
+      "Java",
+      "System design",
+      "C",
+      "Python",
+      "React"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "King.com",
+    "job title": "Senior Staff Backend Engineer - Activision Blizzard Media",
+    "salary": "$143,060 - $264,846 a year",
+    "skills": [
+      "NoSQL",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "AWS",
+      "Computer science",
+      "Cassandra",
+      "DevOps",
+      "Test automation",
+      "CI/CD",
+      "Leadership",
+      "Java",
+      "DynamoDB",
+      "Martech",
+      "Gradle",
+      "Jenkins",
+      "Kafka",
+      "Docker",
+      "Mentoring",
+      "HBase",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "AD&D insurance",
+      "Dental insurance",
+      "Disability insurance",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Paid sick time",
+      "Parental leave",
+      "Relocation assistance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Standard Bots",
+    "job title": "Senior Software Engineer, AI Product",
+    "salary": "$170,000 - $210,000 a year",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "Robotics",
+      "Docker",
+      "AI",
+      "Python",
+      "React"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Prudential",
+    "job title": "Director, Software Engineer - Event Management",
+    "salary": "$173,500 - $234,700 a year",
+    "skills": [
+      "Cloud architecture",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "AWS",
+      "DevOps",
+      "APIs",
+      "Leadership",
+      "Java",
+      "Analytics",
+      "Cloud development",
+      "Financial acumen",
+      "Application development",
+      "Docker",
+      "Design patterns",
+      "Python",
+      "Information security",
+      "Terraform",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee stock purchase plan",
+      "Health insurance",
+      "Life insurance",
+      "Military leave",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Veterinary Emergency Group (VEG)",
+    "job title": "IT SaaS Engineer",
+    "salary": "$80,000 - $90,000 a year",
+    "skills": [
+      "Conflict management",
+      "Intune",
+      "JSON",
+      "PowerShell",
+      "Python"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Benefits from day one",
+      "Cell phone reimbursement",
+      "Dental insurance",
+      "Health insurance",
+      "Parental leave",
+      "Unlimited paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Ogury",
+    "job title": "Principal Software Engineer, UI",
+    "salary": "$175,000 - $220,000 a year",
+    "skills": [
+      "Leadership",
+      "Node.js",
+      "SaaS",
+      "B2B",
+      "UI development",
+      "React",
+      "APIs"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Life insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "dYdX",
+    "job title": "Staff Web Engineer",
+    "salary": "$230,000 - $305,000 a year",
+    "skills": [
+      "Mentoring"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

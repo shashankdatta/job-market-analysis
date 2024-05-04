@@ -1,0 +1,398 @@
+[
+  {
+    "company name": "Visionet Systems",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "GitHub",
+      "AJAX",
+      "Git",
+      "Software development",
+      "HTML5",
+      "Computer science",
+      "Web accessibility",
+      "SOAP",
+      "REST",
+      "WCAG",
+      "Jenkins",
+      "SVN",
+      "Less",
+      "jQuery",
+      "JavaScript",
+      "CSS",
+      "SASS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Elements Connect",
+    "job title": "Sr. Software QA Engineer",
+    "salary": "0",
+    "skills": [
+      "Quality assurance",
+      "Playwright",
+      "Test management tools",
+      "Computer science",
+      "Test automation",
+      "Analysis skills"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Employee assistance program",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "StationMD",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "PostgreSQL",
+      "SaaS",
+      "Ubuntu",
+      "AWS",
+      "NIST standards",
+      "MySQL",
+      "Linux",
+      "SDLC",
+      "OOP",
+      "Software troubleshooting",
+      "PHP",
+      "Operating systems",
+      "Waterfall",
+      "Python",
+      "JavaScript",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Elements Connect",
+    "job title": "Full-Stack Developer (Remote)",
+    "salary": "0",
+    "skills": [
+      "ASP.NET",
+      "SQL",
+      "AJAX",
+      "HTML5",
+      "Microsoft SQL Server",
+      "C#",
+      "SDLC",
+      ".NET",
+      "E-commerce",
+      "Bootstrap",
+      "jQuery",
+      "MVC",
+      "JavaScript",
+      "CSS",
+      "Vue.js"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Employee assistance program",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Justworks Labs",
+    "job title": "Senior Software Engineer",
+    "salary": "$167,500 - $194,400 a year",
+    "skills": [
+      "SQL",
+      "Git",
+      "AWS",
+      "C++",
+      "Cloud infrastructure",
+      "Ruby",
+      "MySQL",
+      "APIs",
+      "Go",
+      "Leadership",
+      "Java",
+      "Design patterns",
+      "Python",
+      "JavaScript",
+      "Web services",
+      "Vue.js"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Triunity Software",
+    "job title": "Senior Python Developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Flask",
+      "AWS",
+      "Computer science",
+      "Angular",
+      "SDLC",
+      "Django",
+      "Databases",
+      "Leadership",
+      "REST",
+      "Python",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Freddie Mac",
+    "job title": "Senior Technical Lead (Hybrid - 3 Days in Office)",
+    "salary": "$184,000 - $276,000 a year",
+    "skills": [
+      "Relational databases",
+      "Git",
+      "Software development",
+      "JPA",
+      "JUnit",
+      "Computer science",
+      "APIs",
+      "CI/CD",
+      "Software troubleshooting",
+      "Java",
+      "Hibernate",
+      "Scrum",
+      "Docker",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Softova, Inc.",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "Java",
+      "J2EE",
+      "Struts"
+    ],
+    "education": [
+      "Associate's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Berkeley Research Group, LLC",
+    "job title": "DevOps Cloud Engineer, HAP Tech",
+    "salary": "$130,000 - $175,000 a year",
+    "skills": [
+      "Kubernetes",
+      "SRE",
+      "Azure",
+      "Software deployment",
+      "DevOps",
+      "Go",
+      "Analysis skills",
+      "CI/CD",
+      "OOP",
+      "Ruby on Rails",
+      "Software troubleshooting",
+      "Computer networking",
+      "Release management",
+      "React",
+      "JavaScript"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Vedainfo",
+    "job title": "Java Full Stack Developer",
+    "salary": "Up to $60 an hour",
+    "skills": [
+      "Java",
+      "Microservices",
+      "Debugging",
+      "Full-stack development",
+      "SDLC",
+      "React",
+      "JavaScript",
+      "UI"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Barclays",
+    "job title": "Front Office Software Developer (AVP)",
+    "salary": "0",
+    "skills": [
+      "Business requirements",
+      "Continuous integration"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Referral program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Dynamic Motion Control Inc",
+    "job title": "Application Development Project Engineer",
+    "salary": "$142,563 a year",
+    "skills": [
+      "SQL",
+      "Software development",
+      "Azure",
+      "AWS",
+      "HTML5",
+      "C#",
+      "Cloud infrastructure",
+      "LabView",
+      ".NET",
+      "Interviewing",
+      "AI",
+      "Python",
+      "React",
+      "JavaScript",
+      "CSS",
+      "Team development"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Progyny, Inc",
+    "job title": "Senior Software Engineer",
+    "salary": "$160,000 - $185,000 a year",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "AWS",
+      "Pandas",
+      "MySQL",
+      "SDLC",
+      "Computer science",
+      "DevOps",
+      "Test automation",
+      "ETL",
+      "Unit testing",
+      "HIPAA",
+      "S3",
+      "Python",
+      "PostgreSQL",
+      "Relational databases",
+      "Presentation skills",
+      "Test-driven development",
+      "Apache",
+      "Project management",
+      "Snowflake",
+      "Product management",
+      "Data structures",
+      "CI/CD",
+      "MongoDB",
+      "Databases",
+      "OOP",
+      "Project planning",
+      "REST",
+      "DynamoDB",
+      "Docker",
+      "Terraform"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Adoption assistance",
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Hudson River Trading",
+    "job title": "Experienced Low Level Software Engineer (C++)",
+    "salary": "$175,000 - $250,000 a year",
+    "skills": [
+      "UNIX",
+      "C++",
+      "Debugging",
+      "Linux",
+      "Computer science"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ILOGIC INC",
+    "job title": "EMBEDDED SOFTWARE ENGINEERS",
+    "salary": "0",
+    "skills": [
+      "Root cause analysis",
+      "C++",
+      "SDLC",
+      "C"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

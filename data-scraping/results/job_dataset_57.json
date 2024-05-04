@@ -1,0 +1,361 @@
+[
+  {
+    "company name": "Sonoma Consulting Inc.",
+    "job title": "Java Developer (Banking and Regulatory) (Local to NY, NJ)",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "XML",
+      "Git",
+      "Multithreading",
+      "Ant",
+      "J2EE",
+      "Software development",
+      "Microservices",
+      "Maven",
+      "Java",
+      "UNIX",
+      "Perforce",
+      "Spring",
+      "Stakeholder management",
+      "DB2",
+      "OOP",
+      "SOAP",
+      "JSON",
+      "Gradle",
+      "Regulatory reporting",
+      "Scrum",
+      "Jenkins",
+      "Shell Scripting",
+      "Agile",
+      "Banking"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "TanPro ITCorp",
+    "job title": "BI/Web Analytics Developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Web analytics",
+      "Data modeling",
+      "Hadoop",
+      "ETL",
+      "QlikView",
+      "Big data",
+      "Oracle",
+      "Data visualization",
+      "Omniture"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "UBS",
+    "job title": "Software engineer, GCRG CDIO AML Transaction Monitoring",
+    "salary": "0",
+    "skills": [
+      "Technical writing",
+      "Azure",
+      "Informatica",
+      "Linux",
+      "Oracle",
+      "DevOps"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Aptiva Corp",
+    "job title": "SOFTWARE ENGINEERS-2",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "SAP CRM",
+      "SAP Materials Management",
+      "Oracle EBS",
+      "PL/SQL",
+      "ABAP",
+      "Oracle"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "UpClear",
+    "job title": "DevOps and Infrastructure Engineer",
+    "salary": "$150,000 - $200,000 a year",
+    "skills": [
+      "SQL",
+      "GitHub",
+      "Git",
+      "Continuous integration",
+      "Relational databases",
+      "Cloud architecture",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "AWS",
+      "Azure",
+      "Scripting",
+      "Cloud infrastructure",
+      "PowerShell",
+      "DevOps",
+      "Databases",
+      "Software troubleshooting",
+      "Network protocols",
+      "Docker",
+      "Python",
+      "Shell Scripting",
+      "Bash"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Happy hour",
+      "Health insurance",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Sabbatical",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "SATIN SOLUTIONS",
+    "job title": "Software Developer",
+    "salary": "0",
+    "skills": [
+      "Business requirements",
+      "Software troubleshooting"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon.com Services LLC",
+    "job title": "Software Development Manager",
+    "salary": "From $148,000 a year",
+    "skills": [
+      "Leadership",
+      "Software development",
+      "Program management",
+      "Team management",
+      "Product management",
+      "Design patterns",
+      "Mentoring",
+      "Recruiting",
+      "Human resources",
+      "Web services"
+    ],
+    "education": [],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ION",
+    "job title": "Android Developer",
+    "salary": "$140,000 - $170,000 a year",
+    "skills": [
+      "Kotlin",
+      "Test-driven development",
+      "Software development",
+      "Computer science",
+      "APIs",
+      "Android development",
+      "Android",
+      "REST",
+      "JSON",
+      "SDKs",
+      "Application development",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Spruce Technology",
+    "job title": "Software Developer",
+    "salary": "0",
+    "skills": [
+      "ASP.NET",
+      "HTML5",
+      "Microsoft SQL Server",
+      "C#",
+      "Angular",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Ameri Pros",
+    "job title": "Computer Software Engineer - Level 2",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "XML",
+      "SharePoint",
+      "AJAX",
+      "J2EE",
+      "Software development",
+      "Hadoop",
+      "HTML5",
+      "C++",
+      "OBIEE",
+      "Visual Basic",
+      "DataStage",
+      "Java",
+      "PL/SQL",
+      "ASP.NET",
+      "Visual Studio",
+      "Microsoft SQL Server",
+      "C#",
+      "Informatica",
+      "Oracle",
+      ".NET",
+      "Cognos",
+      "C",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Involgix",
+    "job title": "Job-Id-SRM-AI&ML Analytics Platforms Engineer",
+    "salary": "0",
+    "skills": [
+      "AWS",
+      "Sage",
+      "AI",
+      "Python",
+      "Terraform",
+      "CI/CD",
+      "Machine learning"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Indus Group",
+    "job title": "Software Developer, Hackensack, NJ",
+    "salary": "0",
+    "skills": [
+      ".NET"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Abridge",
+    "job title": "Senior Full Stack Engineer (Security)",
+    "salary": "$180,000 - $205,000 a year",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "AI",
+      "React",
+      "Machine learning"
+    ],
+    "education": [
+      "Doctoral degree"
+    ],
+    "benefits": [
+      "Flexible schedule",
+      "Paid parental leave",
+      "Parental leave",
+      "Unlimited paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Shivam Infotech",
+    "job title": "Software Developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      ".NET",
+      "Java",
+      "J2EE",
+      "C#",
+      "JDBC",
+      "Angular",
+      "SDLC"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Siri Infosolutions Inc",
+    "job title": "IoT Network Deployment/Operations Engineer",
+    "salary": "$135,883 - $143,539 a year",
+    "skills": [
+      "Computer networking",
+      "DHCP",
+      "BGP",
+      "Internet of things",
+      "Software deployment",
+      "VPN",
+      "MPLS",
+      "DNS",
+      "OSPF",
+      "Routing protocols",
+      "IPsec",
+      "Cisco ISE"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

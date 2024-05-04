@@ -1,0 +1,435 @@
+[
+  {
+    "company name": "Technology, Automation, and Management, Inc.",
+    "job title": "CIO/G6 - .NET Developer",
+    "salary": "0",
+    "skills": [
+      ".NET",
+      "SharePoint",
+      "SDLC"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Steneral Consulting",
+    "job title": "Onsite Work - Need Front End Developer-locals in Jersey City NJ",
+    "salary": "0",
+    "skills": [
+      "Node.js",
+      "Adobe Experience Manager",
+      "HTML5",
+      "Java",
+      "Redux",
+      "Web development",
+      "Adobe Marketing",
+      "Less",
+      "Front-end development",
+      "React",
+      "JavaScript",
+      "SASS",
+      "CSS",
+      "Content management systems"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Dow Jones",
+    "job title": "Manager, Software Engineering, Android",
+    "salary": "$65,000 - $200,000 a year",
+    "skills": [
+      "Kotlin",
+      "Software deployment",
+      "Computer science",
+      "Mobile applications",
+      "APIs",
+      "Android development",
+      "Leadership",
+      "Application development",
+      "Mentoring",
+      "Swift",
+      "UI design"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Commuter assistance",
+      "Health insurance",
+      "Paid time off",
+      "Referral program",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Speed Express",
+    "job title": "Java software development and system onboarding engineer",
+    "salary": "$80,000 - $100,000 a year",
+    "skills": [
+      "SQL",
+      "Microservices",
+      "Spring",
+      "Computer science",
+      "APIs",
+      "MongoDB",
+      "Java",
+      "REST",
+      "Scrum",
+      "Application development"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "AmeriTEK Global",
+    "job title": "Software Developer",
+    "salary": "0",
+    "skills": [
+      "Java",
+      "JSON",
+      "HTML5",
+      "jQuery",
+      "Angular",
+      "IT",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Staxa Technologies",
+    "job title": "Java Software Engineer",
+    "salary": "0",
+    "skills": [
+      "Multithreading",
+      "Microservices",
+      "Apache",
+      "HTML5",
+      "Spring",
+      "Performance testing",
+      "Angular",
+      "Analysis skills",
+      "Java",
+      "REST",
+      "Hibernate",
+      "Tomcat",
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Softnet Consulting",
+    "job title": "Software Developer",
+    "salary": "0",
+    "skills": [
+      "SDLC"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Embtel Inc",
+    "job title": "Java Developer with Scala",
+    "salary": "$60 - $75 an hour",
+    "skills": [
+      "Java",
+      "Software development",
+      "Spark",
+      "Scala",
+      "Cucumber",
+      "Design patterns",
+      "Python",
+      "Data structures",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Intone Networks",
+    "job title": "Full Stack .NET Developer",
+    "salary": "0",
+    "skills": [
+      "Continuous integration",
+      "GraphQL",
+      "Computer science",
+      "DevOps",
+      "APIs",
+      "Design patterns",
+      "SASS",
+      "SCSS",
+      "Node.js",
+      "Azure",
+      "Spring",
+      "C#",
+      "Spring Boot",
+      "Full-stack development",
+      "Angular",
+      ".NET",
+      "Authentication",
+      "REST",
+      "Less",
+      "React",
+      "JavaScript",
+      "Agile",
+      "Vue.js"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree",
+      "High school diploma or GED"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Saberin Software LLC",
+    "job title": "Team Lead Full Stack Developer",
+    "salary": "$90,000 - $110,000 a year",
+    "skills": [
+      "SQL",
+      "AJAX",
+      "Git",
+      "Continuous integration",
+      "Software development",
+      "AWS",
+      "HTML5",
+      "Xamarin",
+      "SDLC",
+      "iOS development",
+      "DevOps",
+      "APIs",
+      "Kendo",
+      "Entity Framework",
+      "Application development",
+      "Active Directory",
+      "Mentoring",
+      "ASP.NET",
+      "Scalability",
+      "Microsoft SQL Server",
+      "C#",
+      "Project management",
+      "Leadership",
+      ".NET",
+      "JSON",
+      "Jira",
+      "Telerik",
+      "Identity & access management",
+      "MVC",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "TheGuarantors",
+    "job title": "Senior Site Reliability Engineer",
+    "salary": "$130,000 - $150,000 a year",
+    "skills": [
+      "SRE",
+      "AWS",
+      "Node.js",
+      "Software development",
+      "Kubernetes",
+      "Scripting",
+      "Budgeting",
+      "Software deployment",
+      "Go",
+      "CI/CD",
+      "Scrum",
+      "System design",
+      "Docker",
+      "Incident management",
+      "Release management",
+      "Shell Scripting",
+      "React",
+      "Terraform",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Flexible schedule",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Referral program",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": [
+      "Perform architectural design and operation at scale.",
+      "Develop and deliver tools/software to improve the reliability, security, scalability and operability of services.",
+      "Collaborate with engineering teams to analyze, provide inputs in architecture, infrastructure resources, observability to achieve reliability and scalability goals.",
+      "Collaborate with engineering teams to conduct production readiness reviews, development, testing, deployment, operation and refinement.",
+      "Partner with stakeholders to identify, measure and monitor availability, latency and overall service health.",
+      "Participate in on-call engineering duty to support production.",
+      "Instill Site Reliability best practice through automation, data insights, and observability.",
+      "Perform initial incident root cause analysis with engineers, carryout incident postmortem.",
+      "Mentor peers in your areas of technical and operational strength.",
+      "Be proactive, self-motivated, customer-focused, organized, and a good communicator."
+    ]
+  },
+  {
+    "company name": "Advantis Global",
+    "job title": "Unreal Developer",
+    "salary": "$70 an hour",
+    "skills": [
+      "3D animation",
+      "C++",
+      "SDLC",
+      "Python",
+      "Adobe Photoshop",
+      "Maya"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Flow",
+    "job title": "Senior/Staff Software Engineer",
+    "salary": "$190,000 - $230,000 a year",
+    "skills": [
+      "Leadership",
+      "Distributed systems",
+      "Computer science",
+      "High availability",
+      "Mentoring",
+      "APIs"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Commuter assistance",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee assistance program",
+      "Flexible spending account",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "AbbVie",
+    "job title": "Engineer, Automation I",
+    "salary": "0",
+    "skills": [
+      "Software testing",
+      "Visio",
+      "Computer science",
+      "Databases",
+      "Software troubleshooting",
+      "Robotics",
+      "System design",
+      "Cloud computing",
+      "Statistical analysis",
+      "Robot programming",
+      "AI",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Allagi Technologies",
+    "job title": "Software Developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "SharePoint",
+      "J2EE",
+      "Microsoft SQL Server",
+      "Computer science",
+      "Angular",
+      "Oracle",
+      "DevOps",
+      "APIs",
+      ".NET",
+      "Java",
+      "PL/SQL",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

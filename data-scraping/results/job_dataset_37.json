@@ -1,0 +1,454 @@
+[
+  {
+    "company name": "CVS Health",
+    "job title": "Lead Cloud Engineer",
+    "salary": "$124,372.50 - $267,800.00 a year",
+    "skills": [
+      "Hadoop",
+      "Google Cloud Platform",
+      "AWS",
+      "Spark",
+      "Computer science",
+      "Java",
+      "ETL",
+      "Analytics",
+      "Scala",
+      "Big data",
+      "Data science",
+      "Mentoring",
+      "Python",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee discount",
+      "Employee stock purchase plan",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Store discount",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "JPMorgan Chase & Co",
+    "job title": "Software Engineer II (Core Java)",
+    "salary": "$109,250 - $145,000 a year",
+    "skills": [
+      "PostgreSQL",
+      "Git",
+      "J2EE",
+      "Microservices",
+      "AWS",
+      "Spring",
+      "Spring Boot",
+      "Cloud infrastructure",
+      "Maven",
+      "Java",
+      "Software troubleshooting",
+      "REST",
+      "Jira",
+      "Debugging",
+      "Application development",
+      "Unit testing",
+      "S3",
+      "Terraform",
+      "Web services"
+    ],
+    "education": [],
+    "benefits": [
+      "Health insurance",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "US Mobile",
+    "job title": "Solution Architect",
+    "salary": "$130,000 - $180,000 a year",
+    "skills": [
+      "5G",
+      "Test-driven development",
+      "Software development",
+      "Kubernetes",
+      "Microservices",
+      "Enterprise software",
+      "JavaScript",
+      "CI/CD"
+    ],
+    "education": [],
+    "benefits": [
+      "Flexible schedule",
+      "Food provided",
+      "Gym membership",
+      "Professional development assistance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon.com Services LLC",
+    "job title": "Software Development Manager",
+    "salary": "From $148,000 a year",
+    "skills": [
+      "TypeScript",
+      "AWS",
+      "Team management",
+      "Computer science",
+      "DevOps",
+      "CI/CD",
+      "Leadership",
+      "Java",
+      "React Native",
+      "S3",
+      "Mentoring",
+      "Recruiting",
+      "Python"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Rutgers University",
+    "job title": "Research Programmer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Git",
+      "Software development",
+      "HTML5",
+      "C++",
+      "Full-stack development",
+      "Software deployment",
+      "Computer science",
+      "DevOps",
+      "APIs",
+      "Databases",
+      "System design",
+      "Debugging",
+      "Application development",
+      "Python",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "MUFG Bank, Ltd.",
+    "job title": "ETS Software Engineering, AVP",
+    "salary": "$120,000 - $150,000 a year",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "Hyperion",
+      "Software development",
+      "AWS",
+      "Machine learning libraries",
+      "SDLC",
+      "Virtualization",
+      "DevOps",
+      "Java",
+      "Confluence",
+      "PL/SQL",
+      "Statistical analysis",
+      "Design patterns",
+      "Python",
+      "Calypso",
+      "Machine learning",
+      "UNIX",
+      "Google Cloud Platform",
+      "Natural language processing",
+      "Azure",
+      "Microsoft SQL Server",
+      "C#",
+      "Linux",
+      "Software deployment",
+      "Oracle",
+      "Data structures",
+      "Analysis skills",
+      "CI/CD",
+      "Databases",
+      "OOP",
+      "REST",
+      "Jira",
+      "Regulatory reporting",
+      "Jenkins",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "SANS Consulting Services, Inc.",
+    "job title": "Quantitative Developer for Risk Analytics, Risk Management, Portfolio Management Systems for Asset M",
+    "salary": "$100 - $200 an hour",
+    "skills": [
+      "SQL",
+      "Angular",
+      "Entity Framework",
+      ".NET Core",
+      "Bootstrap",
+      "NoSQL",
+      "Cloud architecture",
+      "Test-driven development",
+      "Kubernetes",
+      "C#",
+      "Databases",
+      "SOAP",
+      "REST",
+      "Data modeling",
+      "Service-oriented architecture",
+      "Docker",
+      "jQuery",
+      "JavaScript"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "MongoDB",
+    "job title": "Senior Developer Advocate, Enterprise (C#, Java)",
+    "salary": "$104,000 - $204,000 a year",
+    "skills": [
+      ".NET",
+      "Java",
+      "Solution architecture",
+      "Marketing",
+      "Software development",
+      "Spring",
+      "C#",
+      "Product marketing",
+      "MongoDB"
+    ],
+    "education": [],
+    "benefits": [
+      "Parental leave"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Meta",
+    "job title": "Software Engineer, Computer Vision",
+    "salary": "$177,008 - $251,000 a year",
+    "skills": [
+      "PyTorch",
+      "Distributed systems",
+      "Natural language processing",
+      "C++",
+      "Computer science",
+      "Deep learning",
+      "Computer vision",
+      "System design",
+      "C",
+      "AI",
+      "Python",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Block",
+    "job title": "Senior Software Engineer (Cryptography), Bitkey",
+    "salary": "0",
+    "skills": [
+      "Java",
+      "Kotlin",
+      "Rust",
+      "Encryption",
+      "Ruby",
+      "Information security",
+      "Swift",
+      "Go"
+    ],
+    "education": [],
+    "benefits": [
+      "AD&D insurance",
+      "Caregiver leave",
+      "Dental insurance",
+      "Employee stock purchase plan",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Life insurance",
+      "Paid parental leave",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "Retirement plan",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Walmart",
+    "job title": "Distinguished, Software Engineer Solution Architect",
+    "salary": "$130,000 - $260,000 a year",
+    "skills": [
+      "Web accessibility",
+      "WCAG",
+      "Systems engineering"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Family leave",
+      "Health insurance",
+      "Life insurance",
+      "Military leave",
+      "Paid jury duty",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Botify",
+    "job title": "SEO Consultant",
+    "salary": "$100,000 - $130,000 a year",
+    "skills": [
+      "GitHub",
+      "Leadership",
+      "Project management",
+      "SEO",
+      "JavaScript"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CONTRACT PHARMACAL CORP",
+    "job title": "Manager; Software Development",
+    "salary": "$100,000 - $150,000 a year",
+    "skills": [
+      "Software development",
+      "HTML5",
+      "Web design",
+      "Scripting",
+      "C++",
+      "Blockchain",
+      "Budgeting",
+      "Team management",
+      "Analysis skills",
+      "Leadership",
+      "Java",
+      "E-commerce",
+      "Web development",
+      "Python",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Rely Systems",
+    "job title": "Software Engineer – Powerbuilder",
+    "salary": "0",
+    "skills": [
+      "Debugging",
+      "PowerBuilder",
+      "Analysis skills"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Kensho",
+    "job title": "Senior Backend Software Engineer",
+    "salary": "$150,000 - $225,000 a year",
+    "skills": [
+      "Git",
+      "Flask",
+      "Kubernetes",
+      "Natural language processing",
+      "SDLC",
+      "Django",
+      "APIs",
+      "Data structures",
+      "Text classification",
+      "Jenkins",
+      "Docker",
+      "Python",
+      "AI",
+      "Machine learning"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "401(k) 6% Match",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "Tuition reimbursement",
+      "Unlimited paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

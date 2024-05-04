@@ -1,0 +1,403 @@
+[
+  {
+    "company name": "the NBA",
+    "job title": "Senior DevOps Engineer",
+    "salary": "$155,000 - $190,000 a year",
+    "skills": [
+      "GitHub",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "AWS",
+      "SAFe",
+      "Cloud infrastructure",
+      "Computer science",
+      "Kanban",
+      "High availability",
+      "DevOps",
+      "CI/CD",
+      "Leadership",
+      "Configuration management",
+      "Scrum",
+      "Project leadership",
+      "IT",
+      "Terraform",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Intellibus Ventures LLC",
+    "job title": "Software Engineer",
+    "salary": "$65 - $75 an hour",
+    "skills": [
+      "SQL",
+      "UNIX",
+      "Kubernetes",
+      "AWS",
+      "Spring",
+      "Spring Boot",
+      "Linux",
+      "Computer science",
+      "APIs",
+      "OOP",
+      "Leadership",
+      "Java",
+      "REST",
+      "Hibernate",
+      "Kafka",
+      "Mentoring",
+      "Terraform"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon.com Services LLC",
+    "job title": "Software Devlopment Engineer, FinTech Account Receivables Cash Applications",
+    "salary": "From $115,000 a year",
+    "skills": [
+      "Software development",
+      "AWS",
+      "Computer science",
+      "SDLC",
+      "Design patterns",
+      "Data structures",
+      "OOP"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NBCUniversal",
+    "job title": "Staff DevOps Engineer (Enterprise Infrastructure)",
+    "salary": "0",
+    "skills": [
+      "VMWare",
+      "Git",
+      "Kubernetes",
+      "Scripting",
+      "ITIL",
+      "PowerShell",
+      "Ansible",
+      "DevOps",
+      "CI/CD",
+      "ServiceNow",
+      "Software troubleshooting",
+      "Jira",
+      "Configuration management",
+      "Scrum",
+      "Jenkins",
+      "Docker",
+      "Mentoring",
+      "Python",
+      "Shell Scripting",
+      "Terraform",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Hudson River Trading",
+    "job title": "Senior Python Engineer",
+    "salary": "$150,000 - $250,000 a year",
+    "skills": [
+      "Distributed systems",
+      "UNIX",
+      "C++",
+      "Debugging",
+      "Linux",
+      "Computer science",
+      "Distributed computing",
+      "Python"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "The PCA Group",
+    "job title": "Junior .NET Developer",
+    "salary": "$63,000 - $75,000 a year",
+    "skills": [
+      ".NET",
+      "Statistics",
+      "Analysis skills"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Opportunities for advancement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "QVT Financial LP",
+    "job title": "QVT Candidate - Software Engineering",
+    "salary": "$140,000 - $165,000 a year",
+    "skills": [
+      "GitHub",
+      ".NET",
+      "Git",
+      "Software development",
+      "Statistics",
+      "Visual Studio",
+      "C#",
+      "School experience",
+      "Computer science"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Geo Logic Systems",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "UNIX",
+      "Microsoft SQL Server",
+      "OBIEE",
+      "Informatica",
+      "Linux",
+      "Microsoft Windows Server",
+      "SSRS",
+      "SDLC",
+      "Oracle",
+      "SSIS",
+      "DataStage",
+      "Cognos",
+      "PL/SQL"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Referral program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CapB InfoteK",
+    "job title": "Software Engineer - C",
+    "salary": "0",
+    "skills": [
+      "Java",
+      "Encryption",
+      "Unit testing",
+      "Linux",
+      "Oracle",
+      "C",
+      "AI",
+      "Perl",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Hana Cloud Solutions LLC",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "Microsoft SQL Server",
+      "Spring",
+      "Full-stack development",
+      "Angular",
+      "Oracle",
+      "Ext JS",
+      "Java",
+      "IT",
+      "React",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NBCUniversal",
+    "job title": "Site Reliability Engineer, Direct to Consumer",
+    "salary": "$130,000 - $160,000 a year",
+    "skills": [
+      "Debian",
+      "Ubuntu",
+      "AWS",
+      "Computer science",
+      "High availability",
+      "DevOps",
+      "Go",
+      "Configuration management",
+      "Python",
+      "CentOS",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "Database management",
+      "Splunk",
+      "Linux",
+      "Ansible",
+      "CI/CD",
+      "Docker",
+      "IT",
+      "Shell Scripting",
+      "Terraform",
+      "Bash"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Bank of America",
+    "job title": "Senior Quantitative Finance Analyst, AML Software Engineer",
+    "salary": "$125,000 - $210,000 a year",
+    "skills": [
+      "NumPy",
+      "Git",
+      "Software development",
+      "Hadoop",
+      "Pandas",
+      "SDLC",
+      "DevOps",
+      "Data structures",
+      "Analysis skills",
+      "SciPy",
+      "Jenkins",
+      "Python"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Intone Networks",
+    "job title": "DevOps Engineer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Scripting",
+      "PowerShell",
+      "DevOps",
+      "APIs",
+      "Databases",
+      "Jira",
+      "Jenkins",
+      "Python",
+      "Shell Scripting",
+      "Bash",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Visionet Systems",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "ASP.NET",
+      "Git",
+      "Software development",
+      "Visual Studio",
+      "Azure",
+      "C#",
+      "TFS",
+      "PowerShell",
+      "Computer science",
+      "DevOps",
+      "APIs",
+      "CI/CD",
+      ".NET",
+      "REST",
+      ".NET Core",
+      "Design patterns",
+      "MVC",
+      "Agile",
+      "Microsoft Dynamics 365"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "State Street",
+    "job title": "RBAC Full Stack Developer",
+    "salary": "$115,000 - $182,500 a year",
+    "skills": [
+      "NoSQL",
+      "AWS",
+      "Spring Boot",
+      "Angular",
+      "DevOps",
+      "APIs",
+      "RBAC",
+      "Java",
+      "Identity & access management",
+      "Python",
+      "Cybersecurity"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

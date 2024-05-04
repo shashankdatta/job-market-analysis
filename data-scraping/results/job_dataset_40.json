@@ -1,0 +1,436 @@
+[
+  {
+    "company name": "Doran Jones",
+    "job title": "Senior Full Stack Developer (React/Python)",
+    "salary": "$70,000 - $200,000 a year",
+    "skills": [
+      "Business requirements",
+      "Git",
+      "Financial services",
+      "SDLC",
+      "Snowflake",
+      "UI",
+      "Analysis skills",
+      "Data manipulation",
+      "Front-end development",
+      "Python",
+      "AI",
+      "UI development",
+      "React",
+      "JavaScript",
+      "Agile",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "R&G US",
+    "job title": "Biostatistical/SAS Programmer II",
+    "salary": "$60,000 - $100,000 a year",
+    "skills": [
+      "R",
+      "Clinical trials",
+      "SAS"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [
+      "Green card sponsorship"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "TrueSkilla",
+    "job title": "React Developer ONLY W2 CANDIDATE WHO CAN GO FOR F2F INTERVIEW",
+    "salary": "$50 - $60 an hour",
+    "skills": [
+      "React",
+      "JavaScript"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Google",
+    "job title": "Software Engineering Manager, Generative AI, Google Workspace",
+    "salary": "0",
+    "skills": [
+      "Distributed systems",
+      "Software development",
+      "Natural language processing",
+      "TensorFlow",
+      "C++",
+      "Leadership",
+      "Java",
+      "Supervising experience",
+      "Python",
+      "C",
+      "Distributed computing",
+      "AI",
+      "JavaScript",
+      "Machine learning"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Sumitomo Mitsui Banking Corporation",
+    "job title": "Application Developer - Vice President",
+    "salary": "$103,000 - $206,000 a year",
+    "skills": [
+      "GitHub",
+      "Azure",
+      "AWS",
+      "Cloud infrastructure",
+      "Linux",
+      "SDLC",
+      "APIs",
+      "CI/CD",
+      "Jenkins",
+      "Big data",
+      "Docker",
+      "S3",
+      "Windows"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "January Technologies",
+    "job title": "Engineering Team Lead, Borrower Activation",
+    "salary": "$160,000 - $210,000 a year",
+    "skills": [
+      "Leadership",
+      "Java",
+      "Spring",
+      "Full-stack development",
+      "Project leadership",
+      "Python",
+      "Go",
+      "Analysis skills"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Commuter assistance",
+      "Dental insurance",
+      "Flexible schedule",
+      "Gym membership",
+      "Health insurance",
+      "Unlimited paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "MUFG Bank, Ltd.",
+    "job title": "Senior Software Engineer, Associate Vice President",
+    "salary": "$110,000 - $135,000 a year",
+    "skills": [
+      "TypeScript",
+      "Kubernetes",
+      "SDLC",
+      "Angular",
+      "Sketch",
+      "Data structures",
+      "Analysis skills",
+      "UX",
+      "CI/CD",
+      "Databases",
+      "Java",
+      "REST",
+      "Python",
+      "React",
+      "JavaScript",
+      "Zeplin"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Selective Insurance Company of America",
+    "job title": "Principal Software Engineer (Hybrid)",
+    "salary": "$131,600 - $188,000 a year",
+    "skills": [
+      "SAFe",
+      "Microsoft SQL Server",
+      "C#",
+      "Full-stack development",
+      "Product management",
+      "DevOps",
+      ".NET",
+      "REST",
+      "Problem management",
+      "Debugging",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Flexible schedule",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "State Street",
+    "job title": "Platform Engineer/Developer – GL Infrastructure Engineering – Onsite",
+    "salary": "$100,000 - $160,000 a year",
+    "skills": [
+      "PostgreSQL",
+      "Kubernetes",
+      "AWS",
+      "C++",
+      "Spark",
+      "MySQL",
+      "Linux",
+      "Oracle",
+      "TCP",
+      "APIs",
+      "Go",
+      "Data structures",
+      "Java",
+      "Computer networking",
+      "Jenkins",
+      "Kafka",
+      "Load balancing",
+      "OS Kernels",
+      "Python"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "software people inc.",
+    "job title": "Telephony Project Manager Brooklyn NY",
+    "salary": "$75 - $90 an hour",
+    "skills": [
+      "SQL",
+      "VoIP",
+      "Telephony",
+      "Project management",
+      "Software development",
+      "SDLC"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": [
+      "1099 contract"
+    ]
+  },
+  {
+    "company name": "Amazon.com Services LLC",
+    "job title": "Software Devlopment Engineer, FinTech Account Receivables Cash Applications",
+    "salary": "From $115,000 a year",
+    "skills": [
+      "Software development",
+      "AWS",
+      "Full-stack development",
+      "Computer science",
+      "SDLC",
+      "Design patterns",
+      "Data structures",
+      "OOP"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Latent AI",
+    "job title": "Android Software Engineer",
+    "salary": "0",
+    "skills": [
+      "Software development",
+      "C++",
+      "Computer science",
+      "Java",
+      "iOS",
+      "Android",
+      "SDKs",
+      "Docker",
+      "Operating systems",
+      "C",
+      "AI",
+      "Python",
+      "Machine learning"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Strata Infosys",
+    "job title": "ASP.NET, C#, AJAX Developers",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "XML",
+      "AJAX",
+      "HTML5",
+      "TCP",
+      "TCP/IP",
+      "SSIS",
+      "IIS",
+      "Back-end development",
+      "Debugging",
+      "Application development",
+      "Active Directory",
+      "UI development",
+      "ASP.NET",
+      "Visual Studio",
+      "ADO.NET",
+      "WCF",
+      "Microsoft SQL Server",
+      "C#",
+      "OOP",
+      ".NET",
+      "E-commerce",
+      "Database administration",
+      "JavaScript",
+      "CSS",
+      "Windows",
+      "Web services"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Luxoft",
+    "job title": "Senior Java Developer",
+    "salary": "$110,000 - $220,000 a year",
+    "skills": [
+      "Memcached",
+      "Business requirements",
+      "Multithreading",
+      "Test-driven development",
+      "C++",
+      "Microsoft SQL Server",
+      "Spring",
+      "Spring Boot",
+      "Computer science",
+      "Test automation",
+      "APIs",
+      "Java",
+      "RabbitMQ",
+      "REST",
+      "Kafka",
+      "Python",
+      "Redis"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Chubb",
+    "job title": "Sr. Full Stack Engineer",
+    "salary": "0",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "Git",
+      "AWS",
+      "HTML5",
+      "Computer science",
+      "DevOps",
+      "Java",
+      "Kubernetes",
+      "Azure",
+      "C#",
+      "Spring Boot",
+      "Full-stack development",
+      "Software deployment",
+      "Angular",
+      "CI/CD",
+      "MongoDB",
+      "SOAP",
+      "Software troubleshooting",
+      ".NET",
+      "REST",
+      "Scrum",
+      "Database design",
+      "Docker",
+      "React",
+      "JavaScript",
+      "CSS",
+      "Agile",
+      "Web services",
+      "Vue.js"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": [
+      "Collaborate with cross-functional teams to gather and analyze requirements, understand business needs, and translate them into efficient technical solutions. ",
+      "Design, develop, and implement user-friendly, scalable, and high-quality software applications using Java, Angular, and .NET frameworks. ",
+      "Conduct code reviews to ensure adherence to coding standards, principles, and best practices. ",
+      "Continuously optimize application performance through monitoring, profiling, and fine-tuning. ",
+      "Stay updated with the latest industry trends and technologies to recommend improvements and enhancements to existing systems. ",
+      "Troubleshoot and debug applications to identify and resolve software defects and production issues in a timely manner. ",
+      "Collaborate with QA engineers to implement robust testing strategies, including unit, integration, and performance testing. ",
+      "Provide technical guidance and mentorship to junior team members whenever required. ",
+      "Participate in Agile development processes, including sprint planning, daily stand-ups, and retrospective meetings. "
+    ]
+  }
+]

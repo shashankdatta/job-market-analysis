@@ -1,0 +1,417 @@
+[
+  {
+    "company name": "Affiliated Monitoring",
+    "job title": "Senior Software Engineer",
+    "salary": "$140,000 - $160,000 a year",
+    "skills": [
+      "SQL",
+      "Flask",
+      "AWS",
+      "HTML5",
+      "MySQL",
+      "Computer science",
+      "APIs",
+      "RabbitMQ",
+      "Service-oriented architecture",
+      "Python",
+      "Relational databases",
+      "Kubernetes",
+      "Microsoft SQL Server",
+      "Full-stack development",
+      "Angular",
+      "SOAP",
+      "CodeIgniter",
+      "PHP",
+      "Docker",
+      "MVC",
+      "React",
+      "JavaScript",
+      "CSS",
+      "Web services",
+      "Vue.js"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Gym membership",
+      "Life insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Fusion Plus Solutions Inc.",
+    "job title": "Software Engineers",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Software troubleshooting",
+      "UNIX",
+      "HTML5",
+      "PL/SQL",
+      "Linux",
+      "Computer science",
+      "Oracle"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Elements Connect",
+    "job title": "Back-End Engineer",
+    "salary": "0",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "Cloud architecture",
+      "Kubernetes",
+      "AWS",
+      "DevOps",
+      "APIs",
+      "CI/CD",
+      "Software troubleshooting",
+      "Debugging",
+      "Docker",
+      "S3",
+      "Python"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Employee assistance program",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Jefferies & Company, Inc.",
+    "job title": "C#/.NET Developer",
+    "salary": "$125,000 - $200,000 a year",
+    "skills": [
+      "SQL",
+      "Continuous integration",
+      "Financial services",
+      "Multithreading",
+      "Kubernetes",
+      "SRE",
+      "AWS",
+      "Microsoft SQL Server",
+      "C#",
+      "SDLC",
+      "DevOps",
+      "Analysis skills",
+      "CI/CD",
+      "Leadership",
+      ".NET",
+      "Docker"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": [
+      "Lead, architect, manage, develop, and test innovative software solutions ",
+      "Responsible for building a strategic solution using cloud native technologies like Kubernetes, Docker, Yaml, and at least one major cloud provider, preferably AWS ",
+      "Design and deliver front to back technical solutions and integrate into business processes ",
+      "Participate in hands on coding, code reviews, architectural decisions, and reviews ",
+      "Work in an Agile Systems Development Life Cycle (SDLC) process delivering rapid business value ",
+      "Evolve and establish sound technical practices around Continuous Integration (CI), Continuous Development (CD), Site Reliability Engineering (SRE), and automated testing "
+    ]
+  },
+  {
+    "company name": "CEDENT",
+    "job title": "Software Engineer( Front End Developer)",
+    "salary": "0",
+    "skills": [
+      "Git",
+      "TypeScript",
+      "Web design",
+      "HTML5",
+      "ECMAScript",
+      "CI/CD",
+      "Redux",
+      "Bootstrap",
+      "Release management",
+      "Less",
+      "Front-end development",
+      "React",
+      "JavaScript",
+      "CSS",
+      "SASS",
+      "Agile",
+      "Banking"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Disney Direct to Consumer",
+    "job title": "Sr Software Engineer (Rust/C++)",
+    "salary": "$142,516 - $191,180 a year",
+    "skills": [
+      "Rust",
+      "C++",
+      "Computer science",
+      "C",
+      "UI"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Ariel Partners",
+    "job title": ".Net Solution Architect",
+    "salary": "$87 - $95 an hour",
+    "skills": [
+      "XML",
+      "Database development",
+      "Visual Studio",
+      "Microservices",
+      "Scalability",
+      "WCF",
+      "HTML5",
+      "High availability",
+      "CI/CD",
+      "SOAP",
+      ".NET",
+      "XSLT",
+      "RabbitMQ",
+      "REST",
+      "Data modeling",
+      "Service-oriented architecture",
+      ".NET Core",
+      "Kafka",
+      "Database design",
+      "Application development",
+      "Redis",
+      "Web services"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "IT Ideology",
+    "job title": "Software Engineer",
+    "salary": "$102,000 a year",
+    "skills": [],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "AK Group",
+    "job title": "DevOps Engineer (AI / ML)",
+    "salary": "$90,000 - $140,000 a year",
+    "skills": [
+      "Google Cloud Platform",
+      "Azure",
+      "C++",
+      "Project management",
+      "System administration",
+      "Software deployment",
+      "SDLC",
+      "DevOps",
+      "Perl",
+      "WebSphere",
+      "Java",
+      "Jira",
+      "NGINX",
+      "Puppet",
+      "Python",
+      "AI",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Capgemini",
+    "job title": "Big Data Engineer - Scala",
+    "salary": "$103,330 - $128,656 a year",
+    "skills": [
+      "SQL",
+      "PostgreSQL",
+      "Distributed systems",
+      "Relational databases",
+      "Hadoop",
+      "Google Cloud Platform",
+      "Spark",
+      "MySQL",
+      "Databases",
+      "HDFS",
+      "Sales",
+      "Scala",
+      "Big data",
+      "Distributed computing"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Adoption assistance",
+      "Dental insurance",
+      "Health insurance",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": [
+      "Analyze project requirements ",
+      "Perform feasibility analysis, scope projects, prioritize deliverables, recommend alternative solutions &amp; project strategies and engage in negotiations. ",
+      "Ability to work independently and collaboratively in a fast-paced environment. "
+    ]
+  },
+  {
+    "company name": "Adobe",
+    "job title": "Senior Software Engineer, Applied AI/ML, Audio/Video",
+    "salary": "$124,000 - $234,200 a year",
+    "skills": [
+      "Leadership",
+      "Distributed systems",
+      "Computer science",
+      "Product management",
+      "AI"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Dots Technologies",
+    "job title": "SOFTWARE DEVELOPERS",
+    "salary": "0",
+    "skills": [
+      "Software troubleshooting",
+      "UNIX",
+      "Ubuntu",
+      "HTML5",
+      "Fedora",
+      "Debugging",
+      "Linux",
+      "Angular",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Referral program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "1199SEIU Benefit and Pension Funds",
+    "job title": ".Net Developer I",
+    "salary": "$76,600 - $95,700 a year",
+    "skills": [
+      "ASP.NET",
+      "Visual Basic",
+      ".NET",
+      "Microsoft SQL Server",
+      "C#",
+      "Web development",
+      "Computer science",
+      "IT"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "JND",
+    "job title": "Software QA Engineer (12355-4)",
+    "salary": "0",
+    "skills": [
+      "5G",
+      "Master data management",
+      "Computer science",
+      "TCP",
+      "Mobile applications",
+      "TCP/IP",
+      "Java",
+      "Product development",
+      "Jira",
+      "Python",
+      "4G/LTE",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Green card sponsorship",
+      "Health insurance",
+      "Opportunities for advancement",
+      "Visa sponsorship",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Ten·ki",
+    "job title": "Unity Game Developer",
+    "salary": "$24.91 - $50.00 an hour",
+    "skills": [
+      "AWS",
+      "C#",
+      "Mobile applications",
+      "iOS",
+      "Application development",
+      "Unity",
+      "Computer science",
+      "UX",
+      "UI",
+      "OOP",
+      "Back-end development",
+      "S3"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

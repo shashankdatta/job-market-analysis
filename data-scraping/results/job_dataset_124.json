@@ -1,0 +1,429 @@
+[
+  {
+    "company name": "Invonto",
+    "job title": "Full-Stack ASP.NET Developer (hybrid)",
+    "salary": "$65,000 - $90,000 a year",
+    "skills": [
+      "ASP.NET",
+      "AWS",
+      "HTML5",
+      "Microsoft SQL Server",
+      "Full-stack development",
+      "Angular",
+      "Entity Framework",
+      "REST",
+      "ASP.NET Core",
+      ".NET Core",
+      "Bootstrap",
+      "S3",
+      "MVC",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Tek Ninjas",
+    "job title": "Node JS Developer",
+    "salary": "0",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "Authentication",
+      "Service-oriented architecture",
+      "GraphQL",
+      "Unit testing",
+      "APIs",
+      "Analysis skills",
+      "CI/CD",
+      "OOP"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Franklin Templeton Investments",
+    "job title": "Full Stack Developer",
+    "salary": "$128,000 - $151,800 a year",
+    "skills": [
+      "Continuous integration",
+      "TypeScript",
+      "Node.js",
+      "Software development",
+      "AWS",
+      "Asset management",
+      "Full-stack development",
+      "DevOps",
+      "APIs",
+      "MongoDB",
+      "REST",
+      "Jira",
+      "Confluence",
+      "Unit testing",
+      "Python",
+      "IT",
+      "React",
+      "Agile",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "On-site gym",
+      "Paid time off",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CEDENT",
+    "job title": "Sr Oracle R12 Application Developers",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "XML",
+      "Manufacturing",
+      "OBIEE",
+      "PL/SQL",
+      "Supply chain management",
+      "Oracle",
+      "Analysis skills"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "SS&C",
+    "job title": "Senior Software Developer",
+    "salary": "$130,000 - $175,000 a year",
+    "skills": [
+      "SQL",
+      "HTML5",
+      "Azure",
+      "Microsoft SQL Server",
+      "C#",
+      "Accounting",
+      "Product management",
+      "Data structures",
+      "IIS",
+      ".NET",
+      "REST",
+      "Debugging",
+      "Front-end development",
+      "T-SQL",
+      "C",
+      "CSS"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Employee assistance program",
+      "Health insurance",
+      "Parental leave",
+      "Professional development assistance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "EGROVE SYSTEMS CORPORATION",
+    "job title": "WordPress Developer",
+    "salary": "$20 an hour",
+    "skills": [
+      "Authentication",
+      "WordPress",
+      "Risk management",
+      "Information security"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ConnectOne Bank",
+    "job title": "Cloud Engineer",
+    "salary": "0",
+    "skills": [
+      "Cloud architecture",
+      "Kubernetes",
+      "AWS",
+      "Azure",
+      "Scripting",
+      "Cloud infrastructure",
+      "PowerShell",
+      "Computer science",
+      "Virtualization",
+      "DevOps",
+      "GitLab",
+      "CI/CD",
+      "Jenkins",
+      "Cloud computing",
+      "Docker",
+      "Python",
+      "IT",
+      "Shell Scripting",
+      "Terraform",
+      "Bash"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Benefits from day one",
+      "Dental insurance",
+      "Employee assistance program",
+      "Employee discount",
+      "Health insurance",
+      "Tuition reimbursement",
+      "Vision insurance",
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Sumas Corporation",
+    "job title": "Programmer Analyst",
+    "salary": "0",
+    "skills": [
+      "Systems engineering"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Kensington Information Group",
+    "job title": "SOFTWARE DEVELOPER",
+    "salary": "0",
+    "skills": [
+      "ASP.NET",
+      "Visual Basic",
+      "Java",
+      "Jira",
+      "Microsoft SQL Server",
+      "C#",
+      "Oracle",
+      "DevOps",
+      "JavaScript",
+      "SSIS"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Staxa Technologies",
+    "job title": "Software Developer",
+    "salary": "0",
+    "skills": [
+      "XML",
+      "Java",
+      "Test-driven development",
+      "J2EE",
+      "Spring",
+      "JUnit",
+      "Unit testing",
+      "Test automation",
+      "JavaScript",
+      "DB2",
+      "OOP"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Man Infotech",
+    "job title": "Software Developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Git",
+      "AWS",
+      "Spring",
+      "Spring Boot",
+      "Linux",
+      "Angular",
+      "Oracle",
+      "Maven",
+      "Java",
+      "Tomcat",
+      "Jira",
+      "Gradle",
+      "Jenkins",
+      "SVN",
+      "Docker",
+      "Load balancing",
+      "S3",
+      "Python",
+      "Shell Scripting",
+      "Groovy",
+      "Bash"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Staxa Technologies",
+    "job title": "Java Developer",
+    "salary": "0",
+    "skills": [
+      "Software development",
+      "Spring",
+      "SOAP",
+      "Java",
+      "Scrum",
+      "Debugging",
+      "Design patterns",
+      "Spring MVC",
+      "JavaScript",
+      "Terraform",
+      "Agile",
+      "Web services"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Enthsquare",
+    "job title": "Software Developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Distributed systems",
+      "Git",
+      "UNIX",
+      "Project management",
+      "Ruby",
+      "Linux",
+      "Perl",
+      "Django",
+      "Go",
+      "Java",
+      "RabbitMQ",
+      "Docker",
+      "Python",
+      "Shell Scripting",
+      "Bash"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Alpha Clinical Systems",
+    "job title": "Technical Lead/ Sr. Software Engineer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "XML",
+      "Tableau",
+      "Git",
+      "J2EE",
+      "Hadoop",
+      "Power BI",
+      "AWS",
+      "HTML5",
+      "Spark",
+      "Maven",
+      "SSIS",
+      "Java",
+      "iOS",
+      "Hibernate",
+      "Design patterns",
+      "Node.js",
+      "UNIX",
+      "Microsoft SQL Server",
+      "Ionic",
+      "Spring",
+      "JUnit",
+      "Angular",
+      "Oracle",
+      "CI/CD",
+      "SOAP",
+      "REST",
+      "JSON",
+      "Jira",
+      "Gradle",
+      "Jenkins",
+      "JDBC",
+      "jQuery",
+      "MVC",
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "EGB Technology Services",
+    "job title": "Mobile Application Developer - ( CT-Stamford )",
+    "salary": "0",
+    "skills": [
+      "Git",
+      "HTML5",
+      "Spring",
+      "Spring Boot",
+      "Angular",
+      "Ansible",
+      "iOS development",
+      "Mobile applications",
+      "Maven",
+      "OOP",
+      "Java",
+      "JSON",
+      "Jenkins",
+      "Docker",
+      "Design patterns"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "company name": "Google",
+    "job title": "Principal Engineer, Front-End and UI, Search Developer Platform",
+    "salary": "0",
+    "skills": [
+      "Full-stack development",
+      "Computer science",
+      "APIs",
+      "Back-end development",
+      "SDKs",
+      "Debugging",
+      "Layout design",
+      "UI design"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "PSEG",
+    "job title": "Dev/Ops Engineer",
+    "salary": "$88,400 - $140,000 a year",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "SharePoint",
+      "Google Cloud Platform",
+      "Azure",
+      "AWS",
+      "Apache",
+      "Redshift",
+      "Linux",
+      "Computer science",
+      "SDLC",
+      "Analysis skills",
+      "CI/CD",
+      "Databases",
+      "Leadership",
+      "Personal injury law",
+      "Data analytics",
+      "Python"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Princeton University",
+    "job title": "Research Software Engineer II",
+    "salary": "0",
+    "skills": [
+      "Performance tuning",
+      "Research",
+      "GitHub",
+      "Git",
+      "Continuous integration",
+      "Test-driven development",
+      "Software development",
+      "Rust",
+      "System administration",
+      "Linux",
+      "DevOps",
+      "Analysis skills",
+      "Operating systems"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon Web Services, Inc.",
+    "job title": "Software Development Engineer, AWS Marketplace",
+    "salary": "From $115,000 a year",
+    "skills": [
+      "Distributed systems",
+      "Software development",
+      "AWS",
+      "Software sales",
+      "Computer science",
+      "SDLC",
+      "Design patterns",
+      "Machine learning",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Flexible schedule",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Everly Health",
+    "job title": "Sr. Software Engineer I",
+    "salary": "$147,000 - $163,000 a year",
+    "skills": [
+      "AWS",
+      "Continuous improvement",
+      "SDLC",
+      "DevOps",
+      "GitLab",
+      "Ruby on Rails",
+      "Docker",
+      "Design patterns",
+      "React"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Metropolitan Transportation Authority",
+    "job title": "Specialist Software Engineer (Microsoft Power Apps/Dynamics 365)",
+    "salary": "$110,748 - $130,719 a year",
+    "skills": [
+      "SQL",
+      "SharePoint",
+      "Power BI",
+      "C++",
+      "PowerShell",
+      "SSRS",
+      "SDLC",
+      "Kanban",
+      "DevOps",
+      "Java",
+      "Application development",
+      "Unit testing",
+      "Operating systems",
+      "Python",
+      "Azure",
+      "Software testing",
+      "Microsoft SQL Server",
+      "Database management",
+      "Ruby",
+      "Linux",
+      "Microsoft Windows Server",
+      "Product management",
+      "Oracle",
+      "Data structures",
+      "COBOL",
+      "CI/CD",
+      "Software troubleshooting",
+      ".NET",
+      "Jira",
+      "Scrum",
+      "Web development",
+      "JavaScript",
+      "Agile",
+      "Microsoft Dynamics 365",
+      "Windows"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "sdna global",
+    "job title": "Azure Cloud Engineer",
+    "salary": "$110,858.77 - $133,507.33 a year",
+    "skills": [
+      "Git",
+      "Continuous integration",
+      "Test-driven development",
+      "Kubernetes",
+      "AWS",
+      "Azure",
+      "Scripting",
+      "Cloud infrastructure",
+      "Linux",
+      "Kanban",
+      "Go",
+      "Leadership",
+      "Java",
+      "Jenkins",
+      "Debugging",
+      "Cloud computing",
+      "Python",
+      "Shell Scripting",
+      "Terraform",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Flexible schedule",
+      "Health insurance",
+      "Health savings account",
+      "Life insurance",
+      "Paid time off",
+      "Professional development assistance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Datadog",
+    "job title": "Staff Software Engineer - AAA Identity",
+    "salary": "$234,000 - $300,000 a year",
+    "skills": [
+      "Product management",
+      "APIs"
+    ],
+    "education": [],
+    "benefits": [
+      "Employee stock purchase plan",
+      "RSU"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Plaid",
+    "job title": "Software Engineer - Credit",
+    "salary": "$143,640 - $197,640 a year",
+    "skills": [
+      "SQL",
+      "AWS",
+      "Project leadership",
+      "Python",
+      "Go"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "JPMorgan Chase & Co",
+    "job title": "Lead Software Engineer - Java/JavaScript/Python",
+    "salary": "$147,250 - $215,000 a year",
+    "skills": [
+      "Research",
+      "Git",
+      "Continuous integration",
+      "Financial services",
+      "Software development",
+      "Microservices",
+      "AWS",
+      "Java",
+      "SVN",
+      "Python",
+      "Test-driven development",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "Azure",
+      "Spring",
+      "Spring Boot",
+      "Oracle",
+      "Cassandra",
+      "CI/CD",
+      "Software troubleshooting",
+      "REST",
+      "Jenkins",
+      "Kafka",
+      "Enterprise software",
+      "JavaScript"
+    ],
+    "education": [],
+    "benefits": [
+      "Health insurance",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Quizlet",
+    "job title": "Sr. Fullstack Engineer, Search",
+    "salary": "$125,000 - $185,000 a year",
+    "skills": [
+      "Solr",
+      "Leadership",
+      "Google Cloud Platform",
+      "Elasticsearch",
+      "PHP",
+      "Full-stack development",
+      "Project leadership",
+      "React",
+      "Machine learning"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Commuter assistance",
+      "Dental insurance",
+      "Family leave",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Paid time off",
+      "Stock options",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Kelvin",
+    "job title": "IoT Engineer",
+    "salary": "$135,000 - $150,000 a year",
+    "skills": [
+      "Software development",
+      "AWS",
+      "Rust",
+      "Internet of things",
+      "Elixir",
+      "Analysis skills",
+      "VPN",
+      "Raspberry Pi",
+      "C"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Datadog",
+    "job title": "Senior Software Engineer - API Clients",
+    "salary": "$130,000 - $300,000 a year",
+    "skills": [
+      "TypeScript",
+      "Ruby",
+      "Computer science",
+      "APIs",
+      "Go",
+      "Java",
+      "SDKs",
+      "Python",
+      "Terraform"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Employee stock purchase plan",
+      "RSU"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Datadog",
+    "job title": "Senior Software Engineer - Cross-Product Queries (XPQ)",
+    "salary": "$200,000 - $240,000 a year",
+    "skills": [
+      "Java",
+      "Rust",
+      "C++",
+      "Go"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Doctoral degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Employee stock purchase plan",
+      "RSU"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Disney Direct to Consumer",
+    "job title": "Lead Software Engineer",
+    "salary": "$156,300 - $209,600 a year",
+    "skills": [
+      "SQL",
+      "GitHub",
+      "Software development",
+      "AWS",
+      "SDLC",
+      "Test automation",
+      "Java",
+      "Scala",
+      "Debugging",
+      "Machine learning",
+      "Kotlin",
+      "Test cases",
+      "Kubernetes",
+      "Software testing",
+      "C#",
+      "JUnit",
+      "Full-stack development",
+      "CI/CD",
+      "OOP",
+      "REST",
+      "Jira",
+      "Data analysis skills",
+      "Jenkins",
+      "Bootstrap",
+      "Docker",
+      "cURL",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]
