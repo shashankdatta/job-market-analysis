@@ -6,7 +6,8 @@ output.mkdir(exist_ok=True)
 
 POSITION = "software+engineer"
 LOCATION = "New+York%2C+New+York"
-PAGES = 1
+START_PAGE = 1
+END_PAGE = 20
 
 async def run():
     # enable scrapfly cache for basic use
@@ -15,7 +16,10 @@ async def run():
     print("running Indeed scrape and saving results to ./results directory")
 
     url = f"https://www.indeed.com/jobs?q={POSITION}&l={LOCATION}"
-    job_keys = await indeed.get_job_keys(url, max_pages=PAGES)
+    job_keys = await indeed.get_job_keys(url, START_PAGE, END_PAGE)
+    if job_keys is None:
+        print("failed to scrape job keys")
+        return
     print(f"scraping {len(job_keys)} job keys")
     print(job_keys)
     jobs = await indeed.scrape_jobs(job_keys)
