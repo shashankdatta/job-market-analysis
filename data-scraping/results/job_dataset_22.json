@@ -1,0 +1,412 @@
+[
+  {
+    "company name": "nTopology Inc",
+    "job title": "Senior Geometry Software Engineer",
+    "salary": "$140,000 - $170,000 a year",
+    "skills": [
+      "Git",
+      "Continuous integration",
+      "Test-driven development",
+      "Scripting",
+      "C++",
+      "CAD",
+      "SolidWorks",
+      "SDLC",
+      "APIs",
+      "Data structures",
+      "Manufacturing",
+      "CATIA",
+      "GLSL",
+      "C",
+      "Python",
+      "JavaScript"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "The Bank of New York Mellon Corporation",
+    "job title": "Senior Vice President, Full-Stack Engineer III",
+    "salary": "$132,000 - $246,000 a year",
+    "skills": [
+      "SQL",
+      "Software troubleshooting",
+      "HTML5",
+      "Microsoft SQL Server",
+      "Computer science",
+      "Angular",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "StackedSP Inc",
+    "job title": "Series A, Blockchain/Ethereum Startup - Lead Backend Engineer",
+    "salary": "$150,000 - $240,000 a year",
+    "skills": [
+      "TypeScript",
+      "Kubernetes",
+      "Rust",
+      "AWS",
+      "C++",
+      "Blockchain",
+      "Docker",
+      "Terraform"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "JSR Tech Consulting",
+    "job title": "Quality Automation Engineer",
+    "salary": "0",
+    "skills": [
+      "XML",
+      "Relational databases",
+      "Test-driven development",
+      "HTML5",
+      "Computer science",
+      "DevOps",
+      "Test automation",
+      "Quality assurance",
+      "Java",
+      "REST",
+      "JSON",
+      "Jenkins",
+      "Selenium",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Meta",
+    "job title": "Software Engineer, Metaverse Engine Technology - Avatars",
+    "salary": "$146,994 - $208,000 a year",
+    "skills": [
+      "iOS",
+      "C++",
+      "SDKs",
+      "Computer science",
+      "C",
+      "Unity",
+      "Windows",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Westchester County District Attorney's Office",
+    "job title": "Server Engineer",
+    "salary": "$85,275 - $113,665 a year",
+    "skills": [
+      "VMWare",
+      "Azure",
+      "Scripting",
+      "SFTP",
+      "Microsoft SQL Server",
+      "Linux",
+      "vSphere",
+      "Microsoft Windows Server",
+      "DNS",
+      "FTP",
+      "Active Directory",
+      "DHCP",
+      "Windows"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "High school diploma or GED",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Employee assistance program",
+      "Employee discount",
+      "Flexible spending account",
+      "Health insurance",
+      "Paid time off",
+      "Retirement plan",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Fusion Plus Solutions Inc.",
+    "job title": "Software Engineers",
+    "salary": "0",
+    "skills": [
+      "Kubernetes",
+      "PowerShell",
+      "Computer science",
+      "DevOps",
+      "Mobile applications",
+      "RBAC",
+      "CI/CD",
+      "Software troubleshooting",
+      "Application development",
+      "Docker",
+      "Shell Scripting",
+      "Terraform",
+      "Bash"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "BAE Systems",
+    "job title": "Software Engineering Lead (Hybrid)",
+    "salary": "$147,300 - $250,400 a year",
+    "skills": [
+      "Software development",
+      "C++",
+      "Account management",
+      "Project management",
+      "Budgeting",
+      "Leadership",
+      "Software project management",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee assistance program",
+      "Health insurance",
+      "Health savings account",
+      "Paid military leave",
+      "Paid time off",
+      "Parental leave",
+      "Pet insurance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Adswizz",
+    "job title": "Senior Software Engineer, Scala functional Programmer",
+    "salary": "$95,100 - $170,000 a year",
+    "skills": [
+      "Distributed systems",
+      "REST",
+      "AWS",
+      "Scala",
+      "SDLC",
+      "CI/CD"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Intone Networks",
+    "job title": "Android SDET Kotlin Engineer",
+    "salary": "0",
+    "skills": [
+      "GitHub",
+      "Kotlin",
+      "Git",
+      "Continuous integration",
+      "Jira",
+      "Mobile applications",
+      "Test automation",
+      "Maven",
+      "Slack",
+      "Developer tools"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NYC Careers",
+    "job title": "GIS Application Developer",
+    "salary": "$86,101 - $123,806 a year",
+    "skills": [
+      "SQL",
+      "AJAX",
+      "Git",
+      "HTML5",
+      "DevOps",
+      "APIs",
+      "Network administration",
+      "ArcGIS",
+      "Entity Framework",
+      "Back-end development",
+      ".NET Core",
+      "SDKs",
+      "PostGIS",
+      "Python",
+      "ASP.NET",
+      "PostgreSQL",
+      "Relational databases",
+      "Visual Studio",
+      "Microsoft SQL Server",
+      "C#",
+      "Full-stack development",
+      "Analysis skills",
+      ".NET",
+      "Jira",
+      "Care plans",
+      "GIS",
+      "Bootstrap",
+      "jQuery",
+      "IT",
+      "React",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "High school diploma or GED",
+      "Trade school"
+    ],
+    "benefits": [
+      "401(k)",
+      "Health insurance",
+      "Loan forgiveness",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Databricks",
+    "job title": "Senior Staff Software Engineer - IAM",
+    "salary": "$232,000 - $313,000 a year",
+    "skills": [
+      "Leadership",
+      "Security engineering",
+      "Distributed systems",
+      "Kubernetes",
+      "Encryption",
+      "Spark",
+      "Identity & access management",
+      "High availability",
+      "AI"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Employee assistance program",
+      "Gym membership",
+      "Health insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Orbital Kitchens",
+    "job title": "Senior Lead Full Stack Engineer (On-site Only)",
+    "salary": "$150,000 - $190,000 a year",
+    "skills": [
+      "Node.js",
+      "Adobe XD",
+      "Software development",
+      "HTML5",
+      "Full-stack development",
+      "Figma",
+      "Team management",
+      "Computer science",
+      "Mobile applications",
+      "Sketch",
+      "Adobe Photoshop",
+      "UX",
+      "Leadership",
+      "Python",
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Intone Networks",
+    "job title": "full stack Engineer",
+    "salary": "0",
+    "skills": [],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Major League Baseball",
+    "job title": "Senior Software Engineer, Mobile Platform Services",
+    "salary": "$150,000 - $185,000 a year",
+    "skills": [
+      "Memcached",
+      "Kotlin",
+      "Authentication",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "Application development",
+      "Load balancing",
+      "Mobile applications",
+      "APIs",
+      "Go",
+      "Analysis skills",
+      "Redis"
+    ],
+    "education": [],
+    "benefits": [
+      "Dental insurance",
+      "Health insurance",
+      "Lunch & learns",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

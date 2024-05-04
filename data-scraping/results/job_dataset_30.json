@@ -1,0 +1,367 @@
+[
+  {
+    "company name": "Botify",
+    "job title": "SEO Consultant",
+    "salary": "$100,000 - $130,000 a year",
+    "skills": [
+      "GitHub",
+      "Leadership",
+      "Project management",
+      "SEO",
+      "JavaScript"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CONTRACT PHARMACAL CORP",
+    "job title": "Manager; Software Development",
+    "salary": "$100,000 - $150,000 a year",
+    "skills": [
+      "Software development",
+      "HTML5",
+      "Web design",
+      "Scripting",
+      "C++",
+      "Blockchain",
+      "Budgeting",
+      "Team management",
+      "Analysis skills",
+      "Leadership",
+      "Java",
+      "E-commerce",
+      "Web development",
+      "Python",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Caden",
+    "job title": "Senior Machine Learning Engineer",
+    "salary": "$160,000 - $190,000 a year",
+    "skills": [
+      "PyTorch",
+      "SQL",
+      "Machine learning frameworks",
+      "SaaS",
+      "B2B",
+      "Statistics",
+      "Google Cloud Platform",
+      "Natural language processing",
+      "AWS",
+      "Machine learning libraries",
+      "Keras",
+      "DevOps",
+      "Unsupervised learning",
+      "Graph databases",
+      "Ontology",
+      "Data science",
+      "Python",
+      "Data visualization",
+      "AI",
+      "Machine learning"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Commuter assistance",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Morgan Stanley",
+    "job title": "Corporate Treasury Technology– Full Stack Developer",
+    "salary": "0",
+    "skills": [
+      "Git",
+      "TypeScript",
+      "Software development",
+      "UNIX",
+      "Test-driven development",
+      "Power BI",
+      "Spark",
+      "Spring Boot",
+      "JUnit",
+      "Rally",
+      "Linux",
+      "Angular",
+      "Analysis skills",
+      "Databases",
+      "Java",
+      "REST",
+      "Jira",
+      "Scrum",
+      "Kafka",
+      "Enterprise software",
+      "Cucumber",
+      "React",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Apple",
+    "job title": "Site Reliability Engineering Manager, Apple Services Engineering",
+    "salary": "$183,400 - $316,900 a year",
+    "skills": [
+      "Distributed systems",
+      "Java",
+      "iOS",
+      "SRE",
+      "Computer science",
+      "Go"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Employee stock purchase plan",
+      "Health insurance",
+      "RSU",
+      "Retirement plan"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "LT Technology Services",
+    "job title": "Software Developer",
+    "salary": "0",
+    "skills": [
+      "C++",
+      "C",
+      "IT"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Tardus Inc",
+    "job title": "Apigee Developer",
+    "salary": "$50 - $55 an hour",
+    "skills": [
+      "Spring",
+      "Spring Boot",
+      "ASP.NET",
+      "Integration testing",
+      "Presentation skills",
+      "Microservices",
+      "AWS",
+      "SDLC",
+      "APIs",
+      "Maven",
+      "Java",
+      "Authentication",
+      "Scrum",
+      "Jenkins",
+      "SSL",
+      "LDAP",
+      "JavaScript",
+      "Agile",
+      "Quantitative analysis"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Rutgers University",
+    "job title": "Lecturers - Electrical and Computer Engineering",
+    "salary": "0",
+    "skills": [],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "SRI International",
+    "job title": "Software Engineer- Mid level",
+    "salary": "$111,757.50 - $127,377.00 a year",
+    "skills": [
+      "SQL",
+      "Git",
+      "Multithreading",
+      "Software development",
+      "Visual Studio",
+      "C++",
+      "C#",
+      "Linux",
+      "TCP",
+      "DevOps",
+      "GitLab",
+      ".NET",
+      "WPF",
+      "Jenkins",
+      "OpenCV",
+      "C",
+      "Windows"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Broadridge",
+    "job title": "Java Software Engineer (Hybrid - Flexible Options)",
+    "salary": "0",
+    "skills": [
+      "Business requirements",
+      "Java",
+      "Spring",
+      "System design",
+      "SDLC",
+      "Design patterns",
+      "DevOps",
+      "Analysis skills",
+      "Agile",
+      "CI/CD"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Data Inc",
+    "job title": "Sr. Oracle PL/SQL Developer",
+    "salary": "$65 - $70 an hour",
+    "skills": [
+      "Performance tuning",
+      "SQL",
+      "Oracle",
+      "PL/SQL",
+      "Tableau",
+      "Git",
+      "Apache",
+      "Computer science",
+      "Data structures",
+      "Analysis skills",
+      "Jenkins",
+      "Debugging",
+      "Python",
+      "Agile",
+      "Banking"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Princeton University",
+    "job title": "Professional Specialist- Robotics Engineer for Automation of Ultrathin Brain Sectioning",
+    "salary": "0",
+    "skills": [
+      "Mechanical design",
+      "CAD",
+      "Mechanical troubleshooting"
+    ],
+    "education": [
+      "Doctoral degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "UBS",
+    "job title": "Software engineer, Rates Solution Developer (ION SME)",
+    "salary": "$150,000 - $190,000 a year",
+    "skills": [
+      "SQL",
+      "Continuous integration",
+      "UNIX",
+      "Scripting",
+      "Kafka",
+      "Bloomberg",
+      "Python",
+      "Pricing",
+      "Test automation",
+      "Perl"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "BigLynx Inc.",
+    "job title": "Microsoft Dynamics CRM Developer",
+    "salary": "$70 - $90 an hour",
+    "skills": [
+      "ASP.NET",
+      "Business requirements",
+      "Visual Studio",
+      "HTML5",
+      "C#",
+      "APIs",
+      "Analysis skills",
+      ".NET",
+      "REST",
+      "Web development",
+      "Unit testing",
+      "JavaScript",
+      "CSS",
+      "Microsoft Dynamics 365"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Index Engines Inc.",
+    "job title": "Sr. Software Engineer (Test Automation)",
+    "salary": "0",
+    "skills": [
+      "Jira",
+      "Scrum",
+      "Linux",
+      "Computer science",
+      "Python",
+      "Shell Scripting",
+      "openSUSE",
+      "Bash",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

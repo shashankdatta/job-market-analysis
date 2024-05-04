@@ -1,0 +1,400 @@
+[
+  {
+    "company name": "SGS",
+    "job title": "Electrical/Software Engineer",
+    "salary": "$100,000 a year",
+    "skills": [
+      "C#",
+      "PCB"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Plaxonic Technologies",
+    "job title": "Embedded software (Aerospace & Avionics)",
+    "salary": "From $120,000 a year",
+    "skills": [
+      "Scripting",
+      "Programmable logic controllers",
+      "Electrical systems",
+      "PCB"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Relocation assistance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Datadog",
+    "job title": "Software Engineer - Agent",
+    "salary": "$135,000 - $155,000 a year",
+    "skills": [
+      "Rust",
+      "C++",
+      "Mac OS",
+      "Linux",
+      "Go",
+      "Java",
+      "C",
+      "Python"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Employee stock purchase plan",
+      "RSU"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Spino Inc",
+    "job title": "Sr.Java Developer/New York NY",
+    "salary": "$110,000 - $115,000 a year",
+    "skills": [
+      "J2EE",
+      "Cloud architecture",
+      "Microservices",
+      "Database development",
+      "AWS",
+      "Spring",
+      "Spring Boot",
+      "MySQL",
+      "OOP",
+      "Java",
+      "REST",
+      "Hibernate",
+      "Design patterns",
+      "Python",
+      "Web services"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": [
+      "Minimum <b>5 years</b> of strong <b>Java/J2EE applications</b> development background required.",
+      "Experience with <b>Core Java/J2EE/Spring</b>, <b>REST API</b> services required.",
+      "Good understanding of <b>OOP concepts</b>, Design Patterns and Modular development",
+      "Understanding/Knowledge/Exp with <b>Microservices</b>, REST Web Services/<b>REST API</b>, <b>Hibernate</b>, Spring Boot/spring framework is a huge plus.",
+      "Experience with other backend programming languages like <b>Python</b>.",
+      "Expertise in database development, especially in <b>MySQL</b> stored routines (stored procedures, functions and triggers) <b>Cloud architecture</b> experience with a major cloud provider such as <b>AWS</b>.",
+      "Experience in <b>Python</b> is an added advantage."
+    ]
+  },
+  {
+    "company name": "Matrix-International Financial Services",
+    "job title": "Software Developer",
+    "salary": "$169,229 a year",
+    "skills": [
+      "Computer science",
+      "Oracle",
+      "IT"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Vestwell",
+    "job title": "Staff Software Engineer (C#)",
+    "salary": "$160,000 - $180,000 a year",
+    "skills": [
+      "GitHub",
+      "Relational databases",
+      "Git",
+      "AWS",
+      "C#",
+      "Angular",
+      "UI",
+      "Databases",
+      "Leadership",
+      "Software architecture",
+      "Jenkins",
+      "Mentoring",
+      "React",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "403(b)",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Northwell Health",
+    "job title": "Lead Software Engineer - Cloud Developer",
+    "salary": "$121,200 - $212,100 a year",
+    "skills": [
+      "Leadership",
+      "Azure",
+      "Python",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "KARGO",
+    "job title": "Senior Software Engineer (Video Player)",
+    "salary": "$180,000 - $200,000 a year",
+    "skills": [
+      "NoSQL",
+      "GitHub",
+      "Software development",
+      "AWS",
+      "HTML5",
+      "Data warehouse",
+      "Computer science",
+      "SDLC",
+      "Martech",
+      "S3",
+      "Mentoring",
+      "Redshift",
+      "Project management",
+      "Database management",
+      "Software deployment",
+      "Angular",
+      "Data structures",
+      "Analysis skills",
+      "MongoDB",
+      "Jira",
+      "DynamoDB",
+      "Scrum",
+      "React",
+      "JavaScript",
+      "CSS",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NetCom Systems Inc.",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "GitHub",
+      "PowerShell",
+      "Load balancing",
+      "Microsoft Windows Server",
+      "Computer science",
+      "vSphere",
+      "Windows"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Referral program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Plaxonic Technologies Inc.",
+    "job title": "Software Engineer",
+    "salary": "$125,072.85 - $140,000.00 a year",
+    "skills": [
+      "AJAX",
+      "Web design",
+      "JSP",
+      "Website maintenance",
+      "Maven"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Walmart",
+    "job title": "Senior, Software Engineer - Front-End",
+    "salary": "$108,000 - $216,000 a year",
+    "skills": [
+      "Business requirements",
+      "Computer science",
+      "Test automation",
+      "Analysis skills",
+      "Web accessibility",
+      "WCAG",
+      "Systems engineering",
+      "Jest",
+      "React",
+      "JavaScript",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee stock purchase plan",
+      "Family leave",
+      "Health insurance",
+      "Life insurance",
+      "Military leave",
+      "Paid jury duty",
+      "Paid parental leave",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "PRIME CONSULTING INC",
+    "job title": "Server Side Engineer",
+    "salary": "$107,004.13 - $128,865.18 a year",
+    "skills": [
+      "SQL",
+      "Kotlin",
+      "REST",
+      "Gradle"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CertiK",
+    "job title": "Senior Software Engineer",
+    "salary": "$120,000 - $165,000 a year",
+    "skills": [
+      "Microservices",
+      "AWS",
+      "HTML5",
+      "Blockchain",
+      "Angular",
+      "Go",
+      "Data structures",
+      "SDKs",
+      "Operating systems",
+      "S3",
+      "AI",
+      "Python",
+      "React",
+      "JavaScript",
+      "CSS",
+      "Vue.js"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Explo",
+    "job title": "Senior Software Engineer, Full Stack",
+    "salary": "$170,000 - $210,000 a year",
+    "skills": [
+      "Redux",
+      "TypeScript",
+      "Full-stack development",
+      "React",
+      "Django"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Unlimited paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "TheGuarantors",
+    "job title": "Senior Software Engineer",
+    "salary": "$140,000 - $165,000 a year",
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "Software development",
+      "AWS",
+      "Project implementation",
+      "Full-stack development",
+      "APIs",
+      "Data structures",
+      "Leadership",
+      "Scrum",
+      "System design",
+      "Web development",
+      "React",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Flexible schedule",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

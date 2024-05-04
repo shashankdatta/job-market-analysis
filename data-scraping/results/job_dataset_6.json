@@ -1,0 +1,362 @@
+[
+  {
+    "company name": "Hubbell, Inc.",
+    "job title": "Embedded Software Engineer - Westbury, NY",
+    "salary": "0",
+    "skills": [
+      "C#",
+      "Software development",
+      "Firmware",
+      "Linux"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Employee assistance program",
+      "Employee discount",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Life insurance",
+      "Paid time off",
+      "Parental leave",
+      "Referral program",
+      "Retirement plan",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "SEO Scholars",
+    "job title": "Software Engineering Teaching Assistant",
+    "salary": "$50 an hour",
+    "skills": [
+      "GitHub",
+      "Git",
+      "Software development",
+      "HTML5",
+      "APIs",
+      "Analysis skills",
+      "Leadership",
+      "Data manipulation",
+      "SEO",
+      "Python",
+      "Shell Scripting",
+      "CSS",
+      "Bash"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Walmart",
+    "job title": "(USA) Software Engineer III",
+    "salary": "$90,000 - $180,000 a year",
+    "skills": [
+      "SQL",
+      "Node.js",
+      "Spring",
+      "Computer science",
+      "SDLC",
+      "Customer service",
+      "Analysis skills",
+      "Web accessibility",
+      "Java",
+      "WCAG",
+      "Systems engineering"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee stock purchase plan",
+      "Family leave",
+      "Health insurance",
+      "Life insurance",
+      "Military leave",
+      "Paid jury duty",
+      "Paid parental leave",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Warner Bros. Discovery",
+    "job title": "Director, Software Engineering (Live Event Management)",
+    "salary": "$234,500 - $435,500 a year",
+    "skills": [
+      "Leadership",
+      "Distributed systems",
+      "Google Cloud Platform"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Disability insurance",
+      "Health insurance",
+      "Retirement plan",
+      "Wellness program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Intone Networks",
+    "job title": "Software Engineer with heavy development and some system administration",
+    "salary": "0",
+    "skills": [],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Occam AI",
+    "job title": "Founding Fullstack Engineer, AI Product",
+    "salary": "$100,000 - $150,000 a year",
+    "skills": [
+      "Enterprise software",
+      "AI",
+      "Python",
+      "React",
+      "APIs",
+      "Machine learning"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Fubo",
+    "job title": "Senior Software Engineer - React Native",
+    "salary": "$170,000 a year",
+    "skills": [
+      "Wireframing",
+      "Git",
+      "Responsive web design",
+      "React Native",
+      "Debugging",
+      "JavaScript"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Commuter assistance",
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Unlimited paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Via",
+    "job title": "Full Stack Software Engineer, Remix by Via",
+    "salary": "$140,000 - $180,000 a year",
+    "skills": [
+      "PostgreSQL",
+      "TypeScript",
+      "Full-stack development",
+      "PostGIS",
+      "Python",
+      "React"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Clear Street",
+    "job title": "Software Engineer, Backend",
+    "salary": "$160,000 - $190,000 a year",
+    "skills": [
+      "PostgreSQL",
+      "Distributed systems",
+      "Kubernetes",
+      "C++",
+      "DevOps",
+      "APIs",
+      "Go",
+      "Data structures",
+      "CI/CD",
+      "Java",
+      "gRPC",
+      "System design",
+      "Kafka",
+      "Docker",
+      "Design patterns",
+      "Redis"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Happy hour",
+      "Health insurance",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "PHIHONG USA",
+    "job title": "Firmware Engineer",
+    "salary": "$70,000 - $95,000 a year",
+    "skills": [
+      "Assembly",
+      "Computer science"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Datadog",
+    "job title": "Software Engineer - Authorization & Access Management",
+    "salary": "$130,000 - $300,000 a year",
+    "skills": [
+      "Distributed systems",
+      "Python",
+      "Go"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NBCUniversal",
+    "job title": "Video Engineer",
+    "salary": "$110,000 - $160,000 a year",
+    "skills": [
+      "Distributed systems",
+      "AWS",
+      "Scrum",
+      "Encryption",
+      "Software deployment",
+      "IT",
+      "APIs",
+      "Agile",
+      "CI/CD"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Plaxonic Technologies",
+    "job title": "Embedded Software Engineer (Aerospace)",
+    "salary": "$125,000 - $140,000 a year",
+    "skills": [
+      "Systems engineering"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Red Hat Software",
+    "job title": "Senior Software Engineer",
+    "salary": "$111,260 - $183,582 a year",
+    "skills": [
+      "PostgreSQL",
+      "Git",
+      "Kubernetes",
+      "AWS",
+      "Linux",
+      "Product management",
+      "High availability",
+      "Solution architecture",
+      "Python",
+      "Redis"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "JPMorgan Chase & Co",
+    "job title": "Product Delivery Associate – New Payment Networks & Rails",
+    "salary": "$76,000 - $115,000 a year",
+    "skills": [
+      "SharePoint",
+      "Git",
+      "Financial services",
+      "Jira",
+      "Confluence",
+      "Product management",
+      "Business analysis",
+      "Analysis skills",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "Health insurance",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "company name": "New Jersey Resources",
+    "job title": "IT Application Developer (Hybrid)",
+    "salary": "0",
+    "skills": [
+      "Business requirements",
+      "SAP CRM",
+      "SAP",
+      "Maximo",
+      "Oracle",
+      "Analysis skills",
+      "SAP ERP",
+      "Unit testing",
+      "ABAP",
+      "SAP Supply Chain Management",
+      "IT"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Flexible schedule"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Hikma Pharmaceuticals PLC",
+    "job title": "Sr. Software Engineer, IT Applications (Vistex)",
+    "salary": "0",
+    "skills": [
+      "SAP",
+      "SAP ERP",
+      "ABAP",
+      "EDI"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Zenith Services",
+    "job title": "MS Dynamics 365 Developer",
+    "salary": "0",
+    "skills": [
+      ".NET",
+      "Power BI",
+      "Azure",
+      "WCF",
+      "C#",
+      "Unit testing",
+      "DevOps",
+      "APIs",
+      "CI/CD",
+      "Microsoft Dynamics 365"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "adMarketplace",
+    "job title": "Senior Software Engineer, Java",
+    "salary": "$170,000 - $220,000 a year",
+    "skills": [
+      "Distributed systems",
+      "AWS",
+      "Spring",
+      "Spring Boot",
+      "SDLC",
+      "CI/CD",
+      "Java",
+      "RabbitMQ",
+      "Martech",
+      "Kafka",
+      "Design patterns",
+      "Redis"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Commuter assistance",
+      "Continuing education credits",
+      "Happy hour",
+      "Lunch & learns",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "AT&T",
+    "job title": "Senior MuleSoft Developer",
+    "salary": "$94,300 - $158,400 a year",
+    "skills": [
+      "Performance tuning",
+      "J2EE",
+      "Software deployment",
+      "APIs",
+      "SOAP",
+      "Leadership",
+      "Java",
+      "Authentication",
+      "Mentoring"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Caregiver leave",
+      "Dental insurance",
+      "Employee assistance program",
+      "Employee discount",
+      "Health insurance",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "AT&T",
+    "job title": "Sr Specialist Member of Technical Staff",
+    "salary": "$122,000 - $183,000 a year",
+    "skills": [
+      "5G",
+      "Ant",
+      "Software development",
+      "Visual Studio",
+      "Azure",
+      "Ansible",
+      "DevOps",
+      "Test automation",
+      "APIs",
+      "Analysis skills",
+      "Software troubleshooting",
+      "Python",
+      "4G/LTE",
+      "Shell Scripting",
+      "Selenium",
+      "Terraform",
+      "Bash"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Caregiver leave",
+      "Dental insurance",
+      "Employee assistance program",
+      "Employee discount",
+      "Health insurance",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Everest Re Group, Ltd.",
+    "job title": "AVP, Insurity Engineering Lead",
+    "salary": "0",
+    "skills": [
+      "Software development",
+      "Google Cloud Platform",
+      "AWS",
+      "Software deployment",
+      "SDLC",
+      "APIs",
+      "Leadership",
+      ".NET",
+      "Cloud development",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Spino Inc",
+    "job title": "Embedded Engineer",
+    "salary": "$120,000 - $150,000 a year",
+    "skills": [
+      "Firmware",
+      "C++",
+      "Embedded software",
+      "C",
+      "FPGA",
+      "PCB"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Barclays",
+    "job title": "Senior PEGA Developer",
+    "salary": "0",
+    "skills": [
+      "Business requirements",
+      "XML",
+      "Node.js",
+      "Financial services",
+      "Software development",
+      "Microsoft SQL Server",
+      "Pegasystems",
+      "SDLC",
+      "SOAP",
+      "Leadership",
+      "Solution architecture",
+      "REST",
+      "Agile",
+      "Banking"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "MASSMUTUAL",
+    "job title": "Full Stack Developer",
+    "salary": "$141,300 - $185,400 a year",
+    "skills": [
+      "SQL",
+      "GitHub",
+      "Financial services",
+      "AWS",
+      "Data warehouse",
+      "Java",
+      "Application development",
+      "Unit testing",
+      "S3",
+      "PostgreSQL",
+      "Node.js",
+      "UNIX",
+      "Test-driven development",
+      "Kubernetes",
+      "Scripting",
+      "Spring Boot",
+      "Full-stack development",
+      "Informatica",
+      "Linux",
+      "Jenkins",
+      "New Relic",
+      "Wealth management",
+      "React",
+      "Terraform"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Everyrealm",
+    "job title": "Game Developer, Hometopia, An Everyrealm Company",
+    "salary": "$100,000 - $150,000 a year",
+    "skills": [
+      "Java",
+      "Software development",
+      "C++",
+      "C#",
+      "C",
+      "Unity"
+    ],
+    "education": [],
+    "benefits": [
+      "AD&D insurance",
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Life insurance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Hudson River Trading",
+    "job title": "Experienced FPGA Verification Engineer",
+    "salary": "$150,000 - $200,000 a year",
+    "skills": [
+      "Continuous integration",
+      "Network protocols",
+      "C++",
+      "Debugging",
+      "Linux",
+      "Computer science",
+      "Python",
+      "FPGA",
+      "Analysis skills"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "MUFG Bank, Ltd.",
+    "job title": "Software Engineering - Application & Integration Lead",
+    "salary": "$145,000 - $182,000 a year",
+    "skills": [
+      "Financial services",
+      "Software development",
+      "Microservices",
+      "HTML5",
+      "Performance testing",
+      "Spark",
+      "JBoss",
+      "Computer science",
+      "Maven",
+      "Mobile applications",
+      "APIs",
+      "UI",
+      "Java",
+      "Back-end development",
+      "Hibernate",
+      "Scala",
+      "Debugging",
+      "Unit testing",
+      "Integration testing",
+      "Node.js",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "Apache",
+      "Spring",
+      "Spring Boot",
+      "Cloud infrastructure",
+      "Software deployment",
+      "Angular",
+      "Oracle",
+      "Middleware",
+      "Leadership",
+      "REST",
+      "Jenkins",
+      "Kafka",
+      "Docker",
+      "JavaScript",
+      "React",
+      "CSS",
+      "Banking"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CALIBRO CORP",
+    "job title": "z/os systems programmer contract - Remote",
+    "salary": "$55,017 - $122,659 a year",
+    "skills": [
+      "Mainframe development"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Platform 6 Ltd",
+    "job title": "ServiceNow ITOM Developer or Architect - Remote working USA",
+    "salary": "0",
+    "skills": [
+      "Sales",
+      "ServiceNow"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

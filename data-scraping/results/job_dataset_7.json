@@ -1,0 +1,452 @@
+[
+  {
+    "company name": "Via",
+    "job title": "Full Stack Software Engineer, Remix by Via",
+    "salary": "$140,000 - $180,000 a year",
+    "skills": [
+      "PostgreSQL",
+      "TypeScript",
+      "Full-stack development",
+      "PostGIS",
+      "Python",
+      "React"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Clear Street",
+    "job title": "Software Engineer, Backend",
+    "salary": "$160,000 - $190,000 a year",
+    "skills": [
+      "PostgreSQL",
+      "Distributed systems",
+      "Kubernetes",
+      "C++",
+      "DevOps",
+      "APIs",
+      "Go",
+      "Data structures",
+      "CI/CD",
+      "Java",
+      "gRPC",
+      "System design",
+      "Kafka",
+      "Docker",
+      "Design patterns",
+      "Redis"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Happy hour",
+      "Health insurance",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "PHIHONG USA",
+    "job title": "Firmware Engineer",
+    "salary": "$70,000 - $95,000 a year",
+    "skills": [
+      "Assembly",
+      "Computer science"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Datadog",
+    "job title": "Software Engineer - Authorization & Access Management",
+    "salary": "$130,000 - $300,000 a year",
+    "skills": [
+      "Distributed systems",
+      "Python",
+      "Go"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NBCUniversal",
+    "job title": "Video Engineer",
+    "salary": "$110,000 - $160,000 a year",
+    "skills": [
+      "Distributed systems",
+      "AWS",
+      "Scrum",
+      "Encryption",
+      "Software deployment",
+      "IT",
+      "APIs",
+      "Agile",
+      "CI/CD"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Kiddom",
+    "job title": "Software Engineer, Backend",
+    "salary": "$100,000 - $225,000 a year",
+    "skills": [
+      "Continuous integration",
+      "Elasticsearch",
+      "Computer science",
+      "Cassandra",
+      "APIs",
+      "Redux",
+      "REST",
+      "DynamoDB",
+      "Debugging",
+      "Design patterns",
+      "React",
+      "Terraform"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Benefits from day one",
+      "Disability insurance",
+      "Family leave",
+      "Health insurance",
+      "Health savings account",
+      "Life insurance",
+      "Paid sick time",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Plaxonic Technologies",
+    "job title": "Embedded Software Engineer (Aerospace)",
+    "salary": "$125,000 - $140,000 a year",
+    "skills": [
+      "Systems engineering"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Red Hat Software",
+    "job title": "Senior Software Engineer",
+    "salary": "$111,260 - $183,582 a year",
+    "skills": [
+      "PostgreSQL",
+      "Git",
+      "Kubernetes",
+      "AWS",
+      "Linux",
+      "Product management",
+      "High availability",
+      "Solution architecture",
+      "Python",
+      "Redis"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "JPMorgan Chase & Co",
+    "job title": "Product Delivery Associate – New Payment Networks & Rails",
+    "salary": "$76,000 - $115,000 a year",
+    "skills": [
+      "SharePoint",
+      "Git",
+      "Financial services",
+      "Jira",
+      "Confluence",
+      "Product management",
+      "Business analysis",
+      "Analysis skills",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "Health insurance",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Second Spectrum",
+    "job title": "Software Engineer, Sports Data Products",
+    "salary": "$125,000 - $180,000 a year",
+    "skills": [
+      "Git",
+      "TypeScript",
+      "Node.js",
+      "AWS",
+      "Rust",
+      "DevOps",
+      "Data analysis skills",
+      "Docker",
+      "S3",
+      "Python",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Flexible schedule",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NYC Careers",
+    "job title": "SOFTWARE ENGINEER",
+    "salary": "$110,000 - $115,000 a year",
+    "skills": [
+      "Performance tuning",
+      "NoSQL",
+      "SQL",
+      "Git",
+      "Software development",
+      "Systems analysis",
+      "Microservices",
+      "AWS",
+      "HTML5",
+      "Computer science",
+      "DevOps",
+      "APIs",
+      "SSIS",
+      "Entity Framework",
+      "Service-oriented architecture",
+      ".NET Core",
+      "SQL Server Management Studio",
+      "Unit testing",
+      "T-SQL",
+      "ASP.NET",
+      "Visual Studio",
+      "Google Cloud Platform",
+      "ADO.NET",
+      "Scalability",
+      "Azure",
+      "Microsoft SQL Server",
+      "C#",
+      "Full-stack development",
+      "CI/CD",
+      "Databases",
+      "OOP",
+      ".NET",
+      "Salesforce",
+      "MVC",
+      "JavaScript",
+      "CSS",
+      "Unity",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Associate's degree",
+      "High school diploma or GED"
+    ],
+    "benefits": [
+      "Loan forgiveness"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amex",
+    "job title": "Staff Engineer - Web Engineering",
+    "salary": "$170,000 - $255,000 a year",
+    "skills": [
+      "GitHub",
+      "HTML5",
+      "Spring",
+      "APIs",
+      "CI/CD",
+      "Web accessibility",
+      "WCAG",
+      "SDKs",
+      "Jenkins",
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "Retirement plan",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Beacon Platform",
+    "job title": "Core - Financial Software Engineer",
+    "salary": "$150,000 - $175,000 a year",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "Software development",
+      "AWS",
+      "Cloud computing",
+      "Python",
+      "Data structures",
+      "OOP"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Unlimited paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "TikTok",
+    "job title": "Software Engineer, SRE - Platform Services - USDS (NYC)",
+    "salary": "$116,000 - $250,000 a year",
+    "skills": [
+      "Distributed systems",
+      "SRE",
+      "C++",
+      "Go",
+      "Data structures",
+      "Java",
+      "System design",
+      "Debugging",
+      "Python"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "AD&D insurance",
+      "Disability insurance",
+      "Employee assistance program",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Paid parental leave",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "RSU",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Metropolitan Transportation Authority",
+    "job title": "Specialist Software Platform Engineer",
+    "salary": "$110,748 - $130,719 a year",
+    "skills": [
+      "SQL",
+      "AWS",
+      "C++",
+      "Encryption",
+      "Oracle HCM",
+      "Kanban",
+      "DevOps",
+      "Java",
+      "Tomcat",
+      "Weblogic",
+      "Application development",
+      "Unit testing",
+      "Operating systems",
+      "Python",
+      "Node.js",
+      "Kubernetes",
+      "Software testing",
+      "Microsoft SQL Server",
+      "Database management",
+      "Ruby",
+      "Linux",
+      "Microsoft Windows Server",
+      "Product management",
+      "Oracle",
+      "Data structures",
+      "COBOL",
+      "CI/CD",
+      "Software troubleshooting",
+      ".NET",
+      "Authentication",
+      "Cloud computing",
+      "Web development",
+      "Docker",
+      "JavaScript",
+      "Windows",
+      "Cybersecurity"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

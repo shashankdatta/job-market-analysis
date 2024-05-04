@@ -1,0 +1,380 @@
+[
+  {
+    "company name": "Convisorit",
+    "job title": "Lead UX Designer/Developer",
+    "salary": "$50 - $55 an hour",
+    "skills": [
+      "User research",
+      "UX"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Prudential",
+    "job title": "Senior Cloud Engineer- Cloud Governance",
+    "salary": "$105,100 - $156,500 a year",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "SharePoint",
+      "Power BI",
+      "AWS",
+      "Budgeting",
+      "Computer science",
+      "SDLC",
+      "High availability",
+      "TCP",
+      "DevOps",
+      "APIs",
+      "TCP/IP",
+      "Confluence",
+      "Forecasting",
+      "Python",
+      "UNIX",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "Linux",
+      "Ansible",
+      "CI/CD",
+      "Disaster recovery",
+      "Cloud computing",
+      "Docker",
+      "AI",
+      "Terraform",
+      "Groovy",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee stock purchase plan",
+      "Health insurance",
+      "Life insurance",
+      "Military leave",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Mount Sinai",
+    "job title": "Oracle Cloud Developer and Architect (Technology Specialist III)- Digital and Technology Partners - Remote",
+    "salary": "$102,999.98 - $202,155.00 a year",
+    "skills": [
+      "SQL",
+      "Business requirements",
+      "SaaS",
+      "Cloud architecture",
+      "ERP systems",
+      "Oracle HCM",
+      "Oracle",
+      "DevOps",
+      "UX",
+      "PaaS",
+      "Databases",
+      "SOAP",
+      "REST",
+      "Cloud development",
+      "FTP",
+      "PL/SQL",
+      "Design patterns",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CEDENT",
+    "job title": ".NET Lead developer - Technology, Enterprise Finance Technology",
+    "salary": "0",
+    "skills": [
+      "Leadership",
+      ".NET",
+      "ASP.NET Core",
+      "Enterprise software",
+      "Telerik",
+      "Oracle",
+      "Mentoring",
+      "Agile",
+      "CI/CD"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Chubb",
+    "job title": "Sr. Full Stack Engineer (Java)",
+    "salary": "0",
+    "skills": [
+      "Git",
+      "Spring",
+      "Relationship management",
+      "Spring Boot",
+      "JUnit",
+      "TFS",
+      "Full-stack development",
+      "Angular",
+      "DevOps",
+      "MongoDB",
+      "SOAP",
+      "Java",
+      "XSLT",
+      "REST",
+      "JSON",
+      "Data analysis skills",
+      "Kafka",
+      "MVC",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Opentrons",
+    "job title": "Senior Director of Software Engineering",
+    "salary": "$245,000 - $295,000 a year",
+    "skills": [
+      "Leadership",
+      "Robotics",
+      "Software architecture",
+      "Product management",
+      "Waterfall",
+      "Analysis skills",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Health insurance",
+      "Paid time off",
+      "Parental leave"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Pickle",
+    "job title": "Senior Software Engineer",
+    "salary": "$130,000 - $200,000 a year",
+    "skills": [
+      "React Native",
+      "DynamoDB",
+      "AWS",
+      "Full-stack development",
+      "S3",
+      "Python"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Health insurance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": [
+      "Help shape our infrastructure, technical architecture, and engineering best practices.",
+      "Drive decisions that influence the product design and application functionality.",
+      "Tackle key challenges that come with rapidly scaling an application.",
+      "Develop high-quality production code and provide thorough code reviews to other engineers.",
+      "Work closely with the CEO and the engineering team to shape the engineering culture.",
+      "Find creative solutions to problems that come with tapping into a new market and a rapidly scaling user base. Some examples include minimizing customer support outreach volume and personalizing item recommendations for each user."
+    ]
+  },
+  {
+    "company name": "Man Infotech",
+    "job title": "Sr. Software Engineer",
+    "salary": "0",
+    "skills": [
+      "Java",
+      "Pegasystems",
+      "SVN",
+      "jQuery",
+      "MySQL",
+      "Oracle",
+      "DevOps",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Roots Automation, Inc.",
+    "job title": "Lead Backend Developer",
+    "salary": "$150,000 - $170,000 a year",
+    "skills": [
+      "SQL",
+      "PostgreSQL",
+      "Relational databases",
+      "Git",
+      "Microservices",
+      "Natural language processing",
+      "GraphQL",
+      "Azure",
+      "Microsoft SQL Server",
+      "CI/CD",
+      "Databases",
+      "REST",
+      "Computer vision",
+      "Software architecture",
+      "Jenkins",
+      "Docker",
+      "Design patterns",
+      "Mentoring",
+      "Python",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CapB InfoteK",
+    "job title": "JAVA Developer - C67764 5.7 New York, NY",
+    "salary": "$57 an hour",
+    "skills": [
+      "SQL",
+      "Git",
+      "Financial services",
+      "Ant",
+      "J2EE",
+      "Microservices",
+      "SDLC",
+      "APIs",
+      "Maven",
+      "Java",
+      "Spring",
+      "JUnit",
+      "Informatica",
+      "Splunk",
+      "DB2",
+      "Analysis skills",
+      "MongoDB",
+      "Leadership",
+      "REST",
+      "Data analysis skills",
+      "Gradle",
+      "Jenkins",
+      "Kafka",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "BTI Solutions",
+    "job title": "Android Software Quality Engineer / Berkeley Heights, NJ / Business / SAGS7127475",
+    "salary": "0",
+    "skills": [
+      "Jira",
+      "Mobile devices",
+      "Computer science"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Derex Technologies Inc",
+    "job title": ".NET Solution Architect with P&C Insurance",
+    "salary": "0",
+    "skills": [
+      ".NET",
+      "Solution architecture",
+      "SDLC",
+      "DevOps"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Certec Consulting",
+    "job title": "ONBASE PROGRAMMER / SYSTEM ADMIN - 1730",
+    "salary": "$65 - $70 an hour",
+    "skills": [
+      "SQL",
+      "IIS",
+      "Jira",
+      "Microsoft SQL Server",
+      "System design",
+      "Computer science",
+      "Active Directory",
+      "Design patterns",
+      "Analysis skills",
+      "Banking"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Sumas Corporation",
+    "job title": "Software Developer",
+    "salary": "0",
+    "skills": [
+      "SOAP",
+      "Java",
+      "AJAX",
+      "Git",
+      "UNIX",
+      "Hibernate",
+      "Tomcat",
+      "JUnit",
+      "jQuery",
+      "SDLC"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "National Computer Systems",
+    "job title": "Software Developers",
+    "salary": "0",
+    "skills": [
+      "Database management"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

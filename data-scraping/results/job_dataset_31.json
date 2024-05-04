@@ -1,0 +1,387 @@
+[
+  {
+    "company name": "iCIMS",
+    "job title": "Software Engineer",
+    "salary": "$92,600 - $123,500 a year",
+    "skills": [
+      "AJAX",
+      "Software development",
+      "HTML5",
+      "Computer science",
+      "Test automation",
+      "Java",
+      "Redux",
+      "Hibernate",
+      "Design patterns",
+      "Spring",
+      "JUnit",
+      "JSP",
+      "Scrum",
+      "Jest",
+      "TestNG",
+      "Recruiting",
+      "React",
+      "Selenium",
+      "JavaScript",
+      "CSS",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "AD&D insurance",
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Parental leave",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Altimetrik Corp",
+    "job title": "Staff Engineer - Product & Platform Engineering",
+    "salary": "0",
+    "skills": [
+      "XML",
+      "Java",
+      "Multithreading",
+      "REST",
+      "JSON",
+      "Kafka",
+      "Computer science",
+      "Python"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Morgan Stanley",
+    "job title": "VP - Java Developer",
+    "salary": "0",
+    "skills": [
+      "Java",
+      "Financial services",
+      "Python",
+      "OOP"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "GfK",
+    "job title": "Lead Software Engineer (MRI-Simmons)",
+    "salary": "$120,000 - $140,000 a year",
+    "skills": [
+      "Tableau",
+      "J2EE",
+      "Power BI",
+      "PowerShell",
+      "MySQL",
+      "SDLC",
+      "DevOps",
+      "APIs",
+      "Maven",
+      "Visual Basic",
+      "Java",
+      "Python",
+      "PostgreSQL",
+      "Relational databases",
+      "Microsoft SQL Server",
+      "Spring",
+      "JPA",
+      "Spring Boot",
+      "JSP",
+      "Angular",
+      "SSO",
+      "Oracle",
+      "Analysis skills",
+      "CI/CD",
+      "Databases",
+      "Jira",
+      "Gradle",
+      "Data visualization",
+      "AI",
+      "React",
+      "Agile",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon.com Services LLC",
+    "job title": "Software Development Engineer II, Customer Instock Value (CIV)",
+    "salary": "From $115,000 a year",
+    "skills": [
+      "SQL",
+      "Apache Hive",
+      "Hadoop",
+      "Spark",
+      "Computer science",
+      "SDLC",
+      "Data structures",
+      "Data modeling",
+      "Service-oriented architecture",
+      "Big data",
+      "Design patterns",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Teledyne e2v Semiconductors",
+    "job title": "Software Engineer Co-Op",
+    "salary": "$41,800 - $55,880 a year",
+    "skills": [
+      "MATLAB",
+      "C++",
+      "Operating systems",
+      "Python",
+      "Test automation",
+      "Data structures",
+      "Analysis skills"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Realign LLC",
+    "job title": "CIAM Engineer",
+    "salary": "0",
+    "skills": [
+      "Network architecture",
+      "Authentication",
+      "Sailpoint",
+      "Computer science",
+      "Identity & access management",
+      "DevOps",
+      "Cybersecurity"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Ramp Financial",
+    "job title": "Senior Software Engineer | Frontend",
+    "salary": "0",
+    "skills": [
+      "TypeScript",
+      "React",
+      "JavaScript",
+      "Purchasing"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Parental leave",
+      "Pet insurance",
+      "Vision insurance",
+      "Work from home stipend"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Xylo Consulting",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Columbia University",
+    "job title": "Application Systems Developer (OnBase)",
+    "salary": "$90,000 - $100,000 a year",
+    "skills": [
+      "REST",
+      "SDLC",
+      "APIs",
+      "Requirements gathering",
+      "Analysis skills",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": [
+      "Supports existing OnBase custom solutions.",
+      "Develops new OnBase solutions.",
+      "Uses SDLC methodology to evaluate business needs and define functional requirements.",
+      "Demonstrates ability to design and implement custom OnBase solutions while working independently.",
+      "Creates new policies and procedures surrounding the use of OnBase systems.",
+      "Works with internal team at Columbia University and 3rd party vendor to provide end-to-end OnBase solutions and support to new and existing customers.",
+      "Assists in developing, producing and distributing production reports, and policy and procedure manuals.",
+      "Weekend and off-hour work may be necessary on occasion.",
+      "All other duties as assigned."
+    ]
+  },
+  {
+    "company name": "Kiddom",
+    "job title": "Senior Software Engineer, Full Stack",
+    "salary": "$100,000 - $225,000 a year",
+    "skills": [
+      "Redux",
+      "Full-stack development",
+      "Front-end development",
+      "C",
+      "React",
+      "JavaScript",
+      "Go",
+      "CSS",
+      "SASS"
+    ],
+    "education": [],
+    "benefits": [
+      "Benefits from day one",
+      "Disability insurance",
+      "Family leave",
+      "Health insurance",
+      "Health savings account",
+      "Life insurance",
+      "Paid sick time",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Clarapath",
+    "job title": "Senior Embedded Software Engineer",
+    "salary": "$110,000 - $150,000 a year",
+    "skills": [
+      "Git",
+      "Multithreading",
+      "C++",
+      "Ethernet",
+      "Software deployment",
+      "Linux",
+      "TCP",
+      "TCP/IP",
+      "CI/CD",
+      "Robotics",
+      "Python",
+      "C"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": [
+      "Development of software for a robotic system that automates pathology",
+      "Development of algorithms for controlling a multi-component mechatronic system based on software requirements",
+      "Writing of production level code that will be released onto marketable product",
+      "Development of real time, feedback control loops",
+      "Development of interfaces between mechanical and software components of the system (for example, motor controllers, cameras, and actuators)",
+      "Creation of simulation of robotic system for testing"
+    ]
+  },
+  {
+    "company name": "Google",
+    "job title": "Technical Program Manager III, Software Engineering, Google Meet",
+    "salary": "0",
+    "skills": [
+      "Program management",
+      "Release management",
+      "Negotiation",
+      "SDLC",
+      "Analysis skills"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "I5 TECH",
+    "job title": "Software Engineers/Developers",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Software troubleshooting",
+      "Java",
+      "UNIX",
+      "Spring",
+      "Informatica",
+      "PL/SQL",
+      "Linux",
+      "Oracle",
+      "SoapUI"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Spruce Technology",
+    "job title": "Software Developer for Clifton, NJ",
+    "salary": "0",
+    "skills": [
+      "HTML5",
+      "MySQL",
+      "IT",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

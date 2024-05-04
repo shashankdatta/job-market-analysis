@@ -1,0 +1,462 @@
+[
+  {
+    "company name": "CBRE",
+    "job title": "Mobile Engineer",
+    "salary": "$32.31 - $42.31 an hour",
+    "skills": [
+      "Welding",
+      "Plumbing",
+      "CMMS",
+      "Carpentry"
+    ],
+    "education": [
+      "High school diploma or GED",
+      "Trade school"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Fuel card",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NYC Careers",
+    "job title": "Senior Software Developer",
+    "salary": "$100,000 - $127,000 a year",
+    "skills": [
+      "SQL",
+      "AJAX",
+      "Software development",
+      "HTML5",
+      "TFS",
+      "SSIS",
+      "Responsive web design",
+      ".NET Core",
+      "Visual Studio",
+      "Azure",
+      "WCF",
+      "Microsoft SQL Server",
+      "C#",
+      "Angular",
+      ".NET",
+      "REST",
+      "Bootstrap",
+      "jQuery",
+      "MVC",
+      "React",
+      "JavaScript",
+      "CSS",
+      "Windows"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Loan forgiveness"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Combined Insurance",
+    "job title": "Lead Software Engineer",
+    "salary": "0",
+    "skills": [
+      "Leadership",
+      "APIs"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NBCUniversal",
+    "job title": "Site Reliability Engineer",
+    "salary": "$105,000 - $145,000 a year",
+    "skills": [
+      "GitHub",
+      "SRE",
+      "Kubernetes",
+      "AWS",
+      "Elasticsearch",
+      "System administration",
+      "Ruby",
+      "Software deployment",
+      "Splunk",
+      "Linux",
+      "DevOps",
+      "Go",
+      "Analysis skills",
+      "CI/CD",
+      "Java",
+      "Jenkins",
+      "Docker",
+      "Python",
+      "IT"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Montefiore Medical Center",
+    "job title": "SENIOR DATABASE DEVELOPER",
+    "salary": "$93,750 - $125,000 a year",
+    "skills": [
+      "SQL",
+      "Business requirements",
+      "ICD coding",
+      "Data mining",
+      "ICD-10",
+      "Microsoft SQL Server",
+      "Computer science",
+      "Oracle",
+      "Python",
+      "Analysis skills",
+      "Databases"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "RM Dream Homes Pvt. Ltd.",
+    "job title": "Quantitative Developer",
+    "salary": "$600,000 - $950,000 a year",
+    "skills": [
+      "Quantitative research",
+      "Python",
+      "Equity research",
+      "Software development"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Second Spectrum",
+    "job title": "Senior Full-Stack Software Engineer",
+    "salary": "$160,000 - $200,000 a year",
+    "skills": [
+      "SQL",
+      "Distributed systems",
+      "Git",
+      "TypeScript",
+      "Software development",
+      "GraphQL",
+      "AWS",
+      "HTML5",
+      "APIs",
+      "Go",
+      "RabbitMQ",
+      "S3",
+      "PostgreSQL",
+      "Node.js",
+      "Relational databases",
+      "Rust",
+      "Elixir",
+      "Linux",
+      "Databases",
+      "Docker",
+      "AI",
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NYC Careers",
+    "job title": "IT – Product Support Specialist for the Division of HPD TECH",
+    "salary": "$80,161 - $92,185 a year",
+    "skills": [
+      "Git",
+      "Inventory management",
+      "TFS",
+      "Help desk",
+      "SDLC",
+      "APIs",
+      "ServiceNow",
+      "IIS",
+      "REST",
+      "Jira",
+      "Remedy",
+      "Redis",
+      "Windows"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "High school diploma or GED",
+      "Trade school"
+    ],
+    "benefits": [
+      "Loan forgiveness",
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Bloomberg",
+    "job title": "Software Quality Assurance Engineer - Enterprise Data",
+    "salary": "$120,000 - $170,000 a year",
+    "skills": [
+      "PostgreSQL",
+      "Git",
+      "Node.js",
+      "Google Cloud Platform",
+      "AWS",
+      "Azure",
+      "C++",
+      "C#",
+      "Linux",
+      "Test automation",
+      "APIs",
+      ".NET Core",
+      "Jenkins",
+      "Cloud computing",
+      "Web development",
+      "Bloomberg",
+      "JavaScript",
+      "Agile",
+      "Windows"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "TikTok",
+    "job title": "Site Reliability Engineer, Global E-commerce- USDS",
+    "salary": "$116,000 - $250,000 a year",
+    "skills": [
+      "Distributed systems",
+      "UNIX",
+      "SRE",
+      "Hadoop",
+      "Elasticsearch",
+      "Linux",
+      "APIs",
+      "Go",
+      "Data structures",
+      "Analysis skills",
+      "Java",
+      "Computer networking",
+      "ETL",
+      "Kafka",
+      "Python",
+      "Redis",
+      "Web services"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "AD&D insurance",
+      "Disability insurance",
+      "Employee assistance program",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Paid parental leave",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "RSU",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Greystone & Co. II LLC",
+    "job title": "Engineer",
+    "salary": "$160,000 - $180,000 a year",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "Git",
+      "Adobe XD",
+      "Laboratory experience",
+      "Figma",
+      "Django",
+      "APIs",
+      "Go",
+      "UX",
+      "UI",
+      "Docker",
+      "Python",
+      "MVC",
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Kohler",
+    "job title": "Sr. Software Engineer & Architect, Security",
+    "salary": "$98,000 - $182,000 a year",
+    "skills": [
+      "TypeScript",
+      "Software development",
+      "GraphQL",
+      "Kubernetes",
+      "AWS",
+      "Rust",
+      "C++",
+      "Internet of things",
+      "APIs",
+      "Go",
+      "System design",
+      "AI",
+      "Information security",
+      "JavaScript",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Morgan Stanley",
+    "job title": "Google Platform Cloud Engineer",
+    "salary": "0",
+    "skills": [
+      "Cloud architecture",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "Linux",
+      "DevOps",
+      "APIs",
+      "CI/CD",
+      "Leadership",
+      "Computer networking",
+      "Python",
+      "Terraform",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Insoft Systems",
+    "job title": "SOFTWARE ENGINEER",
+    "salary": "0",
+    "skills": [
+      "ASP.NET",
+      "XML",
+      "AJAX",
+      "Visual Studio",
+      "Microsoft SQL Server",
+      "C#",
+      "Oracle",
+      "Microsoft Access",
+      "ASP",
+      "Visual Basic",
+      "XSLT",
+      "Crystal Reports",
+      "JavaScript"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "North Atlantic Industries, Inc",
+    "job title": "Network Software Engineer",
+    "salary": "$115,000 - $140,000 a year",
+    "skills": [
+      "Software development",
+      "C++",
+      "Linux",
+      "TCP",
+      "VPN",
+      "Authentication",
+      "Computer networking",
+      "SDKs",
+      "IPsec",
+      "OS Kernels",
+      "SSL",
+      "C"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "AD&D insurance",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee assistance program",
+      "Flexible spending account",
+      "Health insurance",
+      "Life insurance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

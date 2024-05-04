@@ -1,0 +1,366 @@
+[
+  {
+    "company name": "Google",
+    "job title": "Developer Relations Engineer III, Android for ChromeOS",
+    "salary": "0",
+    "skills": [
+      "Java",
+      "Kotlin",
+      "HTML5",
+      "SDKs",
+      "Computer science",
+      "Product management",
+      "APIs",
+      "Android development"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Triunity Software",
+    "job title": "Entry Level Java Developer",
+    "salary": "$60,000 - $80,000 a year",
+    "skills": [
+      "Java",
+      "Relational databases",
+      "Software development",
+      "Microsoft SQL Server",
+      "MySQL",
+      "Oracle",
+      "Python",
+      "Analysis skills",
+      "Databases"
+    ],
+    "education": [],
+    "benefits": [
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "BayOne",
+    "job title": "Sr. Angular Developer",
+    "salary": "0",
+    "skills": [
+      "Leadership",
+      "Java",
+      "TypeScript",
+      "REST",
+      "HTML5",
+      "Spring",
+      "Spring Boot",
+      "Application development",
+      "Angular",
+      "APIs",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "JPMorgan Chase & Co",
+    "job title": "Lead Infrastructure Engineer - Web Proxy Engineer",
+    "salary": "$137,750 - $185,000 a year",
+    "skills": [
+      "Research",
+      "Software development",
+      "Microservices",
+      "Encryption",
+      "Kanban",
+      "Ansible",
+      "DevOps",
+      "APIs",
+      "CI/CD",
+      "Leadership",
+      "Firewall",
+      "JSON",
+      "Scrum",
+      "Jenkins",
+      "Load balancing",
+      "SSL",
+      "Python",
+      "Terraform",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "Health insurance",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Duolingo",
+    "job title": "Creative Technologist",
+    "salary": "$144,500 - $294,000 a year",
+    "skills": [
+      "Scripting",
+      "C++",
+      "Figma",
+      "Python",
+      "Maya"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "GfK",
+    "job title": "Lead Software Engineer (MRI-Simmons)",
+    "salary": "$120,000 - $140,000 a year",
+    "skills": [],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "OpenVault",
+    "job title": "Senior Software Engineer",
+    "salary": "0",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "Node.js",
+      "UNIX",
+      "Software development",
+      "Google Cloud Platform",
+      "AWS",
+      "Scripting",
+      "Linux",
+      "Java",
+      "Kafka",
+      "Big data",
+      "Python",
+      "Shell Scripting",
+      "Bash"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": [
+      "Develop new solutions to help OpenVault lead the industry and handle growing customer broadband data usage",
+      " Conduct industry research on new technology and solutions",
+      " Monitor daily operational processes and take corrective action as necessary",
+      " Assist with implementations",
+      " Troubleshoot and resolve customer reported issues",
+      " Assist management team with planning, process and automation exercises"
+    ]
+  },
+  {
+    "company name": "StubHub",
+    "job title": "Staff Software Engineer - Payins",
+    "salary": "$240,000 - $350,000 a year",
+    "skills": [
+      "Distributed systems",
+      "Java",
+      "Software development",
+      "C++",
+      "C#",
+      "Objective-C",
+      "C",
+      "Mentoring",
+      "Machine learning"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Duolingo",
+    "job title": "Senior Android Software Engineer",
+    "salary": "$148,800 - $274,600 a year",
+    "skills": [
+      "Kotlin",
+      "Natural language processing",
+      "Computer science",
+      "Mobile applications",
+      "APIs",
+      "Leadership",
+      "Android",
+      "System design",
+      "Negotiation",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Major League Baseball",
+    "job title": "Senior Software Engineer, Mobile Platform Services",
+    "salary": "$150,000 - $185,000 a year",
+    "skills": [
+      "Memcached",
+      "Kotlin",
+      "Authentication",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "Application development",
+      "Load balancing",
+      "Mobile applications",
+      "APIs",
+      "Go",
+      "Analysis skills",
+      "Redis"
+    ],
+    "education": [],
+    "benefits": [
+      "Dental insurance",
+      "Health insurance",
+      "Lunch & learns",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Prudential",
+    "job title": "Senior Quality Automation Engineer",
+    "salary": "$90,100 - $134,100 a year",
+    "skills": [
+      "Java",
+      "Test-driven development",
+      "JUnit",
+      "Informatica",
+      "SDLC",
+      "Python",
+      "DevOps",
+      "APIs",
+      "JavaScript",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Capital One",
+    "job title": "Manager, Software Engineering, iOS",
+    "salary": "0",
+    "skills": [
+      "Kotlin",
+      "iOS",
+      "iOS development",
+      "APIs",
+      "Swift",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CapB InfoteK",
+    "job title": "Software Developer - Informatica - C67721 5.5 New York, NY",
+    "salary": "$55 an hour",
+    "skills": [
+      "SQL",
+      "UNIX",
+      "Software development",
+      "ETL",
+      "Scripting",
+      "Informatica",
+      "Data warehouse",
+      "Wealth management",
+      "Shell Scripting"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Gesture",
+    "job title": "Lead Full Stack Engineer",
+    "salary": "$140,000 - $150,000 a year",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "TypeScript",
+      "Node.js",
+      "GraphQL",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "AWS",
+      "Database management",
+      "Full-stack development",
+      "Mobile applications",
+      "CI/CD",
+      "Leadership",
+      "Back-end development",
+      "React Native",
+      "Mentoring",
+      "JavaScript",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "J. Crew Group, Inc.",
+    "job title": "Lead Business Intelligence Developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "APIs"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Gym membership",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

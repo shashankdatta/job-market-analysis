@@ -1,0 +1,423 @@
+[
+  {
+    "company name": "Fidelity Investments",
+    "job title": "Director of Software Engineering - APIs",
+    "salary": "$103,000 - $218,000 a year",
+    "skills": [
+      "Business requirements",
+      "Distributed systems",
+      "AWS",
+      "Spring",
+      "Spring Boot",
+      "Computer science",
+      "APIs",
+      "Analysis skills",
+      "CI/CD",
+      "Java"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Loan repayment program",
+      "Paid time off",
+      "Parental leave",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NYC Careers",
+    "job title": ".Net Developer, Bureau of Application Development and Database Administration",
+    "salary": "$58,700 - $137,712 a year",
+    "skills": [
+      "HTML5",
+      "Microsoft SQL Server",
+      "Spring",
+      "JSP",
+      "Xamarin",
+      "SDLC",
+      "SSIS",
+      ".NET",
+      "Software architecture",
+      "Supervising experience",
+      "Debugging",
+      "Application development",
+      "Web development",
+      "Design patterns",
+      "Database administration",
+      "IT",
+      "Public health",
+      "JavaScript",
+      "CSS",
+      "Struts"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "High school diploma or GED",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Loan forgiveness",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Digital Pulp",
+    "job title": "Freelance Drupal 8 Back-End Developer",
+    "salary": "$50 - $70 an hour",
+    "skills": [
+      "Git",
+      "PHP",
+      "Linux",
+      "MySQL",
+      "Computer science",
+      "JavaScript",
+      "Drupal"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "UNITED PARCEL SERVICE",
+    "job title": "Lead Software Development Engineer",
+    "salary": "0",
+    "skills": [
+      "iOS",
+      "Microservices",
+      "C#",
+      "Unit testing",
+      "Angular",
+      "SDLC",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Staxa Technologies",
+    "job title": "SOFTWARE ENGINEERS",
+    "salary": "0",
+    "skills": [
+      "Software troubleshooting",
+      "Cloud infrastructure",
+      "Computer science"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon.com Services LLC",
+    "job title": "Software Devlopment Engineer, FinTech Account Receivables Cash Applications",
+    "salary": "From $115,000 a year",
+    "skills": [
+      "Software development",
+      "AWS",
+      "Computer science",
+      "SDLC",
+      "Design patterns",
+      "Data structures",
+      "OOP"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Plaxonic Technologies",
+    "job title": "Frontend Developer",
+    "salary": "$100,000 - $125,000 a year",
+    "skills": [
+      "Front-end development",
+      "SQL",
+      "AJAX",
+      "APIs",
+      "WebSphere",
+      "Java",
+      "Data modeling",
+      "Hibernate",
+      "Tomcat",
+      "SVN",
+      "PL/SQL",
+      "Design patterns",
+      "Kubernetes",
+      "Spring",
+      "JSP",
+      "Angular",
+      "Oracle",
+      "Data structures",
+      "REST",
+      "JSON",
+      "JDBC",
+      "Docker",
+      "Spring MVC",
+      "MVC",
+      "JavaScript",
+      "Web services"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Curtiss-Wright",
+    "job title": "Principal Embedded Software Engineer",
+    "salary": "$115,000 - $135,000 a year",
+    "skills": [
+      "Technical writing",
+      "Git",
+      "C++",
+      "Embedded software",
+      "TCP",
+      "TCP/IP",
+      "Analysis skills",
+      "OOP",
+      "Jira",
+      "Debugging",
+      "C",
+      "Python",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "BigLynx Inc.",
+    "job title": "Microsoft Dynamics CRM Developer",
+    "salary": "$70 - $90 an hour",
+    "skills": [
+      "ASP.NET",
+      "Business requirements",
+      "Visual Studio",
+      "HTML5",
+      "C#",
+      "APIs",
+      "Analysis skills",
+      ".NET",
+      "REST",
+      "Web development",
+      "Unit testing",
+      "JavaScript",
+      "CSS",
+      "Microsoft Dynamics 365"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Geo Logic Systems",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "UNIX",
+      "Microsoft SQL Server",
+      "OBIEE",
+      "Informatica",
+      "Linux",
+      "Microsoft Windows Server",
+      "SSRS",
+      "SDLC",
+      "Oracle",
+      "SSIS",
+      "DataStage",
+      "Cognos",
+      "PL/SQL"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Referral program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Caden",
+    "job title": "DevOps Engineer - Platform Operations",
+    "salary": "$120,000 - $135,000 a year",
+    "skills": [
+      "Performance tuning",
+      "NoSQL",
+      "Distributed systems",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "AWS",
+      "DevOps",
+      "MongoDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Commuter assistance",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "DataFielder Inc, LLC",
+    "job title": "Generative AI Python Developer (EK)",
+    "salary": "$80 - $100 an hour",
+    "skills": [
+      "AWS",
+      "Python",
+      "APIs",
+      "S3",
+      "AI"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Softova, Inc.",
+    "job title": "Senior Software Engineer",
+    "salary": "0",
+    "skills": [
+      "Java",
+      "J2EE",
+      "Computer science",
+      "Struts"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Trinity Solar Careers",
+    "job title": "AI Machine Learning Engineer",
+    "salary": "$110,000 - $200,000 a year",
+    "skills": [
+      "PyTorch",
+      "Machine learning frameworks",
+      "Statistics",
+      "Natural language processing",
+      "TensorFlow",
+      "C#",
+      "Deep learning",
+      "Feature extraction",
+      "Python",
+      "AI",
+      "Machine learning"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Employee assistance program",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Paid training",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Haymarket Media, Inc",
+    "job title": "Senior Web Services Developer",
+    "salary": "$120,000 - $125,000 a year",
+    "skills": [
+      "SQL",
+      "Git",
+      "TypeScript",
+      "Microservices",
+      "AWS",
+      "HTML5",
+      "Elasticsearch",
+      "PowerShell",
+      "ECMAScript",
+      "APIs",
+      "Entity Framework",
+      ".NET Core",
+      "Design patterns",
+      "Test-driven development",
+      "Visual Studio",
+      "Microsoft SQL Server",
+      "C#",
+      "CI/CD",
+      "OOP",
+      ".NET",
+      "REST",
+      "Jira",
+      "New Relic",
+      "MVC",
+      "React",
+      "CSS"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Commuter assistance",
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

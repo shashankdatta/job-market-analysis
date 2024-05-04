@@ -1,0 +1,447 @@
+[
+  {
+    "company name": "Apple",
+    "job title": "Site Reliability Engineer, ASE",
+    "salary": "$138,900 - $256,500 a year",
+    "skills": [
+      "Distributed systems",
+      "SRE",
+      "Kubernetes",
+      "Scripting",
+      "ISO 27001",
+      "SOX",
+      "Splunk",
+      "Linux",
+      "Ansible",
+      "DevOps",
+      "APIs",
+      "Software troubleshooting",
+      "Network protocols",
+      "PCI",
+      "Configuration management",
+      "Disaster recovery",
+      "Docker",
+      "Puppet",
+      "Python",
+      "Terraform"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Employee stock purchase plan",
+      "Health insurance",
+      "RSU",
+      "Retirement plan"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "current",
+    "job title": "Software Engineer (Mid - Sr)",
+    "salary": "$125,000 - $235,000 a year",
+    "skills": [
+      "NoSQL",
+      "PostgreSQL",
+      "Java",
+      "Multithreading",
+      "TypeScript",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "AWS",
+      "Neo4j",
+      "System design",
+      "MongoDB",
+      "Machine learning"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Commuter assistance",
+      "Dental insurance",
+      "Employee assistance program",
+      "Flexible spending account",
+      "Health insurance",
+      "Parental leave",
+      "Stock options",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Wallero Technologies inc",
+    "job title": "Software Engineer",
+    "salary": "$70 - $85 an hour",
+    "skills": [
+      "TypeScript",
+      "ETL",
+      "Python",
+      "JavaScript",
+      "PyTorch",
+      "Kubernetes",
+      "TensorFlow",
+      "Go",
+      "AI",
+      "Banking"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NBCUniversal",
+    "job title": "Engineering Manager, JavaScript",
+    "salary": "$140,000 - $200,000 a year",
+    "skills": [
+      "Leadership",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Code Talent Connect",
+    "job title": "Senior Software Engineer",
+    "salary": "$100,000 - $106,000 a year",
+    "skills": [
+      "AJAX",
+      "Facebook Advertising",
+      "Server management",
+      "JSP",
+      "Website maintenance",
+      "Google Ads"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Stock options"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Standard Motor Products",
+    "job title": "Embedded Software Engineer",
+    "salary": "$105,000 - $135,000 a year",
+    "skills": [
+      "Git",
+      "C++",
+      "Schematics",
+      "SolidWorks",
+      "Analysis skills",
+      "MATLAB",
+      "Eclipse",
+      "Python",
+      "C",
+      "PCB"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Parental leave",
+      "Retirement plan",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "TikTok",
+    "job title": "Software Development Engineer in Test, Global e-commerce - USDS",
+    "salary": "$122,400 - $266,000 a year",
+    "skills": [
+      "Quality assurance",
+      "Java",
+      "iOS",
+      "Computer networking",
+      "Computer science",
+      "Continuous improvement",
+      "Python",
+      "Go",
+      "CI/CD"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "AD&D insurance",
+      "Disability insurance",
+      "Employee assistance program",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Paid parental leave",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "RSU",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "State Street",
+    "job title": "Software Developer - Officer",
+    "salary": "$70,000 - $115,000 a year",
+    "skills": [
+      "SQL",
+      "Business requirements",
+      "Multithreading",
+      "Software development",
+      "Microservices",
+      "Kubernetes",
+      "AWS",
+      "Azure",
+      "Spring",
+      "Spring Boot",
+      "Java",
+      "Kafka",
+      "Cloud computing",
+      "React",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Matching gift program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "SoundCloud",
+    "job title": "Senior Backend Engineer",
+    "salary": "$112,000 - $160,000 a year",
+    "skills": [
+      "Java",
+      "Node.js",
+      "TypeScript",
+      "Google Cloud Platform",
+      "Microservices",
+      "GraphQL",
+      "AWS",
+      "Kafka",
+      "Test automation",
+      "APIs",
+      "JavaScript"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Employee stock ownership plan",
+      "Gym membership",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance",
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Princeton University",
+    "job title": "Robotics Automation Engineer",
+    "salary": "0",
+    "skills": [
+      "Mechanical design",
+      "CAD",
+      "Mechanical troubleshooting"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Modus Closing",
+    "job title": "Senior Software Engineer (Backend)",
+    "salary": "$110,800 - $166,100 a year",
+    "skills": [
+      "Software development",
+      "Microservices",
+      "AWS",
+      "Computer science",
+      "Maven",
+      "Go",
+      "CI/CD",
+      "Leadership",
+      "Java",
+      "gRPC",
+      "Scrum",
+      "Kafka",
+      "Python",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee assistance program",
+      "Flexible spending account",
+      "Health insurance",
+      "Parental leave",
+      "Pet insurance",
+      "RSU",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Hubbell, Inc.",
+    "job title": "Embedded Software Engineer - Westbury, NY",
+    "salary": "0",
+    "skills": [
+      "C#",
+      "Software development",
+      "Firmware",
+      "Linux"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Employee assistance program",
+      "Employee discount",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Life insurance",
+      "Paid time off",
+      "Parental leave",
+      "Referral program",
+      "Retirement plan",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "SEO Scholars",
+    "job title": "Software Engineering Teaching Assistant",
+    "salary": "$50 an hour",
+    "skills": [
+      "GitHub",
+      "Git",
+      "Software development",
+      "HTML5",
+      "APIs",
+      "Analysis skills",
+      "Leadership",
+      "Data manipulation",
+      "SEO",
+      "Python",
+      "Shell Scripting",
+      "CSS",
+      "Bash"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Walmart",
+    "job title": "(USA) Software Engineer III",
+    "salary": "$90,000 - $180,000 a year",
+    "skills": [
+      "SQL",
+      "Node.js",
+      "Spring",
+      "Computer science",
+      "SDLC",
+      "Customer service",
+      "Analysis skills",
+      "Web accessibility",
+      "Java",
+      "WCAG",
+      "Systems engineering"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee stock purchase plan",
+      "Family leave",
+      "Health insurance",
+      "Life insurance",
+      "Military leave",
+      "Paid jury duty",
+      "Paid parental leave",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Warner Bros. Discovery",
+    "job title": "Director, Software Engineering (Live Event Management)",
+    "salary": "$234,500 - $435,500 a year",
+    "skills": [
+      "Leadership",
+      "Distributed systems",
+      "Google Cloud Platform"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Disability insurance",
+      "Health insurance",
+      "Retirement plan",
+      "Wellness program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

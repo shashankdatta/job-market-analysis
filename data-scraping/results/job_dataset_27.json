@@ -1,0 +1,410 @@
+[
+  {
+    "company name": "Quantifi",
+    "job title": "Software Developer",
+    "salary": "$105,000 - $120,000 a year",
+    "skills": [
+      "Java",
+      "Financial services",
+      "C++",
+      "C#",
+      "Product management"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Doctoral degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "AD&D insurance",
+      "Commuter assistance",
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": [
+      "Design, development, implementation, and testing of new features in Quantifi's comprehensive software products",
+      "Working with Sales and Product Management in the ongoing development of our products",
+      "Working with our clients in understanding their needs and providing support when needed"
+    ]
+  },
+  {
+    "company name": "Dots Technologies",
+    "job title": "SOFTWARE ENGINEERS",
+    "salary": "0",
+    "skills": [
+      "MATLAB",
+      "TestNG",
+      "Cucumber",
+      "Fortran",
+      "Python",
+      "Selenium",
+      "Maven"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Referral program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Atomic",
+    "job title": "Founding Fullstack Engineer",
+    "salary": "$160,000 - $185,000 a year",
+    "skills": [
+      "TypeScript",
+      "Software development",
+      "Google Cloud Platform",
+      "AWS",
+      "Scripting",
+      "Database management",
+      "Analysis skills",
+      "DynamoDB",
+      "Debugging",
+      "S3",
+      "Python",
+      "JavaScript"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Santander US",
+    "job title": "UI Developer",
+    "salary": "$132,250 - $161,000 a year",
+    "skills": [
+      "SQL",
+      "Git",
+      "C#",
+      "Computer science",
+      "Angular",
+      "Test automation",
+      "APIs",
+      "UI",
+      "Leadership",
+      "Java",
+      "Jest",
+      "T-SQL",
+      "UI development",
+      "JavaScript",
+      "Graphic design"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Click Therapeutics",
+    "job title": "Senior Software Engineer",
+    "salary": "$163,000 - $190,000 a year",
+    "skills": [
+      "PostgreSQL",
+      "Distributed systems",
+      "Node.js",
+      "Microservices",
+      "AWS",
+      "Cloud infrastructure",
+      "APIs",
+      "iOS",
+      "React Native",
+      "Scrum",
+      "Design patterns",
+      "React",
+      "Agile",
+      "Machine learning"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) 5% Match",
+      "401(k) matching",
+      "Dental insurance",
+      "Gym membership",
+      "Health insurance",
+      "Life insurance",
+      "Stock options",
+      "Unlimited paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Ramp Financial",
+    "job title": "Software Engineer | Android",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Kotlin",
+      "Flask",
+      "Mobile applications",
+      "Android development",
+      "Mobile design",
+      "Android",
+      "SDKs",
+      "Design patterns",
+      "Python",
+      "React",
+      "JavaScript",
+      "Purchasing"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Parental leave",
+      "Pet insurance",
+      "Vision insurance",
+      "Work from home stipend"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "SourceDP",
+    "job title": "Java Developer",
+    "salary": "$95,000 a year",
+    "skills": [
+      "Java",
+      "UNIX"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Savvy Wealth",
+    "job title": "Senior Software Engineer",
+    "salary": "$151,408 - $201,582 a year",
+    "skills": [
+      "Research",
+      "SQL",
+      "Ruby on Rails",
+      "GraphQL",
+      "Spring",
+      "Web development",
+      "Django",
+      "React"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Employee assistance program",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Parental leave",
+      "Unlimited paid time off",
+      "Vision insurance",
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Datadog",
+    "job title": "Staff Software Engineer - Driveline",
+    "salary": "$250,000 - $300,000 a year",
+    "skills": [
+      "Distributed systems",
+      "C++"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ProIT Inc.",
+    "job title": "Network Automation Engineer",
+    "salary": "$100,000 - $120,000 a year",
+    "skills": [
+      "Internet of things",
+      "Network engineering",
+      "Software troubleshooting",
+      "Computer networking",
+      "Operating systems"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "TPR Education, LLC",
+    "job title": "Senior Software Engineer",
+    "salary": "$100,000 - $140,000 a year",
+    "skills": [
+      "SQL",
+      "TypeScript",
+      "Microsoft SQL Server",
+      "C#",
+      "Full-stack development",
+      "Xamarin",
+      "SSRS",
+      ".NET",
+      "WPF",
+      ".NET Core",
+      "Bootstrap",
+      "jQuery",
+      "T-SQL",
+      "MVC",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Eniac Systems",
+    "job title": "Software Developer/Engineer (C#, .Net)",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "XML",
+      "AJAX",
+      "TypeScript",
+      "HTML5",
+      "TFS",
+      "Computer science",
+      "APIs",
+      "IIS",
+      "Entity Framework",
+      "Responsive web design",
+      "Root cause analysis",
+      "ASP.NET",
+      "Visual Studio",
+      "Microsoft SQL Server",
+      "C#",
+      "Microsoft Windows Server",
+      "Angular",
+      "OOP",
+      ".NET",
+      "REST",
+      "JSON",
+      "Knockout",
+      "jQuery",
+      "MVC",
+      "JavaScript",
+      "CSS",
+      "Windows"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Scaler",
+    "job title": "Senior Software Engineer (Fullstack)",
+    "salary": "$100,000 - $200,000 a year",
+    "skills": [
+      "SQL",
+      "Django",
+      "Data structures",
+      "Analytics",
+      "PHP",
+      "Unit testing",
+      "Laravel",
+      "Python",
+      "JavaScript",
+      "CSS",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Parental leave"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ProIT Inc.",
+    "job title": "AWS Cloud Engineer",
+    "salary": "$120,000 - $140,000 a year",
+    "skills": [
+      "AWS",
+      "Cloud infrastructure",
+      "Google Cloud Platform",
+      "Agile",
+      "CI/CD"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "OpenVault",
+    "job title": "Software Engineer (Backend)",
+    "salary": "0",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "Node.js",
+      "UNIX",
+      "Software development",
+      "Google Cloud Platform",
+      "AWS",
+      "Scripting",
+      "Linux",
+      "Java",
+      "Kafka",
+      "Big data",
+      "Python",
+      "Shell Scripting",
+      "Bash"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": [
+      "Develop new solutions to help OpenVault lead the industry and handle growing customer broadband data usage",
+      " Conduct industry research on new technology and solutions",
+      " Monitor daily operational processes and take corrective action as necessary",
+      " Assist with implementations",
+      " Troubleshoot and resolve customer reported issues"
+    ]
+  }
+]

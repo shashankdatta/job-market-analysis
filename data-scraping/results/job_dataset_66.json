@@ -1,0 +1,397 @@
+[
+  {
+    "company name": "Chubb",
+    "job title": "Software Engineering Skills Academy Leader",
+    "salary": "$189,000 a year",
+    "skills": [
+      "Leadership",
+      "Financial services",
+      "Labor & delivery",
+      "Relationship management",
+      "Customer service",
+      "Training & development"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Infoville",
+    "job title": "Senior Tivoli Developer",
+    "salary": "0",
+    "skills": [
+      "Maximo",
+      "Computer science"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Spectra Group",
+    "job title": "Senior Java Developer",
+    "salary": "$110,000 a year",
+    "skills": [
+      "Java",
+      "J2EE",
+      "Hibernate",
+      "Spring"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Arch Capital Group Ltd.",
+    "job title": "Director, Software Engineering - Agile Program Manager for Interoperability Layer Team (Hybrid)",
+    "salary": "0",
+    "skills": [
+      "Leadership",
+      "Java",
+      "Software development",
+      "SDLC",
+      "Test automation",
+      "Business analysis",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Store No. 8",
+    "job title": "Senior, Software Engineer (Simulation)",
+    "salary": "$108,000 - $216,000 a year",
+    "skills": [
+      "Web accessibility",
+      "Leadership",
+      "WCAG",
+      "Systems engineering",
+      "Mentoring"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Family leave",
+      "Health insurance",
+      "Life insurance",
+      "Military leave",
+      "Paid jury duty",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Cognizant Technology Solutions",
+    "job title": "AEM Backend Developer",
+    "salary": "0",
+    "skills": [
+      "Adobe Analytics",
+      "Adobe Experience Manager",
+      "Adobe Target",
+      "Cloud architecture",
+      "Digital marketing",
+      "Adobe Marketing",
+      "Social media management"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee stock purchase plan",
+      "Health insurance",
+      "Life insurance",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CEDENT",
+    "job title": "Sr Oracle R12 Application Developers",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "XML",
+      "Manufacturing",
+      "OBIEE",
+      "PL/SQL",
+      "Supply chain management",
+      "Oracle",
+      "Analysis skills"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Data Inc",
+    "job title": "C++ Developer",
+    "salary": "$70 - $75 an hour",
+    "skills": [
+      "C++",
+      "AJAX",
+      "Git",
+      "Software development",
+      "Web design",
+      "JSP",
+      "Website maintenance",
+      "Maven"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Intone Networks",
+    "job title": "Software Engineer with heavy development and some system administration",
+    "salary": "0",
+    "skills": [
+      "Git",
+      "Node.js",
+      "J2EE",
+      "Software development",
+      "Microservices",
+      "FileNet",
+      "AWS",
+      "HTML5",
+      "Microsoft SQL Server",
+      "Spring",
+      "Spring Boot",
+      "Full-stack development",
+      "APIs",
+      "SOAP",
+      "Java",
+      ".NET",
+      "REST",
+      "Docker",
+      "MVC",
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "IPS especialistas en RH",
+    "job title": "Desarrollador Apache Kafka - Bilingüe",
+    "salary": "$100,000 a year",
+    "skills": [
+      "SQL",
+      "Java",
+      "Relational databases",
+      "C++",
+      "C#",
+      "Kafka",
+      "PHP",
+      "C",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Cognizant Technology Solutions",
+    "job title": "AEM Front End Developer",
+    "salary": "0",
+    "skills": [
+      "Leadership",
+      "Design patterns",
+      "UI development",
+      "React",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee stock purchase plan",
+      "Health insurance",
+      "Life insurance",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Intone Networks",
+    "job title": "Drupal/Open Source Developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Memcached",
+      "GitHub",
+      "XML",
+      "Git",
+      "Continuous integration",
+      "AJAX",
+      "Backbone.js",
+      "AWS",
+      "HTML5",
+      "MySQL",
+      "SDLC",
+      "Perl",
+      "Visual Basic",
+      "Ruby on Rails",
+      "Responsive web design",
+      "Back-end development",
+      "LAMP stack",
+      "Configuration management",
+      "Operating systems",
+      "Front-end development",
+      "Python",
+      "Drupal",
+      "Redis",
+      "XHTML",
+      "PostgreSQL",
+      "Node.js",
+      "UNIX",
+      "Microsoft SQL Server",
+      "Linux",
+      "WordPress",
+      "Software deployment",
+      "Angular",
+      "Oracle",
+      "OOP",
+      "Leadership",
+      "REST",
+      "Jira",
+      "PHP",
+      "jQuery",
+      "IT",
+      "JavaScript",
+      "CSS",
+      "Windows"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "United IT",
+    "job title": "Software Developer / Java Developer (Multiple openings)",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "XML",
+      "AJAX",
+      "J2EE",
+      "Hadoop",
+      "HTML5",
+      "C++",
+      "SDLC",
+      "Java",
+      "Hibernate",
+      "ETL",
+      "PL/SQL",
+      "XHTML",
+      "Relational databases",
+      "DHTML",
+      "Spring",
+      "Spring Boot",
+      "JSP",
+      "Analysis skills",
+      "SOAP",
+      "REST",
+      "JSON",
+      "JDBC",
+      "jQuery",
+      "Spring MVC",
+      "JavaScript",
+      "CSS",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Man Infotech",
+    "job title": "Software Developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "XML",
+      "Java",
+      "JSON",
+      "HTML5",
+      "HP ALM",
+      "Pegasystems",
+      "jQuery",
+      "Oracle",
+      "CSS"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Interactive Brokers",
+    "job title": "Software Engineer, Mid level",
+    "salary": "0",
+    "skills": [
+      "Java",
+      "J2EE",
+      "C++",
+      "Oracle"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

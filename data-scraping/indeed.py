@@ -1,30 +1,25 @@
 # http request to indeed.com
-import re, json, urllib
-from loguru import logger as log
+import re, json, urllib, os
 import requests
-from pprint import pprint
+import logging
 from pathlib import Path
 
 output = Path(__file__).parent / "results"
 output.mkdir(exist_ok=True)
+URL = "https://www.indeed.com/jobs?q=software+engineer&l=New+York%2C+New+York"
 
-# Structure payload.
-payload = {
-    'source': 'universal_ecommerce',
-    'url': 'https://www.indeed.com/jobs?q=software+engineer&l=New+York%2C+New+York',
-}
+# create a logger
+logger = logging.getLogger('my_logger')
+logger.setLevel(logging.DEBUG)  # set the level of logging
 
-# Get response.
-response = requests.request(
-    'POST',
-    'https://realtime.oxylabs.io/v1/queries',
-    auth=('user', 'pass1'),
-    json=payload,
-)
+# create a file handler
+file_handler = logging.FileHandler('my_logs.log')
+file_handler.setLevel(logging.INFO)  # set the level of logging for the handler
+formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+file_handler.setFormatter(formatter)
 
-# Instead of response with job status and results url, this will return the
-# JSON response with the result.
-pprint(response.json())
+# add the handler to the logger
+logger.addHandler(file_handler)
 
 # utility function
 def _add_url_parameter(url, **kwargs):
@@ -37,12 +32,12 @@ def _add_url_parameter(url, **kwargs):
 
 def extract_job_keys(page_response):
     """Extract job keys from Indeed.com search page HTML"""
-    data = re.findall(r'window.mosaic.providerData\["mosaic-provider-jobcards"\]=(\{.+?\});', page_response.content)
+    data = re.findall(r'window.mosaic.providerData\["mosaic-provider-jobcards"\]=(\{.+?\});', page_response)
     if not data:
         print("failed to scrape search page")
         return
     data = json.loads(data[0])
-    results = data["metaData"]["mosaicProviderJobCardsModel"]["results"],
+    results = data["metaData"]["mosaicProviderJobCardsModel"]["results"]
     
     job_keys = []
     for job in results:
@@ -52,12 +47,12 @@ def extract_job_keys(page_response):
 def parse_job_page(result):
     """Find hidden web data of job details in Indeed.com job page HTML"""
     # extract company name, job title
-    data2 = re.findall(r'window.mosaic.providerData\["mosaic-provider-reportcontent"\]=(\{.+?\});', result.content)
+    data2 = re.findall(r'window.mosaic.providerData\["mosaic-provider-reportcontent"\]=(\{.+?\});', result)
     if data2:
         data2 = json.loads(data2[0])
 
         # extract education and skills
-        data1 = re.findall(r'window.mosaic.providerData\["js-match-insights-provider"\]=(\{.+?\});', result.content)
+        data1 = re.findall(r'window.mosaic.providerData\["js-match-insights-provider"\]=(\{.+?\});', result)
         skills = []
         education = []
         if data1:
@@ -70,7 +65,7 @@ def parse_job_page(result):
                     education.append(item["displayText"])
 
         # extract salary, benefits, experience, responsibilities
-        data3 = re.findall(r'window._initialData=(\{.+?\});', result.content)
+        data3 = re.findall(r'window._initialData=(\{.+?\});', result)
         benefits = []
         experience = []
         responsibilities = []
@@ -112,81 +107,48 @@ def parse_job_page(result):
         }
 
 
-# get job keys from search results
-async def get_job_keys(url: str, start_page: int = 1, end_page: int = 5) -> list[str]:
-    """Scrape Indeed.com search for job listing previews"""
-    if start_page == 1:
-        result_first_page = await SCRAPFLY.async_scrape(ScrapeConfig(url, **BASE_CONFIG))
-        data_first_page = parse_search_page(result_first_page)
-        print("scrapped page 1")
-
-        if data_first_page is None:
-            return
-        # get job keys from first page
-        results = data_first_page["results"]
-        jobs = await indeed.scrape_jobs(job_keys)
-        output.joinpath("job_dataset.json").write_text(json.dumps(jobs, indent=2, ensure_ascii=False))
-        other_pages = [
-            ScrapeConfig(_add_url_parameter(url, start=offset), **BASE_CONFIG)
-            for offset in range(10, (end_page-1)*10+1, 10)
-        ]
-
-        pages = 2
-        async for result in SCRAPFLY.concurrent_scrape(other_pages):
-            if not isinstance(result, ScrapflyScrapeError):
-                data = parse_search_page(result)
-                print("scrapped page ", pages)
-                results.extend(data["results"])
-            else:
-                log.error(f"failed to scrape {result.api_response.config['url']}, got: {result.message}")
-            pages += 1
-    else:
-        results = []
-        other_pages = [
-            ScrapeConfig(_add_url_parameter(url, start=offset), **BASE_CONFIG)
-            for offset in range((start_page-1)*10, (end_page-1)*10+1, 10)
-        ]
-
-        pages = 2
-        async for result in SCRAPFLY.concurrent_scrape(other_pages):
-            if not isinstance(result, ScrapflyScrapeError):
-                data = parse_search_page(result)
-                print("scrapped page ", pages)
-                results.extend(data["results"])
-            else:
-                log.error(f"failed to scrape {result.api_response.config['url']}, got: {result.message}")
-            pages += 1
-
-    # return job keys list
-    job_keys = []
-    for job in results:
-        job_keys.append(job["jobkey"])
-    return job_keys
-
-
-async def scrape_jobs(job_keys: list[str]):
+def scrape_jobs(job_keys: list[str]):
     """scrape job details from job page for given job keys"""
     urls = [f"https://www.indeed.com/m/basecamp/viewjob?viewtype=embedded&jk={job_key}" for job_key in job_keys]
-    to_scrape = [ScrapeConfig(url=url, **BASE_CONFIG) for url in urls]
     scraped = []
-    async for result in SCRAPFLY.concurrent_scrape(to_scrape):
-        scraped.append(parse_job_page(result))
+    for url in urls:
+        scraped.append(parse_job_page(get_html_response(url)))
     return scraped
 
-# scrape all job details on a search page
-async def save_jobs(page):
-    if page > 1:
-        payload["url"] = f"https://www.indeed.com/jobs?q=software+engineer&l=New+York%2C+New+York&start={(page-1)*10}"
 
+def get_html_response(url):
+    # Structure payload.
+    payload = {
+        'source': 'universal',
+        'url': url,
+    }
     response = requests.request(
         'POST',
         'https://realtime.oxylabs.io/v1/queries',
-        auth=('user', 'pass1'),
+        auth=(os.getenv('OXY_USERNAME'), 
+              os.getenv('OXY_PASSWORD')
+        ), 
         json=payload,
     )
-    job_keys = extract_job_keys(response.json()["results"])
+    if response.status_code != 200:
+        print(f"Failed to get response from {url}")
+        return
+    return response.json()["results"][0]["content"]
+
+# scrape all job details on a search page
+def save_jobs(page_num):
+    print(f"scraping page {page_num}")
+    logger.info(f"scraping page {page_num}")
+    if page_num > 1:
+        url = _add_url_parameter(URL, start=(page_num-1)*10)
+    else:
+        url = URL
+
+    job_keys = extract_job_keys(get_html_response(url))
     if not job_keys:
         print("failed to scrape job keys")
         return
-    jobs = await scrape_jobs(job_keys)
-    output.joinpath(f"job_dataset_{page}.json").write_text(json.dumps(jobs, indent=2, ensure_ascii=False))
+    jobs = scrape_jobs(job_keys)
+    output.joinpath(f"job_dataset_{page_num}.json").write_text(json.dumps(jobs, indent=2, ensure_ascii=False))
+    print(f"scraped {len(jobs)} jobs saved")
+    logger.info(f"scraped {len(jobs)} jobs saved")

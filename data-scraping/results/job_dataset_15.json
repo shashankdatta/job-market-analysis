@@ -1,0 +1,438 @@
+[
+  {
+    "company name": "Voya Financial",
+    "job title": "Senior Software Developer",
+    "salary": "$169,229 a year",
+    "skills": [
+      "SQL",
+      "Financial services",
+      "Software development",
+      "Test-driven development",
+      "Microsoft SQL Server",
+      "C#",
+      "MySQL",
+      "Angular",
+      "APIs",
+      "MongoDB",
+      ".NET",
+      "Service-oriented architecture",
+      "JDBC",
+      "Docker",
+      "MVC"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Cash balance pension plan",
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Datadog",
+    "job title": "Staff Software Engineer - Driveline",
+    "salary": "$250,000 - $300,000 a year",
+    "skills": [
+      "Distributed systems",
+      "C++"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "OpenVault",
+    "job title": "Software Engineer (Backend)",
+    "salary": "0",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "Node.js",
+      "UNIX",
+      "Software development",
+      "Google Cloud Platform",
+      "AWS",
+      "Scripting",
+      "Linux",
+      "Java",
+      "Kafka",
+      "Big data",
+      "Python",
+      "Shell Scripting",
+      "Bash"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": [
+      "Develop new solutions to help OpenVault lead the industry and handle growing customer broadband data usage",
+      " Conduct industry research on new technology and solutions",
+      " Monitor daily operational processes and take corrective action as necessary",
+      " Assist with implementations",
+      " Troubleshoot and resolve customer reported issues"
+    ]
+  },
+  {
+    "company name": "JND",
+    "job title": "Software QA Engineer (12355-4)",
+    "salary": "0",
+    "skills": [
+      "5G",
+      "Master data management",
+      "Computer science",
+      "TCP",
+      "Mobile applications",
+      "TCP/IP",
+      "Java",
+      "Product development",
+      "Jira",
+      "Python",
+      "4G/LTE",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Green card sponsorship",
+      "Health insurance",
+      "Opportunities for advancement",
+      "Visa sponsorship",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Snapchat",
+    "job title": "Software Engineer, iOS, Sharing Team, 11+ Years of Experience",
+    "salary": "$189,000 - $283,000 a year",
+    "skills": [
+      "Multithreading",
+      "Statistics",
+      "Kubernetes",
+      "AWS",
+      "Computer science",
+      "iOS development",
+      "Mobile applications",
+      "Go",
+      "Data structures",
+      "Leadership",
+      "iOS",
+      "Objective-C",
+      "Design patterns",
+      "Swift"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "RSU"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NBCUniversal",
+    "job title": "Manager, Software Engineering",
+    "salary": "$135,000 - $190,000 a year",
+    "skills": [
+      "Leadership",
+      "Software development",
+      "Scrum",
+      "Project leadership",
+      "Mentoring",
+      "DevOps",
+      "Team development",
+      "Cybersecurity"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Affiliated Monitoring",
+    "job title": "Senior Software Engineer",
+    "salary": "$140,000 - $160,000 a year",
+    "skills": [
+      "SQL",
+      "Flask",
+      "AWS",
+      "HTML5",
+      "MySQL",
+      "Computer science",
+      "APIs",
+      "RabbitMQ",
+      "Service-oriented architecture",
+      "Python",
+      "Relational databases",
+      "Kubernetes",
+      "Microsoft SQL Server",
+      "Full-stack development",
+      "Angular",
+      "SOAP",
+      "CodeIgniter",
+      "PHP",
+      "Docker",
+      "MVC",
+      "React",
+      "JavaScript",
+      "CSS",
+      "Web services",
+      "Vue.js"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Gym membership",
+      "Life insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "OpenYield Inc",
+    "job title": "Senior Software Engineer",
+    "salary": "$125,000 - $200,000 a year",
+    "skills": [
+      "Relational databases",
+      "TypeScript",
+      "Software development",
+      "Rust",
+      "HTML5",
+      "C++",
+      "Databases",
+      "Web development",
+      "Design patterns",
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Northwestern Mutual",
+    "job title": "Senior Software Engineer",
+    "salary": "$133,872 - $213,850 a year",
+    "skills": [
+      "Software development",
+      "Kubernetes",
+      "AWS",
+      "HTML5",
+      "Computer science",
+      "APIs",
+      "CI/CD",
+      "Software troubleshooting",
+      "PHP",
+      "Docker",
+      "React",
+      "JavaScript",
+      "Drupal",
+      "CSS",
+      "Vue.js"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Flexible schedule"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Appfigures, Inc.",
+    "job title": "Sr. Javascript/React Developer- Full Time- New York, NY - (Hybrid)",
+    "salary": "$130,000 - $180,000 a year",
+    "skills": [
+      "TypeScript",
+      "Front-end development",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Debugging"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Flexible schedule",
+      "Gym membership",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Canfield Scientific",
+    "job title": "Software Engineering/Development: Clinical Software Web Developer",
+    "salary": "0",
+    "skills": [
+      "AJAX",
+      "Relational databases",
+      "Software development",
+      "Web design",
+      "HTML5",
+      "Microsoft SQL Server",
+      "MySQL",
+      "Computer science",
+      "APIs",
+      "Databases",
+      "SOAP",
+      "REST",
+      "JSON",
+      "PHP",
+      "jQuery",
+      "JavaScript",
+      "CSS",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Fubo",
+    "job title": "Senior Software Engineer, Backend - Ad Engineering",
+    "salary": "$170,000 a year",
+    "skills": [
+      "Distributed systems",
+      "Java",
+      "Relational databases",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "Microservices",
+      "AWS",
+      "Elasticsearch",
+      "C#",
+      "Docker",
+      "Splunk",
+      "Go"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Commuter assistance",
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Unlimited paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Fusion Plus Solutions Inc.",
+    "job title": "Software Engineers",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Software troubleshooting",
+      "UNIX",
+      "HTML5",
+      "PL/SQL",
+      "Linux",
+      "Computer science",
+      "Oracle"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Dots Technologies",
+    "job title": "SOFTWARE DEVELOPERS",
+    "salary": "0",
+    "skills": [
+      "Software troubleshooting",
+      "UNIX",
+      "Ubuntu",
+      "HTML5",
+      "Fedora",
+      "Debugging",
+      "Linux",
+      "Angular",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Referral program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CFSB",
+    "job title": "VP, Software Engineer",
+    "salary": "$170,000 - $200,000 a year",
+    "skills": [
+      "SQL",
+      "PostgreSQL",
+      "Relational databases",
+      "Microservices",
+      "Microsoft SQL Server",
+      "C#",
+      "Computer science",
+      "SDLC",
+      "APIs",
+      ".NET",
+      "Java",
+      "RabbitMQ",
+      "Application development",
+      "Redis",
+      "Banking"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

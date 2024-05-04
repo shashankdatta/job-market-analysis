@@ -1,0 +1,464 @@
+[
+  {
+    "company name": "Morgan Stanley",
+    "job title": "VP - Java Developer",
+    "salary": "0",
+    "skills": [
+      "Java",
+      "Financial services",
+      "Python",
+      "OOP"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NYC Careers",
+    "job title": "FULL STACK WEB DEVELOPER",
+    "salary": "$75,000 - $115,000 a year",
+    "skills": [
+      "ASP.NET",
+      "Software development",
+      "Power BI",
+      "Azure",
+      "Microsoft SQL Server",
+      "C#",
+      "Full-stack development",
+      "SSRS",
+      "Angular",
+      "Oracle",
+      "DevOps",
+      "SSIS",
+      "Software troubleshooting",
+      ".NET",
+      ".NET Core",
+      "Bootstrap",
+      "Web development",
+      "Data visualization",
+      "MVC",
+      "Agile"
+    ],
+    "education": [
+      "Associate's degree",
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Food provided",
+      "Loan forgiveness"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "adMarketplace",
+    "job title": "Senior Software Engineer - E-Commerce",
+    "salary": "$170,000 - $220,000 a year",
+    "skills": [
+      "Distributed systems",
+      "Software development",
+      "Microservices",
+      "AWS",
+      "Elasticsearch",
+      "SDLC",
+      "DevOps",
+      "APIs",
+      "Solr",
+      "Java",
+      "Martech",
+      "Python",
+      "Redis",
+      "Relational databases",
+      "Spring",
+      "Spring Boot",
+      "CI/CD",
+      "E-commerce",
+      "System design",
+      "Kafka",
+      "Docker",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Commuter assistance",
+      "Continuing education credits",
+      "Happy hour",
+      "Lunch & learns",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Walmart",
+    "job title": "(USA) Senior, Software Engineer",
+    "salary": "$90,000 - $180,000 a year",
+    "skills": [
+      "SQL",
+      "Node.js",
+      "Spring",
+      "Computer science",
+      "SDLC",
+      "Analysis skills",
+      "Web accessibility",
+      "Java",
+      "WCAG",
+      "Systems engineering",
+      "React"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee stock purchase plan",
+      "Family leave",
+      "Health insurance",
+      "Life insurance",
+      "Military leave",
+      "Paid jury duty",
+      "Paid parental leave",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Character.AI",
+    "job title": "Software Engineer, Machine Learning Infrastructure",
+    "salary": "$150,000 - $350,000 a year",
+    "skills": [
+      "Computer networking",
+      "Kubernetes",
+      "Machine learning"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "January Technologies",
+    "job title": "Senior Software Engineer - Borrower Experience",
+    "salary": "$160,000 - $210,000 a year",
+    "skills": [
+      "Java",
+      "Spring",
+      "Full-stack development",
+      "Systems engineering",
+      "Python",
+      "Go",
+      "Analysis skills"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Commuter assistance",
+      "Dental insurance",
+      "Flexible schedule",
+      "Gym membership",
+      "Health insurance",
+      "Unlimited paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Ishi Systems Inc",
+    "job title": "Sr Software Engineer (Hadoop & NoSQL)",
+    "salary": "0",
+    "skills": [
+      "Performance tuning",
+      "NoSQL",
+      "SQL",
+      "Continuous integration",
+      "Apache ActiveMQ",
+      "Hadoop",
+      "Clojure",
+      "JSF",
+      "UI",
+      "Go",
+      "Java",
+      "RabbitMQ",
+      "Hibernate",
+      "Scala",
+      "Application development",
+      "Design patterns",
+      "Python",
+      "HBase",
+      "Machine learning",
+      "Relational databases",
+      "UNIX",
+      "Test-driven development",
+      "Scalability",
+      "Scripting",
+      "Spring",
+      "Play Framework",
+      "Linux",
+      "Angular",
+      "Analysis skills",
+      "MongoDB",
+      "Databases",
+      "R",
+      "REST",
+      "Scrum",
+      "Kafka",
+      "jQuery",
+      "Enterprise software",
+      "Shell Scripting",
+      "JavaScript",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Disability insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Altimetrik Corp",
+    "job title": "Staff Engineer - Product & Platform Engineering",
+    "salary": "0",
+    "skills": [
+      "XML",
+      "Java",
+      "Multithreading",
+      "REST",
+      "JSON",
+      "Kafka",
+      "Computer science",
+      "Python"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Executive Placement Network",
+    "job title": "Quantitative Developer",
+    "salary": "$170,000 - $210,000 a year",
+    "skills": [
+      "Relational databases",
+      "Software development",
+      "C++",
+      "Data science",
+      "Software deployment",
+      "Linux",
+      "Python",
+      "Model deployment",
+      "Data structures",
+      "Analysis skills",
+      "Databases",
+      "Machine learning"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": [
+      "Bonus opportunities"
+    ]
+  },
+  {
+    "company name": "Intercontinental Exchange Holdings, Inc.",
+    "job title": "Lead Cloud Engineer",
+    "salary": "$145,000 - $175,000 a year",
+    "skills": [
+      "Git",
+      "Continuous integration",
+      "Google Cloud Platform",
+      "AWS",
+      "Scripting",
+      "Chef",
+      "Cloud infrastructure",
+      "Software deployment",
+      "Splunk",
+      "Linux",
+      "DevOps",
+      "ETL",
+      "Docker",
+      "Puppet",
+      "Python",
+      "Shell Scripting",
+      "Terraform",
+      "Bash",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon Advertising LLC",
+    "job title": "Software Dev. Engineer II, Audio + Podcast Ads",
+    "salary": "From $115,000 a year",
+    "skills": [
+      "Computer science",
+      "SDLC",
+      "Design patterns"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Ramp Financial",
+    "job title": "Senior Software Engineer | Frontend",
+    "salary": "0",
+    "skills": [
+      "TypeScript",
+      "React",
+      "JavaScript",
+      "Purchasing"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Parental leave",
+      "Pet insurance",
+      "Vision insurance",
+      "Work from home stipend"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NYC Careers",
+    "job title": "Systems Developer",
+    "salary": "$75,000 - $160,000 a year",
+    "skills": [
+      "SQL",
+      "XML",
+      "AJAX",
+      "Git",
+      "Continuous integration",
+      "Multithreading",
+      "J2EE",
+      "HTML5",
+      "TFS",
+      "SDLC",
+      "DevOps",
+      "Mobile applications",
+      "Xpath",
+      "Java",
+      "Hibernate",
+      "Tomcat",
+      "Weblogic",
+      "Unit testing",
+      "PL/SQL",
+      "Design patterns",
+      "Kubernetes",
+      "Azure",
+      "Microsoft SQL Server",
+      "Spring",
+      "JUnit",
+      "Software deployment",
+      "Angular",
+      "Oracle",
+      "Analysis skills",
+      "Solarwinds",
+      "Eclipse",
+      "Data visualization",
+      "JavaScript",
+      "CSS",
+      "Agile",
+      "Struts",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Associate's degree"
+    ],
+    "benefits": [
+      "Loan forgiveness"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Casebook PBC",
+    "job title": "DevOps & PostgreSQL Engineer - Level III",
+    "salary": "$75,000 - $175,000 a year",
+    "skills": [
+      "PostgreSQL",
+      "GitHub",
+      "Git",
+      "Cloud architecture",
+      "AWS",
+      "Scripting",
+      "Elasticsearch",
+      "Ruby",
+      "Linux",
+      "SDLC",
+      "Ansible",
+      "DevOps",
+      "Software troubleshooting",
+      "Jenkins",
+      "Terraform",
+      "Redis",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Openmind Technologies",
+    "job title": "Site Reliability Engineer",
+    "salary": "$60 - $75 an hour",
+    "skills": [
+      "SRE",
+      "C++",
+      "Linux",
+      "Python",
+      "DevOps",
+      "Java",
+      "Git",
+      "Scala",
+      "Puppet",
+      "Unit testing",
+      "OOP"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

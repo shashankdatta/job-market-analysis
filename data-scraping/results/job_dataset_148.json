@@ -1,0 +1,376 @@
+[
+  {
+    "company name": "Cybertech",
+    "job title": "Angular UI Developer",
+    "salary": "$100,000 - $110,000 a year",
+    "skills": [
+      "HTML5",
+      "Angular",
+      "Front-end development",
+      "JavaScript",
+      "UI",
+      "AJAX",
+      "REST",
+      "CSS"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "iOasiZ",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Horizon Consulting Inc.",
+    "job title": "Software Developer",
+    "salary": "$96,866 a year",
+    "skills": [
+      "Computer science",
+      "Analysis skills"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Doctoral degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Hana Cloud Solutions LLC",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "Microsoft SQL Server",
+      "Spring",
+      "Full-stack development",
+      "Angular",
+      "Oracle",
+      "Ext JS",
+      "Java",
+      "IT",
+      "React",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Genisis Technology Solutions",
+    "job title": "Core Java Developer",
+    "salary": "$40.26 - $45.53 an hour",
+    "skills": [
+      "Spring",
+      "Ansible",
+      "Java",
+      "Hibernate",
+      "Shell Scripting",
+      "Database management",
+      "MySQL",
+      "Computer science",
+      "Software troubleshooting",
+      ".NET",
+      "Computer networking",
+      "Web development",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Audible",
+    "job title": "Software Development Engineer, Personalization",
+    "salary": "0",
+    "skills": [
+      "NoSQL",
+      "Distributed systems",
+      "Software development",
+      "AWS",
+      "C++",
+      "C#",
+      "Spark",
+      "Computer science",
+      "Continuous improvement",
+      "Data structures",
+      "Analysis skills",
+      "CI/CD",
+      "OOP",
+      "Leadership",
+      "Java",
+      "Kafka",
+      "Big data",
+      "Unit testing",
+      "Design patterns"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Abridge",
+    "job title": "Staff Software Engineer, Full Stack",
+    "salary": "$200,000 - $225,000 a year",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "Google Cloud Platform",
+      "Full-stack development",
+      "AI",
+      "React",
+      "Machine learning"
+    ],
+    "education": [
+      "Doctoral degree"
+    ],
+    "benefits": [
+      "Flexible schedule",
+      "Paid parental leave",
+      "Parental leave",
+      "Unlimited paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Technovista",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "J2EE",
+      "Apache",
+      "Spring",
+      "Computer science",
+      "Maven",
+      "Java",
+      "REST",
+      "Service-oriented architecture",
+      "Hibernate",
+      "SDKs",
+      "Eclipse"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Y-AXIS Inc",
+    "job title": "Senior Genesys Software Engineer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Java",
+      "HTML5",
+      "IVR",
+      "Oracle",
+      "JavaScript"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Best High Technologies",
+    "job title": "software developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Node.js",
+      "TypeScript",
+      "Software testing",
+      "HTML5",
+      "Spring",
+      "JUnit",
+      "Linux",
+      "MySQL",
+      "Angular",
+      "Oracle",
+      "Java",
+      "REST",
+      "Hibernate",
+      "Unit testing",
+      "jQuery",
+      "Spring MVC",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Kensington Information Group",
+    "job title": "SOFTWARE DEVELOPERS",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "XML",
+      "AJAX",
+      "J2EE",
+      "Software testing",
+      "JSP",
+      "Maven",
+      "Java",
+      "SVN",
+      "Unit testing",
+      "PL/SQL",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Intellibus",
+    "job title": "Software Engineer",
+    "salary": "$65 - $75 an hour",
+    "skills": [
+      "SQL",
+      "UNIX",
+      "Kubernetes",
+      "AWS",
+      "Spring",
+      "Spring Boot",
+      "Linux",
+      "APIs",
+      "OOP",
+      "Java",
+      "REST",
+      "Hibernate",
+      "Kafka",
+      "Terraform"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Alpha Clinical Systems",
+    "job title": "Sr. Software Engineer – Cloud Technologies",
+    "salary": "0",
+    "skills": [
+      "J2EE",
+      "AWS",
+      "Azure",
+      "Microsoft SQL Server",
+      "Ionic",
+      "Spring",
+      "C#",
+      "Spark",
+      "Angular",
+      "DevOps",
+      "SOAP",
+      "Java",
+      ".NET",
+      "REST",
+      "JSON",
+      "jQuery",
+      "Design patterns",
+      "Python",
+      "MVC",
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Saytek",
+    "job title": "SOFTWARE DEVELOPERS",
+    "salary": "0",
+    "skills": [
+      "XML",
+      "Microsoft SQL Server",
+      "Oracle",
+      "DB2",
+      "Java",
+      "Cognos",
+      "SDKs",
+      "PL/SQL",
+      "Crystal Reports"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Enthsquare",
+    "job title": "Software Developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Distributed systems",
+      "Git",
+      "UNIX",
+      "Project management",
+      "Ruby",
+      "Linux",
+      "Perl",
+      "Django",
+      "Go",
+      "Java",
+      "RabbitMQ",
+      "Docker",
+      "Python",
+      "Shell Scripting",
+      "Bash"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

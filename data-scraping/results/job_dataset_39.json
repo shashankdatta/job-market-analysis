@@ -1,0 +1,409 @@
+[
+  {
+    "company name": "Emigrant Bank",
+    "job title": "Architect, Open Systems/Full Stack Java Developer",
+    "salary": "$165,000 - $185,000 a year",
+    "skills": [
+      "Git",
+      "Kotlin",
+      "Ant",
+      "Software development",
+      "Microsoft SQL Server",
+      "Spring",
+      "Relationship management",
+      "Full-stack development",
+      "Maven",
+      "SOAP",
+      "Java",
+      "REST",
+      "Computer networking",
+      "Jenkins",
+      "React",
+      "Struts"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "IEEE Corporate",
+    "job title": "Temporary Data and Machine Learning Engineer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "GitHub",
+      "AWS",
+      "Data warehouse",
+      "Ansible",
+      "Data structures",
+      "Product development",
+      "ETL",
+      "Debugging",
+      "IT",
+      "Training & development",
+      "Python",
+      "Shell Scripting",
+      "Terraform",
+      "Machine learning"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Rutgers University",
+    "job title": "Application Developer II",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "GitHub",
+      "Software development",
+      "LMS",
+      "SDLC",
+      "APIs",
+      "GitLab",
+      "Blackboard",
+      "Java",
+      "Moodle",
+      "Tomcat",
+      "ETL",
+      "Application development",
+      "PL/SQL",
+      "Bamboo",
+      "Design patterns",
+      "Information security",
+      "UNIX",
+      "Apache",
+      "JSP",
+      "Software deployment",
+      "Oracle",
+      "Software troubleshooting",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Chubb",
+    "job title": "Lead Software Engineer (Java)",
+    "salary": "$122,500 - $198,000 a year",
+    "skills": [
+      "Git",
+      "Relationship management",
+      "TFS",
+      "Computer science",
+      "DevOps",
+      "Java",
+      "Data modeling",
+      "Python",
+      "Azure",
+      "Spring",
+      "Spring Boot",
+      "JUnit",
+      "Design thinking",
+      "Angular",
+      "Analysis skills",
+      "MongoDB",
+      "SOAP",
+      "REST",
+      "Data analysis skills",
+      "Kafka",
+      "Cloud computing",
+      "Docker",
+      "MVC",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NBCUniversal",
+    "job title": "Senior Staff Software Engineer, SAP (ABAP)",
+    "salary": "$145,000 - $200,000 a year",
+    "skills": [
+      "SQL",
+      "SAP",
+      "APIs",
+      "SAP S/4HANA",
+      "SAP HANA",
+      "SAP ERP",
+      "Debugging",
+      "ABAP",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "VATech Inc",
+    "job title": "ReactJS Lead",
+    "salary": "$74 an hour",
+    "skills": [
+      "TypeScript",
+      "Application development",
+      "React",
+      "UI",
+      "Unit testing",
+      "Jest",
+      "Angular",
+      "Front-end development",
+      "CSS"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Finario",
+    "job title": "Software Engineering Tech Lead",
+    "salary": "0",
+    "skills": [
+      "SaaS",
+      "Software development",
+      "Computer science"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Combined Insurance",
+    "job title": "Lead Software Engineer (Java)",
+    "salary": "0",
+    "skills": [
+      "Java",
+      "Relationship management",
+      "Design thinking"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "The Vitamin Shoppe",
+    "job title": "Engineer, Sr Software",
+    "salary": "$106,000 - $135,000 a year",
+    "skills": [
+      "AJAX",
+      "Continuous integration",
+      "TypeScript",
+      "Node.js",
+      "Test-driven development",
+      "AWS",
+      "HTML5",
+      "Angular",
+      "APIs",
+      "Analysis skills",
+      "REST",
+      "JSON",
+      "E-commerce",
+      "SEO",
+      "Google Tag Manager",
+      "JavaScript",
+      "CSS",
+      "Agile",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Lab49",
+    "job title": "Android Developer",
+    "salary": "$140,000 - $170,000 a year",
+    "skills": [
+      "Kotlin",
+      "Test-driven development",
+      "Software development",
+      "Computer science",
+      "APIs",
+      "Android development",
+      "Android",
+      "REST",
+      "JSON",
+      "SDKs",
+      "Application development",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "PGMTEk",
+    "job title": "TSS IT Developer",
+    "salary": "$70,835 - $100,138 a year",
+    "skills": [
+      "Computer science",
+      "Visual Basic",
+      ".NET",
+      "Computer networking",
+      "C++",
+      "C#"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Modus Closing",
+    "job title": "Senior Software Engineer",
+    "salary": "$130,700 - $196,000 a year",
+    "skills": [
+      "Continuous integration",
+      "TypeScript",
+      "Software development",
+      "Test-driven development",
+      "HTML5",
+      "Computer science",
+      "APIs",
+      "Maven",
+      "CI/CD",
+      "Leadership",
+      "REST",
+      "Scrum",
+      "Design patterns",
+      "Mentoring",
+      "React",
+      "JavaScript",
+      "CSS",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee assistance program",
+      "Flexible spending account",
+      "Health insurance",
+      "Parental leave",
+      "Pet insurance",
+      "RSU",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Northwell Health",
+    "job title": "Senior Manager, Software Development, Engineering and Services - Salesforce",
+    "salary": "$152,000 - $266,000 a year",
+    "skills": [
+      "Leadership",
+      "Marketing",
+      "Cloud architecture",
+      "Salesforce"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Stash",
+    "job title": "Senior Site Reliability Engineer IV",
+    "salary": "$135,300 - $202,950 a year",
+    "skills": [
+      "Back-end development",
+      "Kubernetes",
+      "Microservices",
+      "SRE",
+      "Cloud computing",
+      "DevOps",
+      "Maven",
+      "Terraform"
+    ],
+    "education": [],
+    "benefits": [
+      "Health insurance",
+      "Internet reimbursement",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Retirement plan"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Infosys",
+    "job title": "Lead Java Spring Boot Developer",
+    "salary": "0",
+    "skills": [
+      "J2EE",
+      "Spring",
+      "Spring Boot",
+      "JBoss",
+      "JSP",
+      "Continuous improvement",
+      "SDLC",
+      "Analysis skills",
+      "WebSphere",
+      "Java",
+      "REST",
+      "Hibernate",
+      "IT",
+      "JavaScript",
+      "Web services",
+      "Banking"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

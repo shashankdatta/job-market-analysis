@@ -1,0 +1,437 @@
+[
+  {
+    "company name": "Take-Two Interactive Software, Inc.",
+    "job title": "Oracle Cloud EPM Developer",
+    "salary": "$100,000 - $185,000 a year",
+    "skills": [
+      "SQL",
+      "Hyperion",
+      "Cloud architecture",
+      "Scripting",
+      "Metadata",
+      "Application development",
+      "Snowflake",
+      "Oracle",
+      "Python",
+      "Shell Scripting",
+      "APIs",
+      "Groovy"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Commuter assistance",
+      "Employee discount",
+      "Employee stock purchase plan",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Vision insurance",
+      "Wellness program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Kernel Trading Technologies LP",
+    "job title": "Quantitative Developer",
+    "salary": "$92,204.38 - $264,022.40 a year",
+    "skills": [
+      "Distributed systems",
+      "UNIX",
+      "Linux",
+      "Python",
+      "Data structures"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Flexible schedule",
+      "Flexible spending account",
+      "Health insurance",
+      "Paid time off",
+      "Parental leave",
+      "Relocation assistance",
+      "Retirement plan",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Zones LLC.",
+    "job title": "Project Manager - Enterprise Solutions",
+    "salary": "$55.00 - $62.50 an hour",
+    "skills": [
+      "Microsoft Project",
+      "Power BI",
+      "Azure",
+      "Project management",
+      "Visio",
+      "SDLC",
+      "DevOps",
+      "Leadership",
+      "Program management",
+      "Mentoring"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Stevens Institute of Technology",
+    "job title": "LabVIEW Programmer",
+    "salary": "0",
+    "skills": [
+      "Electrical wiring",
+      "LabView"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Genisis Technology solutions",
+    "job title": "Senior Java Developer",
+    "salary": "$58.94 - $70.98 an hour",
+    "skills": [
+      "React",
+      "Software development",
+      "J2EE",
+      "AWS",
+      "Software implementation",
+      "Azure",
+      "Spring",
+      "Spring Boot",
+      "Full-stack development",
+      "Linux",
+      "Computer science",
+      "Angular",
+      "Cassandra",
+      "OOP",
+      "Java",
+      "REST",
+      "Kafka",
+      "Docker",
+      "Redis"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "American Unit Inc",
+    "job title": "Only W2 -- Java Drools developer",
+    "salary": "$60 an hour",
+    "skills": [
+      "Java",
+      "Spring",
+      "Spring Boot",
+      "SQL",
+      "REST",
+      "MySQL",
+      "Oracle",
+      "OOP"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon Web Services, Inc.",
+    "job title": "Senior Technical Program Manager, AWS Fraud Prevention",
+    "salary": "From $119,000 a year",
+    "skills": [
+      "Software development",
+      "AWS",
+      "Project management",
+      "Program management",
+      "Product management"
+    ],
+    "education": [],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Modus Closing",
+    "job title": "Staff Software Engineer",
+    "salary": "$152,100 - $228,200 a year",
+    "skills": [
+      "Software development",
+      "Microservices",
+      "AWS",
+      "Computer science",
+      "APIs",
+      "Maven",
+      "Go",
+      "Java",
+      "gRPC",
+      "S3",
+      "Python",
+      "Node.js",
+      "Kubernetes",
+      "Scripting",
+      "Computer networking",
+      "DNS",
+      "Scrum",
+      "NGINX",
+      "Kafka",
+      "Docker",
+      "Load balancing",
+      "Terraform",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee assistance program",
+      "Flexible spending account",
+      "Health insurance",
+      "Parental leave",
+      "Pet insurance",
+      "RSU",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Universal Technologies",
+    "job title": "Computer Programmer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "XML",
+      "AJAX",
+      "UNIX",
+      "JBoss",
+      "Oracle",
+      "SOAP",
+      "Java",
+      "XSLT",
+      "Weblogic",
+      "SVN",
+      "PL/SQL",
+      "JavaScript",
+      "Struts"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "MUFG Bank, Ltd.",
+    "job title": "Software Engineering - Fullstack developer",
+    "salary": "$120,000 - $150,000 a year",
+    "skills": [
+      "SQL",
+      "Financial services",
+      "TypeScript",
+      "Software development",
+      "HTML5",
+      "Performance testing",
+      "JBoss",
+      "APIs",
+      "Maven",
+      "Java",
+      "Back-end development",
+      "Hibernate",
+      "Debugging",
+      "Unit testing",
+      "Integration testing",
+      "Node.js",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "Apache",
+      "JPA",
+      "Cloud infrastructure",
+      "Software deployment",
+      "Angular",
+      "Oracle",
+      "REST",
+      "Jenkins",
+      "Kafka",
+      "Docker",
+      "React",
+      "JavaScript",
+      "CSS",
+      "Banking"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CEDENT",
+    "job title": "Senior Java Developer, Enterprise Finance Technology",
+    "salary": "0",
+    "skills": [
+      "Performance tuning",
+      "Distributed systems",
+      "Multithreading",
+      "Hadoop",
+      "Spring",
+      "Spring Boot",
+      "APIs",
+      "Analysis skills",
+      "R",
+      "Java",
+      "MATLAB",
+      "Big data",
+      "Cloud computing",
+      "JDBC",
+      "Debugging",
+      "Application development",
+      "Distributed computing"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Barclays",
+    "job title": "Assistant Vice President - Full Stack Price Testing Development Lead",
+    "salary": "0",
+    "skills": [
+      "ASP.NET",
+      "XML",
+      "Tableau",
+      ".NET",
+      "Entity Framework",
+      "ADO.NET",
+      "WCF",
+      "C#",
+      "Kafka",
+      "Angular"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Referral program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amneal Pharmaceuticals",
+    "job title": "Automation Engineer II",
+    "salary": "0",
+    "skills": [
+      "Microsoft Project",
+      "Technical writing",
+      "Programmable logic controllers",
+      "AutoCAD",
+      "CAD"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Ramp Financial",
+    "job title": "Software Engineer | Forward Deployed",
+    "salary": "0",
+    "skills": [
+      "SFTP",
+      "Purchasing"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Parental leave",
+      "Pet insurance",
+      "Vision insurance",
+      "Work from home stipend"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Hearth",
+    "job title": "Senior Software Engineer, Full-stack",
+    "salary": "$135,000 - $190,000 a year",
+    "skills": [
+      "Ruby on Rails",
+      "Leadership",
+      "TypeScript",
+      "React Native",
+      "GraphQL",
+      "AWS",
+      "Full-stack development",
+      "Docker",
+      "Project leadership",
+      "React",
+      "Go"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Employee assistance program",
+      "Health insurance",
+      "Paid time off",
+      "Parental leave",
+      "Pet insurance",
+      "Stock options",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

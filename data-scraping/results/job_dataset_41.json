@@ -1,0 +1,389 @@
+[
+  {
+    "company name": "Prudential",
+    "job title": "PGIM Fixed Income - Senior Software Engineer (Python)",
+    "salary": "$155,000 - $185,000 a year",
+    "skills": [
+      "SQL",
+      "Git",
+      "Microservices",
+      "AWS",
+      "Construction",
+      "Spring",
+      "Spring Boot",
+      "SDLC",
+      "Analysis skills",
+      "Portfolio management",
+      "Java",
+      "Jira",
+      "Jenkins",
+      "Docker",
+      "Python",
+      "Bloomberg",
+      "React"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ION",
+    "job title": "Lead Java Developer",
+    "salary": "$200,000 - $240,000 a year",
+    "skills": [
+      "Distributed systems",
+      "Multithreading",
+      "Software development",
+      "Test-driven development",
+      "Spring",
+      "Kanban",
+      "Maven",
+      "CI/CD",
+      "Leadership",
+      "Java",
+      "REST",
+      "Hibernate",
+      "Scrum",
+      "Scala",
+      "Agile",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Horizon Consulting Inc.",
+    "job title": "Software Developer",
+    "salary": "$96,866 a year",
+    "skills": [
+      "Computer science",
+      "Analysis skills"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Doctoral degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CapB InfoteK",
+    "job title": "Software Engineer - C",
+    "salary": "0",
+    "skills": [
+      "Java",
+      "Encryption",
+      "Unit testing",
+      "Linux",
+      "Oracle",
+      "C",
+      "AI",
+      "Perl",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Virtu Financial",
+    "job title": "Quantitative Developer (Fixed Income)",
+    "salary": "$175,000 - $225,000 a year",
+    "skills": [
+      "UNIX",
+      "Software development",
+      "Rust",
+      "C++",
+      "Linux",
+      "Computer science",
+      "Python"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "BAE Systems",
+    "job title": "Senior Test Software Engineer",
+    "salary": "$97,800 - $166,320 a year",
+    "skills": [
+      "Computer networking",
+      "C#",
+      "Debugging",
+      "LabView",
+      "Python",
+      "FPGA"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee assistance program",
+      "Health insurance",
+      "Health savings account",
+      "Paid military leave",
+      "Paid time off",
+      "Parental leave",
+      "Pet insurance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Rockstar Games",
+    "job title": "Senior Build Engineer",
+    "salary": "$121,400 - $161,800 a year",
+    "skills": [
+      "SQL",
+      "Distributed systems",
+      "Software development",
+      "Perforce",
+      "Scripting",
+      "C++",
+      "System architecture",
+      "C#",
+      "PowerShell",
+      "Ruby",
+      "Software deployment",
+      "Perl",
+      "CI/CD",
+      "Java",
+      "Configuration management",
+      "Scrum",
+      "Jenkins",
+      "Application development",
+      "Docker",
+      "Python",
+      "Shell Scripting",
+      "Bash",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "iOasiZ",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Kinetix Trading Solutions",
+    "job title": "Senior Software Engineer (Full-time)",
+    "salary": "0",
+    "skills": [
+      "NoSQL",
+      "Git",
+      "Continuous integration",
+      "Financial services",
+      "Test-driven development",
+      "Scripting",
+      "Spark",
+      "Linux",
+      "SDLC",
+      "APIs",
+      "Data structures",
+      "Analysis skills",
+      "Java",
+      "JSON",
+      "Service-oriented architecture",
+      "Jira",
+      "Scrum",
+      "Big data",
+      "Unit testing",
+      "AI",
+      "Shell Scripting",
+      "Agile",
+      "Machine learning"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Biogensys",
+    "job title": "PL SQL C#/ Control -M (need locals to Michigan, Newyork location )",
+    "salary": "Up to $52 an hour",
+    "skills": [
+      "SQL",
+      "Software development",
+      "Scripting",
+      "SFTP",
+      "Control-M",
+      "C#",
+      "Computer science",
+      "Oracle",
+      "FTP",
+      "PL/SQL"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Audible",
+    "job title": "Software Development Engineer, Personalization",
+    "salary": "0",
+    "skills": [
+      "NoSQL",
+      "Distributed systems",
+      "Software development",
+      "AWS",
+      "C++",
+      "C#",
+      "Spark",
+      "Computer science",
+      "Continuous improvement",
+      "Data structures",
+      "Analysis skills",
+      "CI/CD",
+      "OOP",
+      "Leadership",
+      "Java",
+      "Kafka",
+      "Big data",
+      "Unit testing",
+      "Design patterns"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Technovista",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "AJAX",
+      "Ant",
+      "Spring",
+      "Maven",
+      "UI",
+      "Java",
+      "Data modeling",
+      "Service-oriented architecture",
+      "Hibernate",
+      "Application development",
+      "jQuery",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Visionet Systems",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "ASP.NET",
+      "Git",
+      "Software development",
+      "Visual Studio",
+      "Azure",
+      "C#",
+      "TFS",
+      "PowerShell",
+      "Computer science",
+      "DevOps",
+      "APIs",
+      "CI/CD",
+      ".NET",
+      "REST",
+      ".NET Core",
+      "Design patterns",
+      "MVC",
+      "Agile",
+      "Microsoft Dynamics 365"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Bank of America",
+    "job title": "Senior Quantitative Finance Analyst, AML Software Engineer",
+    "salary": "$125,000 - $210,000 a year",
+    "skills": [
+      "NumPy",
+      "Git",
+      "Software development",
+      "Hadoop",
+      "Pandas",
+      "SDLC",
+      "DevOps",
+      "Data structures",
+      "Analysis skills",
+      "SciPy",
+      "Jenkins",
+      "Python"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Fabec IT",
+    "job title": "Docker & Kubernetes Engineer",
+    "salary": "0",
+    "skills": [
+      "ZooKeeper",
+      "Kubernetes",
+      "Docker",
+      "Mesos"
+    ],
+    "education": [],
+    "benefits": [
+      "Employee assistance program",
+      "Health insurance",
+      "Visa sponsorship"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

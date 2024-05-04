@@ -1,0 +1,420 @@
+[
+  {
+    "company name": "Amazon Development Center U.S., Inc.",
+    "job title": "Front End Engineer, DataZone",
+    "salary": "From $115,000 a year",
+    "skills": [
+      "Distributed systems",
+      "Node.js",
+      "TypeScript",
+      "Software development",
+      "AWS",
+      "HTML5",
+      "Project management methodology",
+      "Computer science",
+      "Angular",
+      "SDLC",
+      "Data structures",
+      "Analysis skills",
+      "UX",
+      "OOP",
+      "JavaScript",
+      "CSS",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Northwell Health",
+    "job title": "Senior Software Engineer",
+    "salary": "$105,400 - $183,000 a year",
+    "skills": [
+      "SOAP",
+      "Authentication",
+      "REST",
+      "HTML5",
+      "Mobile applications",
+      "JavaScript",
+      "APIs",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Candid",
+    "job title": "Software Engineer",
+    "salary": "$75,000 - $115,000 a year",
+    "skills": [
+      "Software troubleshooting",
+      "Software development",
+      "Azure",
+      "AWS",
+      "Elasticsearch",
+      "C#",
+      "Application development",
+      "SDLC",
+      "APIs",
+      "Agile",
+      "OOP"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Loan forgiveness"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Snappyhires",
+    "job title": "Server Engineer",
+    "salary": "$60 - $65 an hour",
+    "skills": [
+      "VMWare",
+      "IP networking",
+      "Application support",
+      "Technical support",
+      "PowerShell",
+      "Active Directory",
+      "Bloomberg",
+      "TCP",
+      "TCP/IP",
+      "Windows"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Accenture",
+    "job title": "Founding Frontend Engineer (Onsite)",
+    "salary": "$90,000 - $150,000 a year",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "React Native",
+      "GraphQL",
+      "React"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Health savings account",
+      "Profit sharing",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Galen Technology Solutions",
+    "job title": "Developer - C#, .NET Core, ANGULAR 8+, SQL Server (W2 Candidates Only)",
+    "salary": "0",
+    "skills": [
+      "Microsoft SQL Server",
+      "C#",
+      "Angular",
+      ".NET Core",
+      "Application development",
+      "SQL",
+      "ASP.NET",
+      "Git",
+      "TypeScript",
+      "Software development",
+      "Test-driven development",
+      "Azure",
+      "Visio",
+      "APIs",
+      "Software troubleshooting",
+      ".NET",
+      "Responsive web design",
+      "ASP.NET Core",
+      "Unit testing",
+      "JavaScript"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Rippling",
+    "job title": "Fullstack Engineer II (Frontend) - Spend Management",
+    "salary": "$112,200 - $196,350 a year",
+    "skills": [
+      "Python",
+      "React",
+      "Django",
+      "APIs"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amex",
+    "job title": "Senior Engineer - HTML/CSS/ JavaScript- Lounge Services",
+    "salary": "$110,000 - $190,000 a year",
+    "skills": [
+      "Microservices",
+      "Kubernetes",
+      "HTML5",
+      "APIs",
+      "CI/CD",
+      "Databases",
+      "Responsive web design",
+      "Docker",
+      "Jest",
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "Retirement plan",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Con Edison Company of New York",
+    "job title": "Technical Associate (Software Engineer) - IT - Outage Management Systems",
+    "salary": "$72,000 - $75,000 a year",
+    "skills": [
+      "Azure",
+      "Microsoft SQL Server",
+      "Computer science",
+      "SDLC",
+      "DevOps",
+      "Test automation",
+      "OOP",
+      ".NET",
+      "REST",
+      "GIS",
+      "System design",
+      "Application development",
+      "Waterfall",
+      "Agile",
+      "Team development",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon.com Services LLC",
+    "job title": "Front End Engineer II, Creators",
+    "salary": "From $115,000 a year",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "Software development",
+      "HTML5",
+      "Computer science",
+      "Angular",
+      "JavaScript",
+      "Data structures",
+      "Analysis skills",
+      "CSS",
+      "Agile",
+      "OOP"
+    ],
+    "education": [],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NBCUniversal",
+    "job title": "Staff Software Engineer (TypeScript, AWS, Infra-as-Code)",
+    "salary": "$130,000 - $180,000 a year",
+    "skills": [
+      "GitHub",
+      "Integration testing",
+      "Continuous integration",
+      "TypeScript",
+      "AWS",
+      "Project implementation",
+      "Cloud infrastructure",
+      "Computer science",
+      "APIs",
+      "Analysis skills",
+      "Computer networking",
+      "Jenkins",
+      "Unit testing",
+      "Load balancing",
+      "React",
+      "Terraform",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amex",
+    "job title": "Senior Frontend Engineer - Security - Resy",
+    "salary": "$110,000 - $190,000 a year",
+    "skills": [
+      "SCSS",
+      "Redux",
+      "Jest",
+      "Angular",
+      "APIs",
+      "React"
+    ],
+    "education": [],
+    "benefits": [
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "Retirement plan",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Old Mission",
+    "job title": "C++ Software Engineer - Research Infrastructure",
+    "salary": "$175,000 - $275,000 a year",
+    "skills": [
+      "Computer networking",
+      "C++",
+      "Big data",
+      "Systems engineering",
+      "Linux",
+      "Python",
+      "APIs",
+      "Analysis skills"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Commuter assistance",
+      "Dental insurance",
+      "Disability insurance",
+      "Food provided",
+      "Health insurance",
+      "Life insurance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Disney",
+    "job title": "Lead Software Engineer",
+    "salary": "$156,300 - $209,600 a year",
+    "skills": [
+      "SQL",
+      "Node.js",
+      "User research",
+      "Microservices",
+      "AWS",
+      "HTML5",
+      "DevOps",
+      "APIs",
+      "UX",
+      "jQuery",
+      "Python",
+      "React",
+      "JavaScript",
+      "CSS",
+      "UI design"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amex",
+    "job title": "Senior Engineer - Full Stack",
+    "salary": "$110,000 - $190,000 a year",
+    "skills": [
+      "GitHub",
+      "Software development",
+      "Google Cloud Platform",
+      "AWS",
+      "Full-stack development",
+      "Computer science",
+      "Test automation",
+      "Data structures",
+      "Leadership",
+      "Java",
+      "Jenkins",
+      "Jest",
+      "Cucumber",
+      "React",
+      "Terraform"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "Retirement plan",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

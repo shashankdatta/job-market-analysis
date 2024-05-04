@@ -1,0 +1,453 @@
+[
+  {
+    "company name": "CurbWaste",
+    "job title": "Senior Software Engineer",
+    "salary": "$145,000 - $165,000 a year",
+    "skills": [
+      "PostgreSQL",
+      "Node.js",
+      "TypeScript",
+      "Kubernetes",
+      "AWS",
+      "Elasticsearch",
+      "Computer science",
+      "SDLC",
+      "APIs",
+      "CI/CD",
+      "Solr",
+      "Docker",
+      "Design patterns",
+      "React",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "DMC",
+    "job title": "Application Development Project Engineer",
+    "salary": "$142,563 a year",
+    "skills": [
+      "SQL",
+      "Software development",
+      "Azure",
+      "AWS",
+      "HTML5",
+      "C#",
+      "Cloud infrastructure",
+      "LabView",
+      ".NET",
+      "Interviewing",
+      "AI",
+      "Python",
+      "React",
+      "JavaScript",
+      "CSS",
+      "Team development"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Jefferies & Company, Inc.",
+    "job title": "Application/Database Developer, EQ Prime Services",
+    "salary": "$150,000 - $200,000 a year",
+    "skills": [
+      "SQL",
+      "Distributed systems",
+      "Multithreading",
+      "C#",
+      "System testing",
+      "Design patterns",
+      "Analysis skills",
+      "Order management system",
+      "Agile",
+      "OOP"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "UBS",
+    "job title": "Data Platform DevOps Engineer",
+    "salary": "0",
+    "skills": [
+      "Financial services",
+      "SRE",
+      "Spark",
+      "Computer science",
+      "SDLC",
+      "Kanban",
+      "DevOps",
+      "GitLab",
+      "Java",
+      "Scala",
+      "Python",
+      "PostgreSQL",
+      "Kubernetes",
+      "Azure",
+      "CI/CD",
+      "Azure Data Lake",
+      "Leadership",
+      "AI",
+      "Model deployment",
+      "Terraform",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "SoHo Dragon",
+    "job title": "OnBase Programmer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "IIS",
+      "Jira",
+      "Microsoft SQL Server",
+      "System design",
+      "Active Directory",
+      "Design patterns",
+      "Analysis skills",
+      "Banking"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "MUFG Bank, Ltd.",
+    "job title": "Trade Finance Software Engineering, AVP",
+    "salary": "$100,000 - $125,000 a year",
+    "skills": [
+      "SQL",
+      "Financial services",
+      "Software development",
+      "Computer science",
+      "Business analysis",
+      "Java",
+      "Solution architecture",
+      "ETL",
+      "Application development",
+      "Unit testing",
+      "Python",
+      "Relational databases",
+      "C#",
+      "Team management",
+      "Leadership",
+      "Scrum",
+      "C",
+      "Agile",
+      "UI design",
+      "Banking"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon.com Services LLC",
+    "job title": "Solutions Architect, Amazon Publisher Services",
+    "salary": "From $105,100 a year",
+    "skills": [
+      "HTML5",
+      "Ruby",
+      "WordPress",
+      "Computer science",
+      "Data structures",
+      "Computer networking",
+      "Martech",
+      "Analytics",
+      "PHP",
+      "Debugging",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ProIT Inc.",
+    "job title": "Server Side Engineer",
+    "salary": "$100,000 - $120,000 a year",
+    "skills": [
+      "SQL",
+      ".NET",
+      "Kotlin",
+      "REST",
+      "Gradle"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Health savings account",
+      "Life insurance",
+      "Paid time off",
+      "Retirement plan",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Xanthus",
+    "job title": "Software Developer, Programmer, Application Developer",
+    "salary": "0",
+    "skills": [
+      "HTML5",
+      "C++",
+      "Linux",
+      "Oracle",
+      "Perl",
+      "Visual Basic",
+      "Java",
+      "Solaris",
+      "JavaScript"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ION",
+    "job title": "Android Developer",
+    "salary": "$140,000 - $170,000 a year",
+    "skills": [
+      "Kotlin",
+      "Test-driven development",
+      "Software development",
+      "Computer science",
+      "APIs",
+      "Android development",
+      "Android",
+      "REST",
+      "JSON",
+      "SDKs",
+      "Application development",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "UBS",
+    "job title": "Full Stack Engineer (Java, Scala)",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "PostgreSQL",
+      "Cloud architecture",
+      "Test-driven development",
+      "Microservices",
+      "Kubernetes",
+      "Azure",
+      "Spring",
+      "Spark",
+      "Spring Boot",
+      "Full-stack development",
+      "DevOps",
+      "Analysis skills",
+      "Azure Data Lake",
+      "Java",
+      "Scala",
+      "Big data",
+      "Risk management",
+      "Python",
+      "UI development",
+      "React",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ADP",
+    "job title": "Lead Machine Learning Engineer",
+    "salary": "0",
+    "skills": [
+      "Kubernetes",
+      "Natural language processing",
+      "TensorFlow",
+      "Keras",
+      "DevOps",
+      "APIs",
+      "Deep learning",
+      "OOP",
+      "Docker",
+      "Matplotlib",
+      "Python",
+      "ADP",
+      "AI",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Vision insurance",
+      "Volunteer time off",
+      "Wellness program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "iLink Digital",
+    "job title": "DevOps Engineer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Kubernetes",
+      "DNS",
+      "Azure",
+      "Linux",
+      "IaaS",
+      "DevOps",
+      "Terraform",
+      "CI/CD",
+      "PaaS",
+      "MongoDB"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Traba",
+    "job title": "Senior Software Engineer (Frontend)",
+    "salary": "$160,000 - $200,000 a year",
+    "skills": [
+      "TypeScript",
+      "Responsive web design",
+      "React Native",
+      "Design patterns",
+      "APIs",
+      "React",
+      "JavaScript",
+      "Machine learning"
+    ],
+    "education": [],
+    "benefits": [
+      "Commuter assistance",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Rad Hires",
+    "job title": "Senior Data Software Engineer, Tech Lead - NYC",
+    "salary": "$215,000 - $245,000 a year",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "Tableau",
+      "Power BI",
+      "AWS",
+      "Spark",
+      "SDLC",
+      "DevOps",
+      "Django",
+      "APIs",
+      "GitLab",
+      "ETL",
+      "Analytics",
+      "Quality control",
+      "Python",
+      "Machine learning",
+      "Integration testing",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "Azure",
+      "Full-stack development",
+      "Analysis skills",
+      "CI/CD",
+      "OOP",
+      "Leadership",
+      "JSON",
+      "Data analysis skills",
+      "Jenkins",
+      "Data science",
+      "Data visualization",
+      "AI",
+      "React",
+      "Agile"
+    ],
+    "education": [
+      "Master's degree",
+      "Doctoral degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

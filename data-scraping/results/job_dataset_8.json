@@ -1,0 +1,435 @@
+[
+  {
+    "company name": "Datadog",
+    "job title": "Manager I, Website Development - Frontend",
+    "salary": "$132,000 - $169,000 a year",
+    "skills": [
+      "HTML5",
+      "Web development",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [],
+    "benefits": [
+      "Employee stock purchase plan",
+      "RSU"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NYC DEPT OF CITY PLANNING",
+    "job title": "Cloud Engineer",
+    "salary": "$115,854 - $130,701 a year",
+    "skills": [
+      "Azure",
+      "Server management",
+      "Linux",
+      "SQL",
+      "Git",
+      "AWS",
+      "Encryption",
+      "PowerShell",
+      "DevOps",
+      "VPN",
+      "Firewall",
+      "Network monitoring",
+      "Active Directory",
+      "Python",
+      "VMWare",
+      "Network engineering",
+      "Network support",
+      "Cloud architecture",
+      "Kubernetes",
+      "Scripting",
+      "Microsoft SQL Server",
+      "Cloud infrastructure",
+      "Microsoft Windows Server",
+      "CI/CD",
+      "Leadership",
+      "Jenkins",
+      "Database administration",
+      "Identity & access management",
+      "C",
+      "Shell Scripting",
+      "Terraform",
+      "Bash"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Retirement plan"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "OXIO",
+    "job title": "Senior Backend Engineer",
+    "salary": "$156,000 - $190,000 a year",
+    "skills": [
+      "Leadership",
+      "Distributed systems",
+      "Debugging",
+      "APIs",
+      "Analysis skills"
+    ],
+    "education": [],
+    "benefits": [
+      "Stock options"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Uniswap Labs",
+    "job title": "Senior Software Engineer, Protocols",
+    "salary": "$210,000 - $240,000 a year",
+    "skills": [
+      "Distributed systems",
+      "Computer networking",
+      "DynamoDB",
+      "Rust",
+      "AWS",
+      "Encryption",
+      "Cloud infrastructure",
+      "Docker",
+      "Computer science"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "North Atlantic Industries, Inc",
+    "job title": "Software Engineer II",
+    "salary": "$75,000 - $90,000 a year",
+    "skills": [
+      "C++",
+      "C#",
+      "Linux",
+      "Analysis skills",
+      "OOP",
+      "Java",
+      ".NET",
+      "Debugging",
+      "Unit testing",
+      "Operating systems",
+      "Python",
+      "C",
+      "AI",
+      "Unity",
+      "Machine learning",
+      "Windows"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "AD&D insurance",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee assistance program",
+      "Flexible spending account",
+      "Health insurance",
+      "Life insurance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Spino Inc",
+    "job title": "Java Developer",
+    "salary": "$100,000 - $120,000 a year",
+    "skills": [
+      "Microservices",
+      "AWS",
+      "Spring Boot",
+      "MySQL",
+      "Hibernate",
+      "Python",
+      "Cloud architecture",
+      "J2EE",
+      "Database development",
+      "Spring",
+      "OOP",
+      "Java",
+      "REST",
+      "Design patterns",
+      "Web services"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": [
+      "Minimum <b>5 years</b> of strong <b>Java/J2EE applications</b> development background required.",
+      "Experience with <b>Core Java/J2EE/Spring</b>, <b>REST API</b> services required.",
+      "Good understanding of <b>OOP concepts</b>, Design Patterns and Modular development",
+      "Understanding/Knowledge/Exp with <b>Microservices</b>, REST Web Services/<b>REST API</b>, <b>Hibernate</b>, Spring Boot/spring framework is a huge plus.",
+      "Experience with other backend programming languages like <b>Python</b>.",
+      "Expertise in database development, especially in <b>MySQL</b> stored routines (stored procedures, functions and triggers) <b>Cloud architecture</b> experience with a major cloud provider such as <b>AWS</b>.",
+      "Experience in <b>Python</b> is an added advantage."
+    ]
+  },
+  {
+    "company name": "Apple",
+    "job title": "Platform Engineer",
+    "salary": "$116,105.60 - $208,300.00 a year",
+    "skills": [
+      "SQL",
+      "Software development",
+      "Hadoop",
+      "AWS",
+      "Spark",
+      "Computer science",
+      "SDLC",
+      "High availability",
+      "Java",
+      "Python",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "Azure",
+      "Scripting",
+      "Software deployment",
+      "Cassandra",
+      "CI/CD",
+      "Databases",
+      "Kafka",
+      "Big data",
+      "Docker"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Employee stock purchase plan",
+      "Health insurance",
+      "RSU",
+      "Retirement plan",
+      "Stock options"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Old Mission",
+    "job title": "Python Software Engineer",
+    "salary": "$175,000 - $225,000 a year",
+    "skills": [
+      "PostgreSQL",
+      "Linux",
+      "MySQL",
+      "Computer science",
+      "Python",
+      "Databases"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Commuter assistance",
+      "Dental insurance",
+      "Disability insurance",
+      "Food provided",
+      "Health insurance",
+      "Life insurance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Capital One",
+    "job title": "Lead Software Engineer, Full Stack",
+    "salary": "0",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "TypeScript",
+      "Microservices",
+      "Google Cloud Platform",
+      "AWS",
+      "Azure",
+      "Full-stack development",
+      "APIs",
+      "Go",
+      "UI",
+      "Java",
+      "Cloud computing",
+      "Docker",
+      "Python",
+      "JavaScript",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Siri Software Solutions",
+    "job title": "SOFTWARE ENGINEER II",
+    "salary": "$142,563 a year",
+    "skills": [],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "January Technologies",
+    "job title": "Software Engineer - Platform",
+    "salary": "$115,000 - $155,000 a year",
+    "skills": [
+      "TypeScript",
+      "GraphQL",
+      "Spring",
+      "Docker",
+      "Systems engineering",
+      "Python",
+      "APIs"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Commuter assistance",
+      "Dental insurance",
+      "Flexible schedule",
+      "Gym membership",
+      "Health insurance",
+      "Unlimited paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Rippling",
+    "job title": "Staff Software Engineer (Backend), Machine Learning",
+    "salary": "$162,000 - $283,500 a year",
+    "skills": [
+      "Search engines",
+      "Distributed systems",
+      "Spark",
+      "Big data",
+      "Full-stack development",
+      "Python",
+      "Machine learning"
+    ],
+    "education": [],
+    "benefits": [
+      "Dental insurance",
+      "Flexible schedule",
+      "Flexible spending account",
+      "Food provided",
+      "Health insurance",
+      "Health savings account",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Squarespace",
+    "job title": "Frontend Staff Software Engineer, User Platform",
+    "salary": "$185,500 - $299,000 a year",
+    "skills": [
+      "Identity & access management",
+      "React",
+      "JavaScript",
+      "UI"
+    ],
+    "education": [],
+    "benefits": [
+      "Adoption assistance",
+      "Commuter assistance",
+      "Family leave",
+      "Food provided",
+      "Health insurance",
+      "Paid time off",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Lord Abbett.com",
+    "job title": "Software Engineer - Funds & Inst",
+    "salary": "$120,000 - $145,000 a year",
+    "skills": [
+      "PostgreSQL",
+      "J2EE",
+      "HTML5",
+      "Microsoft SQL Server",
+      "Spring",
+      "JUnit",
+      "DevOps",
+      "Analysis skills",
+      "CI/CD",
+      "Java",
+      "Service-oriented architecture",
+      "Kafka",
+      "Bootstrap",
+      "JDBC",
+      "Spring MVC",
+      "React",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Retirement plan"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Memorial Sloan Kettering Cancer Center",
+    "job title": "Bioinformatics Software Engineer III",
+    "salary": "$118,800 - $196,200 a year",
+    "skills": [
+      "GitHub",
+      "Java",
+      "Node.js",
+      "Relational databases",
+      "Software development",
+      "MySQL",
+      "Python",
+      "Clinical research",
+      "React",
+      "JavaScript",
+      "MongoDB",
+      "Databases"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

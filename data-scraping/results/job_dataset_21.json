@@ -1,0 +1,416 @@
+[
+  {
+    "company name": "Kohler",
+    "job title": "Sr. Software Engineer & Architect, Security",
+    "salary": "$98,000 - $182,000 a year",
+    "skills": [
+      "TypeScript",
+      "Software development",
+      "GraphQL",
+      "Kubernetes",
+      "AWS",
+      "Rust",
+      "C++",
+      "Internet of things",
+      "APIs",
+      "Go",
+      "System design",
+      "AI",
+      "Information security",
+      "JavaScript",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Morgan Stanley",
+    "job title": "Google Platform Cloud Engineer",
+    "salary": "0",
+    "skills": [
+      "Cloud architecture",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "SRE",
+      "Linux",
+      "DevOps",
+      "APIs",
+      "CI/CD",
+      "Leadership",
+      "Computer networking",
+      "Python",
+      "Terraform",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Insoft Systems",
+    "job title": "SOFTWARE ENGINEER",
+    "salary": "0",
+    "skills": [
+      "ASP.NET",
+      "XML",
+      "AJAX",
+      "Visual Studio",
+      "Microsoft SQL Server",
+      "C#",
+      "Oracle",
+      "Microsoft Access",
+      "ASP",
+      "Visual Basic",
+      "XSLT",
+      "Crystal Reports",
+      "JavaScript"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "North Atlantic Industries, Inc",
+    "job title": "Network Software Engineer",
+    "salary": "$115,000 - $140,000 a year",
+    "skills": [
+      "Software development",
+      "C++",
+      "Linux",
+      "TCP",
+      "VPN",
+      "Authentication",
+      "Computer networking",
+      "SDKs",
+      "IPsec",
+      "OS Kernels",
+      "SSL",
+      "C"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "AD&D insurance",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee assistance program",
+      "Flexible spending account",
+      "Health insurance",
+      "Life insurance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Hermitage Infotech",
+    "job title": "Software Engineers",
+    "salary": "0",
+    "skills": [],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Stefanini, Inc",
+    "job title": "Release Strategist",
+    "salary": "$40 - $50 an hour",
+    "skills": [
+      "Knowledge management",
+      "Project management",
+      "Coordinate measuring machine",
+      "Product management"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Bank of America",
+    "job title": "Vice President / Software Engineer",
+    "salary": "$175,400 - $185,400 a year",
+    "skills": [
+      "Hadoop",
+      "Spring",
+      "Elasticsearch",
+      "Spring Boot",
+      "Spark",
+      "Linux",
+      "CI/CD",
+      "Java",
+      "Kafka",
+      "Unit testing",
+      "IT",
+      "Python",
+      "Redis"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Prudential",
+    "job title": "PGIM Fixed Income - PM&R Software Engineer",
+    "salary": "$110,000 - $140,000 a year",
+    "skills": [
+      "Git",
+      "Microservices",
+      "AWS",
+      "Spring",
+      "Spring Boot",
+      "SDLC",
+      "Angular",
+      "Analysis skills",
+      "Java",
+      "R",
+      "Jira",
+      "Python",
+      "React",
+      "JavaScript"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon Development Center U.S., Inc.",
+    "job title": "Front End Engineer, Red Hat OpenShift Service on AWS (ROSA)",
+    "salary": "From $115,000 a year",
+    "skills": [
+      "Software development",
+      "AWS",
+      "HTML5",
+      "Cloud computing",
+      "Angular",
+      "JavaScript",
+      "CSS",
+      "UX",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Rippling",
+    "job title": "Senior Full Stack Engineer - Analytics Platform",
+    "salary": "$135,000 - $236,250 a year",
+    "skills": [
+      "Performance tuning",
+      "Leadership",
+      "React",
+      "APIs"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Block",
+    "job title": "Staff Frontend Software Engineer, FTL",
+    "salary": "0",
+    "skills": [
+      "D3.js",
+      "TypeScript",
+      "Kotlin",
+      "Kubernetes",
+      "AWS",
+      "JUnit",
+      "Go",
+      "Java",
+      "Service-oriented architecture",
+      "Hibernate",
+      "gRPC",
+      "AI",
+      "Information security",
+      "React",
+      "JavaScript"
+    ],
+    "education": [],
+    "benefits": [
+      "AD&D insurance",
+      "Caregiver leave",
+      "Dental insurance",
+      "Employee stock purchase plan",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Life insurance",
+      "Paid parental leave",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "Retirement plan",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Nova Credit",
+    "job title": "Staff Software Engineer - Cash flow Platform",
+    "salary": "$216,000 - $264,000 a year",
+    "skills": [
+      "SQL",
+      "NumPy",
+      "Flask",
+      "Hadoop",
+      "AWS",
+      "Software testing",
+      "Spark",
+      "Pandas",
+      "Yardi",
+      "Django",
+      "Databases",
+      "SciPy",
+      "Python",
+      "Data lake",
+      "Banking"
+    ],
+    "education": [],
+    "benefits": [
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "S&P Global",
+    "job title": "Lead Software Developer",
+    "salary": "$85,700 - $170,400 a year",
+    "skills": [
+      "Kotlin",
+      "Git",
+      "Continuous integration",
+      "Mobile applications",
+      "Redux",
+      "Android",
+      "JSON",
+      "Flux",
+      "React Native",
+      "Gradle",
+      "Debugging",
+      "React",
+      "JavaScript",
+      "Swift",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Continuing education credits",
+      "Health insurance",
+      "Referral program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NYC Careers",
+    "job title": "IT AUTOMATION AND MONITORING ENGINEER",
+    "salary": "$75,000 - $140,000 a year",
+    "skills": [
+      "SQL",
+      "ASP.NET",
+      "XML",
+      "SharePoint",
+      "HTML5",
+      "Microsoft SQL Server",
+      "C#",
+      "System administration",
+      "Software deployment",
+      "Microsoft Windows Server",
+      "DevOps",
+      "Analysis skills",
+      "ASP",
+      "Java",
+      "Moodle",
+      "IT",
+      "JavaScript",
+      "Microsoft Dynamics 365",
+      "Windows"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Flexible spending account",
+      "Health insurance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "MUFG Bank, Ltd.",
+    "job title": "Sr. Windows Server Engineer, VP",
+    "salary": "$125,000 - $155,000 a year",
+    "skills": [
+      "VMWare",
+      "Azure",
+      "AWS",
+      "Microsoft Windows Server",
+      "Ansible",
+      "PCI",
+      "Active Directory",
+      "SCCM",
+      "Windows"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

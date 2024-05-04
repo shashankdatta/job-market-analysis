@@ -1,0 +1,454 @@
+[
+  {
+    "company name": "Snapchat",
+    "job title": "Software Engineer, iOS, Sharing Team, 11+ Years of Experience",
+    "salary": "$189,000 - $283,000 a year",
+    "skills": [
+      "Multithreading",
+      "Statistics",
+      "Kubernetes",
+      "AWS",
+      "Computer science",
+      "iOS development",
+      "Mobile applications",
+      "Go",
+      "Data structures",
+      "Leadership",
+      "iOS",
+      "Objective-C",
+      "Design patterns",
+      "Swift"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "RSU"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NBCUniversal",
+    "job title": "Manager, Software Engineering",
+    "salary": "$135,000 - $190,000 a year",
+    "skills": [
+      "Leadership",
+      "Software development",
+      "Scrum",
+      "Project leadership",
+      "Mentoring",
+      "DevOps",
+      "Team development",
+      "Cybersecurity"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Voya Financial",
+    "job title": "Senior Software Developer",
+    "salary": "$169,229 a year",
+    "skills": [
+      "SQL",
+      "Financial services",
+      "Software development",
+      "Test-driven development",
+      "Microsoft SQL Server",
+      "C#",
+      "MySQL",
+      "Angular",
+      "APIs",
+      "MongoDB",
+      ".NET",
+      "Service-oriented architecture",
+      "JDBC",
+      "Docker",
+      "MVC"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Cash balance pension plan",
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Hearth",
+    "job title": "Senior Software Engineer, Front-end",
+    "salary": "$130,000 - $200,000 a year",
+    "skills": [
+      "Ruby on Rails",
+      "Leadership",
+      "TypeScript",
+      "React Native",
+      "GraphQL",
+      "AWS",
+      "Docker",
+      "Project leadership",
+      "React",
+      "Go"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Employee assistance program",
+      "Health insurance",
+      "Paid time off",
+      "Parental leave",
+      "Pet insurance",
+      "Stock options",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Southern Westchester BOCES",
+    "job title": "Programmer",
+    "salary": "$65,000 - $85,000 a year",
+    "skills": [],
+    "education": [
+      "High school diploma or GED",
+      "Associate's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Fidelity Investments",
+    "job title": "Principal Software Engineer",
+    "salary": "$85,000 - $179,000 a year",
+    "skills": [
+      "NoSQL",
+      "Git",
+      "Microservices",
+      "Computer science",
+      "Kanban",
+      "DevOps",
+      "APIs",
+      "Maven",
+      "UI",
+      "Java",
+      "Python",
+      "Kubernetes",
+      "Software deployment",
+      "Linux",
+      "Angular",
+      "Ansible",
+      "Analysis skills",
+      "CI/CD",
+      "Databases",
+      "REST",
+      "Regulatory reporting",
+      "Scrum",
+      "Jenkins",
+      "Kafka",
+      "Docker",
+      "Shell Scripting",
+      "React",
+      "Bash",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Loan repayment program",
+      "Paid time off",
+      "Parental leave",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "SOFT, Inc.",
+    "job title": "AWS Cloud Engineer",
+    "salary": "$75 - $85 an hour",
+    "skills": [
+      "Pro/ENGINEER",
+      "AWS",
+      "Spark",
+      "Cloud development",
+      "SQL",
+      "Microservices",
+      "APIs",
+      "GitLab",
+      "Java",
+      "Scala",
+      "S3",
+      "Python",
+      "Kubernetes",
+      "Microsoft SQL Server",
+      "Spring",
+      "Spring Boot",
+      "Cloud infrastructure",
+      "Software deployment",
+      "Oracle",
+      "CI/CD",
+      "Databases",
+      "DynamoDB",
+      "Docker",
+      "Terraform",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": [
+      "Work on migrating applications from an on-premises location to the cloud service providers",
+      "Quickly understand how the on-prem implementation is working and implement the roadmap to migrate the application to cloud",
+      "Develop products and services on the latest technologies through contributions in development, enhancements, testing and implementation.",
+      "Effectively leverage the popular open-source components and home-grown frameworks",
+      "Develop, modify, extend code for building cloud infrastructure, and automate using CI/CD pipeline.",
+      "Partners with business and peers in the pursuit of solutions that achieve business goals through an agile software development methodology.",
+      "Perform problem analysis, data analysis, reporting, and communication.",
+      "Work with peers across the system to define and implement best practices and standards.",
+      "Assess applications and help determine the appropriate application infrastructure patterns.",
+      "Use best practices and knowledge of internal or external drivers to improve products or services."
+    ]
+  },
+  {
+    "company name": "Canfield Scientific",
+    "job title": "Software Engineering/Development: Clinical Software Web Developer",
+    "salary": "0",
+    "skills": [
+      "AJAX",
+      "Relational databases",
+      "Software development",
+      "Web design",
+      "HTML5",
+      "Microsoft SQL Server",
+      "MySQL",
+      "Computer science",
+      "APIs",
+      "Databases",
+      "SOAP",
+      "REST",
+      "JSON",
+      "PHP",
+      "jQuery",
+      "JavaScript",
+      "CSS",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Visor",
+    "job title": "Senior Software Engineer, Front End - Application Engineering",
+    "salary": "$150,000 - $200,000 a year",
+    "skills": [
+      "Computer science",
+      "APIs",
+      "JavaScript",
+      "Data structures"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Flexible schedule",
+      "Health insurance",
+      "Unlimited paid time off",
+      "Vision insurance",
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "D. E. Shaw & Co., L.P.",
+    "job title": "Software Developer",
+    "salary": "$200,000 a year",
+    "skills": [
+      "Distributed systems",
+      "Software development"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Health insurance",
+      "Prescription drug insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Kensington Information Group",
+    "job title": "SOFTWARE ENGINEER",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      ".NET",
+      "Java",
+      "PL/SQL",
+      "Python",
+      "JavaScript"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Johnson & Johnson",
+    "job title": "Senior Engineer, Automation- CAR-T",
+    "salary": "$76,000 - $121,900 a year",
+    "skills": [
+      "Computer science",
+      "SDLC",
+      "Lean Six Sigma",
+      "Programmable logic controllers",
+      "Distributed control systems",
+      "IT"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Life insurance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CFSB",
+    "job title": "VP, Software Engineer",
+    "salary": "$170,000 - $200,000 a year",
+    "skills": [
+      "SQL",
+      "PostgreSQL",
+      "Relational databases",
+      "Microservices",
+      "Microsoft SQL Server",
+      "C#",
+      "Computer science",
+      "SDLC",
+      "APIs",
+      ".NET",
+      "Java",
+      "RabbitMQ",
+      "Application development",
+      "Redis",
+      "Banking"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "StubHub",
+    "job title": "Senior Software Engineer - Fullstack - CX Innovation",
+    "salary": "$200,000 - $275,000 a year",
+    "skills": [
+      "Java",
+      "Software development",
+      "C#",
+      "Python",
+      "React",
+      "JavaScript"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Affiliated Monitoring",
+    "job title": "Senior Software Engineer",
+    "salary": "$140,000 - $160,000 a year",
+    "skills": [
+      "SQL",
+      "Flask",
+      "AWS",
+      "HTML5",
+      "MySQL",
+      "Computer science",
+      "APIs",
+      "RabbitMQ",
+      "Service-oriented architecture",
+      "Python",
+      "Relational databases",
+      "Kubernetes",
+      "Microsoft SQL Server",
+      "Full-stack development",
+      "Angular",
+      "SOAP",
+      "CodeIgniter",
+      "PHP",
+      "Docker",
+      "MVC",
+      "React",
+      "JavaScript",
+      "CSS",
+      "Web services",
+      "Vue.js"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Gym membership",
+      "Life insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

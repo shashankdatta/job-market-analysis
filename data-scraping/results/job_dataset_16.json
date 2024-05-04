@@ -1,0 +1,421 @@
+[
+  {
+    "company name": "Kliger-Weiss Infosystems Inc",
+    "job title": "Senior React Developer",
+    "salary": "$140,000 - $150,000 a year",
+    "skills": [
+      "Technical writing",
+      "Node.js",
+      "Scrum",
+      "Computer science",
+      "Front-end development",
+      "React",
+      "JavaScript",
+      "CSS",
+      "Agile",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Referral program",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Block",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [],
+    "education": [],
+    "benefits": [
+      "AD&D insurance",
+      "Caregiver leave",
+      "Dental insurance",
+      "Employee stock purchase plan",
+      "Flexible spending account",
+      "Health insurance",
+      "Health savings account",
+      "Life insurance",
+      "Paid parental leave",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "Retirement plan",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Experian",
+    "job title": "Staff Software Engineer - Ruby, Experian Consumer Services (remote)",
+    "salary": "$107,024 - $192,644 a year",
+    "skills": [
+      "Node.js",
+      "Elasticsearch",
+      "Ruby",
+      "MySQL",
+      "Computer science",
+      "Product management",
+      "APIs",
+      "REST",
+      "Data modeling",
+      "Unit testing",
+      "React",
+      "Agile",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Bereavement leave",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Referral program",
+      "Tuition reimbursement",
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Parabit Systems",
+    "job title": "Senior Firmware Engineer",
+    "salary": "$115,000 - $145,000 a year",
+    "skills": [
+      "Network protocols",
+      "Firmware",
+      "Computer networking",
+      "System design",
+      "Schematics",
+      "Internet of things",
+      "Debugging",
+      "TCP",
+      "TCP/IP"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ILOGIC INC",
+    "job title": "SOFTWARE DEVELOPERS",
+    "salary": "0",
+    "skills": [
+      "ASP.NET",
+      "HTML5",
+      "Microsoft SQL Server",
+      "C#",
+      "Software deployment",
+      "SDLC",
+      "APIs",
+      "SSIS",
+      "ServiceNow",
+      ".NET",
+      "Jira",
+      "System testing",
+      "MVC",
+      "CSS",
+      "Windows"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Triunity Software",
+    "job title": "Senior Python Developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Flask",
+      "AWS",
+      "Computer science",
+      "Angular",
+      "SDLC",
+      "Django",
+      "Databases",
+      "Leadership",
+      "REST",
+      "Python",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Audible",
+    "job title": "Software Development Engineer – Data Capture",
+    "salary": "0",
+    "skills": [
+      "Software development",
+      "Hadoop",
+      "Apache Hive",
+      "AWS",
+      "C++",
+      "C#",
+      "Spark",
+      "Full-stack development",
+      "Computer science",
+      "Continuous improvement",
+      "CI/CD",
+      "OOP",
+      "Java",
+      "Marketing",
+      "Big data",
+      "Database design",
+      "Unit testing",
+      "Design patterns"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "UBS",
+    "job title": "Senior Java Engineer - Coverage & Advisory, Global Banking",
+    "salary": "$135,000 - $165,000 a year",
+    "skills": [
+      "SQL",
+      "Azure",
+      "Apache",
+      "Spring",
+      "JUnit",
+      "Computer science",
+      "Test automation",
+      "Data structures",
+      "CI/CD",
+      "OOP",
+      "Java",
+      "REST",
+      "Hibernate",
+      "Tomcat",
+      "Kafka",
+      "JDBC",
+      "Design patterns",
+      "React",
+      "Selenium",
+      "JavaScript",
+      "UML"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Meta",
+    "job title": "Research Scientist - FAIR",
+    "salary": "$117,000 - $173,000 a year",
+    "skills": [
+      "PyTorch",
+      "Research",
+      "GitHub",
+      "Natural language processing",
+      "TensorFlow",
+      "C++",
+      "Computer science",
+      "Deep learning",
+      "C",
+      "AI",
+      "Python",
+      "Machine learning",
+      "Open source contribution"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CAMBA",
+    "job title": "Application Developer, Information Technology (IT) Department",
+    "salary": "$80,000 - $100,000 a year",
+    "skills": [
+      "SQL",
+      "SharePoint",
+      "Visual Studio",
+      "HTML5",
+      "Microsoft SQL Server",
+      "C#",
+      ".NET",
+      "jQuery",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "403(b)",
+      "403(b) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CertiK",
+    "job title": "Staff Software Engineer",
+    "salary": "$183,000 - $200,000 a year",
+    "skills": [
+      "TypeScript",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "AWS",
+      "Cloud infrastructure",
+      "Blockchain",
+      "APIs",
+      "Go",
+      "OCaml",
+      "Data analysis skills",
+      "Docker",
+      "AI",
+      "Python",
+      "Machine learning"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Zodiac Solutions",
+    "job title": "C/C++ Developer",
+    "salary": "0",
+    "skills": [
+      "Software troubleshooting",
+      "Multithreading",
+      "Financial services",
+      "Software architecture",
+      "C++",
+      "SDLC",
+      "C",
+      "Data structures",
+      "Analysis skills",
+      "OOP"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Berkeley Research Group, LLC",
+    "job title": "DevOps Cloud Engineer, HAP Tech",
+    "salary": "$130,000 - $175,000 a year",
+    "skills": [
+      "Kubernetes",
+      "Azure",
+      "Software deployment",
+      "DevOps",
+      "Go",
+      "Analysis skills",
+      "CI/CD",
+      "OOP",
+      "Ruby on Rails",
+      "Software troubleshooting",
+      "Computer networking",
+      "Release management",
+      "React",
+      "JavaScript"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "StationMD",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "PostgreSQL",
+      "SaaS",
+      "Ubuntu",
+      "AWS",
+      "NIST standards",
+      "MySQL",
+      "Linux",
+      "SDLC",
+      "OOP",
+      "Software troubleshooting",
+      "PHP",
+      "Operating systems",
+      "Waterfall",
+      "Python",
+      "JavaScript",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Barclays",
+    "job title": "Front Office Software Developer (AVP)",
+    "salary": "0",
+    "skills": [
+      "Business requirements",
+      "Continuous integration"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Referral program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

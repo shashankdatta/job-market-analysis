@@ -1,0 +1,415 @@
+[
+  {
+    "company name": "iLink Digital",
+    "job title": "DevOps Engineer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Kubernetes",
+      "DNS",
+      "Azure",
+      "Linux",
+      "IaaS",
+      "DevOps",
+      "Terraform",
+      "CI/CD",
+      "PaaS",
+      "MongoDB"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Combined Insurance",
+    "job title": "Senior Software Engineer",
+    "salary": "$101,000 - $172,000 a year",
+    "skills": [
+      "Software development",
+      "Microsoft SQL Server",
+      "C#",
+      "Computer science",
+      "Angular",
+      "APIs",
+      "Analysis skills",
+      "SSIS",
+      "Leadership",
+      "Software troubleshooting",
+      ".NET",
+      "Service-oriented architecture",
+      "Unit testing",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Life insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Intellilink Technologies",
+    "job title": "Java Developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Relational databases",
+      "Test-driven development",
+      "Spring",
+      "Project management",
+      "JSF",
+      "Databases",
+      "Java",
+      "Hibernate",
+      "Application development",
+      "Design patterns",
+      "Spring MVC"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ZTH Tech",
+    "job title": "Application Integration Engineer",
+    "salary": "0",
+    "skills": [],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Princeton University",
+    "job title": "Associate Director, Research Software Engineering",
+    "salary": "0",
+    "skills": [
+      "Research",
+      "Software development",
+      "C++",
+      "Project management",
+      "Leadership",
+      "R",
+      "MATLAB",
+      "Julia",
+      "Fortran",
+      "Python",
+      "C",
+      "AI",
+      "Research & development",
+      "Machine learning"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Verneek",
+    "job title": "Scala Software Engineer",
+    "salary": "$70,000 - $300,000 a year",
+    "skills": [
+      "PostgreSQL",
+      "Distributed systems",
+      "Software troubleshooting",
+      "Natural language processing",
+      "Scala",
+      "MySQL",
+      "Distributed computing",
+      "AI",
+      "MongoDB"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Commuter assistance",
+      "Dental insurance",
+      "Disability insurance",
+      "Green card sponsorship",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Visa sponsorship",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Rad Hires",
+    "job title": "Senior Data Software Engineer, Tech Lead - NYC",
+    "salary": "$215,000 - $245,000 a year",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "Tableau",
+      "Power BI",
+      "AWS",
+      "Spark",
+      "SDLC",
+      "DevOps",
+      "Django",
+      "APIs",
+      "GitLab",
+      "ETL",
+      "Analytics",
+      "Quality control",
+      "Python",
+      "Machine learning",
+      "Integration testing",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "Azure",
+      "Full-stack development",
+      "Analysis skills",
+      "CI/CD",
+      "OOP",
+      "Leadership",
+      "JSON",
+      "Data analysis skills",
+      "Jenkins",
+      "Data science",
+      "Data visualization",
+      "AI",
+      "React",
+      "Agile"
+    ],
+    "education": [
+      "Master's degree",
+      "Doctoral degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Prudential",
+    "job title": "Senior Platform Engineer-Salesforce Developer",
+    "salary": "$97,300 - $144,900 a year",
+    "skills": [
+      "XML",
+      "Node.js",
+      "Test-driven development",
+      "Encryption",
+      "Spring Boot",
+      "Computer science",
+      "DevOps",
+      "APIs",
+      "Java",
+      "REST",
+      "JSON",
+      "Financial sales",
+      "Sales",
+      "Design patterns",
+      "SSL",
+      "Python",
+      "React",
+      "Selenium",
+      "JavaScript",
+      "SoapUI",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Extendime",
+    "job title": "Software Developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Software troubleshooting",
+      "Pegasystems",
+      "Angular",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "The Fidelis Group",
+    "job title": "Software Developer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Java",
+      "UNIX",
+      "Control-M",
+      "Informatica",
+      "Unit testing",
+      "SDLC",
+      "Oracle",
+      "Python"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon.com Services LLC",
+    "job title": "Solutions Architect, Amazon Publisher Services",
+    "salary": "From $105,100 a year",
+    "skills": [
+      "HTML5",
+      "Ruby",
+      "WordPress",
+      "Computer science",
+      "Data structures",
+      "Computer networking",
+      "Martech",
+      "Analytics",
+      "PHP",
+      "Debugging",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Datadog",
+    "job title": "Manager I, Engineering - CSM, Threats Protection",
+    "salary": "$187,000 - $240,000 a year",
+    "skills": [
+      "Distributed systems",
+      "Java",
+      "Software development",
+      "Product management",
+      "Python",
+      "Go"
+    ],
+    "education": [],
+    "benefits": [
+      "Employee stock purchase plan",
+      "RSU"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Agma Systems",
+    "job title": "SENIOR SOFTWARE ENGINEER",
+    "salary": "0",
+    "skills": [
+      ".NET",
+      "C#",
+      "APIs"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Fiserv, Inc.",
+    "job title": "Lead Software Development Engineer",
+    "salary": "0",
+    "skills": [
+      "Integration testing",
+      "Git",
+      "Microsoft SQL Server",
+      "Spring",
+      "Spring Boot",
+      "JUnit",
+      "Full-stack development",
+      "MySQL",
+      "Oracle",
+      "APIs",
+      "Maven",
+      "Databases",
+      "Java",
+      "Jira",
+      "Confluence",
+      "SDKs",
+      "Design patterns",
+      "MVC",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ConnectOne Bank",
+    "job title": "Cloud Engineer",
+    "salary": "0",
+    "skills": [
+      "Cloud architecture",
+      "Kubernetes",
+      "AWS",
+      "Azure",
+      "Scripting",
+      "Cloud infrastructure",
+      "PowerShell",
+      "Computer science",
+      "Virtualization",
+      "DevOps",
+      "GitLab",
+      "CI/CD",
+      "Jenkins",
+      "Cloud computing",
+      "Docker",
+      "Python",
+      "IT",
+      "Shell Scripting",
+      "Terraform",
+      "Bash"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Benefits from day one",
+      "Dental insurance",
+      "Employee assistance program",
+      "Employee discount",
+      "Health insurance",
+      "Tuition reimbursement",
+      "Vision insurance",
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

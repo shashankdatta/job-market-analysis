@@ -1,0 +1,428 @@
+[
+  {
+    "company name": "Trinity Solar Careers",
+    "job title": "SQL Database Developer",
+    "salary": "$90,000 - $130,000 a year",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Microsoft SQL Server",
+      "Debugging",
+      "Computer science",
+      "T-SQL",
+      "SSIS"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Employee assistance program",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Paid training",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Sonoma Consulting Inc.",
+    "job title": "Jr. DevOps Engineer",
+    "salary": "0",
+    "skills": [
+      "GitHub",
+      "Git",
+      "Scripting",
+      "Chef",
+      "Ruby",
+      "SDLC",
+      "DevOps",
+      "Maven",
+      "Analysis skills",
+      "CI/CD",
+      "Responsive web design",
+      "Jenkins",
+      "IT",
+      "Python",
+      "Groovy",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Walmart",
+    "job title": "(USA) Director, Software Engineering - Commerce Technologies",
+    "salary": "$156,000 - $312,000 a year",
+    "skills": [
+      "Web accessibility",
+      "Leadership",
+      "SaaS",
+      "WCAG",
+      "Supervising experience",
+      "Lean",
+      "Systems engineering"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee stock purchase plan",
+      "Family leave",
+      "Health insurance",
+      "Life insurance",
+      "Military leave",
+      "Paid jury duty",
+      "Paid parental leave",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CONTRACT PHARMACAL CORP",
+    "job title": "Manager; Software Development",
+    "salary": "$100,000 - $150,000 a year",
+    "skills": [
+      "Software development",
+      "HTML5",
+      "Web design",
+      "Scripting",
+      "C++",
+      "Budgeting",
+      "Team management",
+      "Analysis skills",
+      "Leadership",
+      "Java",
+      "E-commerce",
+      "Web development",
+      "Python",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Santander US",
+    "job title": "Associate, Application Development Fixed Income/Cap Markets",
+    "salary": "$90,000 - $161,000 a year",
+    "skills": [
+      "SQL",
+      "Git",
+      "Software development",
+      "Test-driven development",
+      "AWS",
+      "Computer science",
+      "SDLC",
+      "Analysis skills",
+      "Java",
+      "Gradle",
+      "Kafka",
+      "Application development",
+      "S3",
+      "Waterfall",
+      "Bloomberg",
+      "IT",
+      "Groovy",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Hyqoo",
+    "job title": "Senior Python Developer",
+    "salary": "0",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "Relational databases",
+      "Git",
+      "Full-stack development",
+      "Databases",
+      "OOP",
+      "REST",
+      "Python",
+      "Pricing",
+      "React",
+      "JavaScript",
+      "Research & development",
+      "Agile",
+      "Banking"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "State Street",
+    "job title": "Application Development/Implementation Specialist, AVP",
+    "salary": "$110,000 - $177,500 a year",
+    "skills": [
+      "Performance tuning",
+      "Financial software",
+      "SQL",
+      "Product development",
+      "Microsoft SQL Server"
+    ],
+    "education": [],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Warner Bros. Discovery",
+    "job title": "Sr. Manager, Software Engineering Tools & Frameworks",
+    "salary": "$193,200 - $358,800 a year",
+    "skills": [
+      "GitHub",
+      "Tableau",
+      "Distributed systems",
+      "Git",
+      "C++",
+      "Elasticsearch",
+      "Spark",
+      "Computer science",
+      "Java",
+      "Analytics",
+      "Application development",
+      "Python",
+      "Data lake",
+      "PostgreSQL",
+      "Kubernetes",
+      "C#",
+      "Snowflake",
+      "CI/CD",
+      "Databases",
+      "Kafka",
+      "Docker",
+      "C",
+      "AI",
+      "Terraform"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Disability insurance",
+      "Health insurance",
+      "Retirement plan",
+      "Wellness program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Major League Baseball",
+    "job title": "Senior Software Engineer, Gaming & VR",
+    "salary": "$135,000 - $155,000 a year",
+    "skills": [
+      "Baseball",
+      "Leadership",
+      "C#",
+      "Debugging",
+      "Application development",
+      "Computer science",
+      "Unity",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Life insurance",
+      "Lunch & learns",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Rely Systems",
+    "job title": "Software Engineer – Powerbuilder",
+    "salary": "0",
+    "skills": [
+      "Debugging",
+      "PowerBuilder",
+      "Analysis skills"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NYC Careers",
+    "job title": "SENIOR ORACLE PL/SQL DEVELOPER",
+    "salary": "$75,000 - $122,000 a year",
+    "skills": [
+      "SQL",
+      "XML",
+      "UNIX",
+      "Database development",
+      "Encryption",
+      "Design thinking",
+      "Microsoft Windows Server",
+      "Oracle",
+      "APIs",
+      "ServiceNow",
+      "Leadership",
+      "Back-end development",
+      "Jira",
+      "Application development",
+      "PL/SQL",
+      "IT",
+      "Data visualization",
+      "POS",
+      "Agile"
+    ],
+    "education": [
+      "Associate's degree",
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Food provided"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Glow Networks",
+    "job title": "React engineer with PHP (Hybrid)",
+    "salary": "0",
+    "skills": [
+      "HTML5",
+      "PHP",
+      "Debugging",
+      "React",
+      "CSS",
+      "UI"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Tardus Inc",
+    "job title": "Apigee Developer",
+    "salary": "$50 - $55 an hour",
+    "skills": [
+      "Spring",
+      "Spring Boot",
+      "ASP.NET",
+      "Integration testing",
+      "Presentation skills",
+      "Microservices",
+      "AWS",
+      "SDLC",
+      "APIs",
+      "Maven",
+      "Java",
+      "Authentication",
+      "Scrum",
+      "Jenkins",
+      "SSL",
+      "LDAP",
+      "JavaScript",
+      "Agile",
+      "Quantitative analysis"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Bloomberg",
+    "job title": "Senior Software Integration Engineer - Bloomberg Broadway",
+    "salary": "$160,000 - $240,000 a year",
+    "skills": [
+      "SQL",
+      "Financial software",
+      "Business requirements",
+      "Distributed systems",
+      "C++",
+      "C#",
+      "Front desk",
+      "Computer science",
+      "Databases",
+      "OOP",
+      "Java",
+      "Systems engineering",
+      "Python",
+      "Bloomberg",
+      "C"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Cybertech",
+    "job title": "Angular UI Developer",
+    "salary": "$100,000 - $110,000 a year",
+    "skills": [
+      "HTML5",
+      "Angular",
+      "Front-end development",
+      "JavaScript",
+      "UI",
+      "AJAX",
+      "REST",
+      "CSS"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

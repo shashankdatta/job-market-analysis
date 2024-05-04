@@ -1,0 +1,402 @@
+[
+  {
+    "company name": "Morgan Stanley",
+    "job title": "VP - Java Developer",
+    "salary": "0",
+    "skills": [
+      "Java",
+      "Financial services",
+      "Python",
+      "OOP"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon.com Services LLC",
+    "job title": "Software Development Engineer II, Customer Instock Value (CIV)",
+    "salary": "From $115,000 a year",
+    "skills": [
+      "SQL",
+      "Apache Hive",
+      "Hadoop",
+      "Spark",
+      "Computer science",
+      "SDLC",
+      "Data structures",
+      "Data modeling",
+      "Service-oriented architecture",
+      "Big data",
+      "Design patterns",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Teledyne e2v Semiconductors",
+    "job title": "Software Engineer Co-Op",
+    "salary": "$41,800 - $55,880 a year",
+    "skills": [
+      "MATLAB",
+      "C++",
+      "Operating systems",
+      "Python",
+      "Test automation",
+      "Data structures",
+      "Analysis skills"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Realign LLC",
+    "job title": "CIAM Engineer",
+    "salary": "0",
+    "skills": [
+      "Network architecture",
+      "Authentication",
+      "Sailpoint",
+      "Computer science",
+      "Identity & access management",
+      "DevOps",
+      "Cybersecurity"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Clarapath",
+    "job title": "Senior Embedded Software Engineer",
+    "salary": "$110,000 - $150,000 a year",
+    "skills": [
+      "Git",
+      "Multithreading",
+      "C++",
+      "Ethernet",
+      "Software deployment",
+      "Linux",
+      "TCP",
+      "TCP/IP",
+      "CI/CD",
+      "Robotics",
+      "Python",
+      "C"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": [
+      "Development of software for a robotic system that automates pathology",
+      "Development of algorithms for controlling a multi-component mechatronic system based on software requirements",
+      "Writing of production level code that will be released onto marketable product",
+      "Development of real time, feedback control loops",
+      "Development of interfaces between mechanical and software components of the system (for example, motor controllers, cameras, and actuators)",
+      "Creation of simulation of robotic system for testing"
+    ]
+  },
+  {
+    "company name": "Google",
+    "job title": "Technical Program Manager III, Software Engineering, Google Meet",
+    "salary": "0",
+    "skills": [
+      "Program management",
+      "Release management",
+      "Negotiation",
+      "SDLC",
+      "Analysis skills"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Spruce Technology",
+    "job title": "Software Developer for Clifton, NJ",
+    "salary": "0",
+    "skills": [
+      "HTML5",
+      "MySQL",
+      "IT",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Ro",
+    "job title": "Senior Engineering Manager",
+    "salary": "From $221 an hour",
+    "skills": [
+      "Leadership",
+      "Microservices",
+      "HIPAA",
+      "Python",
+      "React",
+      "Analysis skills"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Flexible spending account",
+      "Health insurance",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Pet insurance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "JPMorgan Chase & Co",
+    "job title": "VP Product Manager New Payment Rails & Networks",
+    "salary": "$118,750 - $200,000 a year",
+    "skills": [
+      "Analysis skills",
+      "Banking"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Prime Consulting Inc",
+    "job title": "Network Design Engineer- IOT",
+    "salary": "$100,000 - $110,000 a year",
+    "skills": [
+      "Firmware",
+      "Software development",
+      "Azure",
+      "AWS",
+      "Software troubleshooting",
+      "C++",
+      "Internet of things",
+      "Java",
+      "Debugging",
+      "C",
+      "Python"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": [
+      "Design, implement and troubleshoot Internet of Things (IoT) solutions.",
+      "Collaborate with cross-functional teams to define IoT project requirements and specifications.",
+      "Integrate and onboard IoT devices onto the Network using DNA Center for seamless connectivity and ensuring optimal functionality.",
+      "Integrate sensors, actuators, and communication modules into IoT systems.",
+      "Implement security measures to safeguard IoT devices and data. Strong working experience with Cisco SD Access, DNA and VxLAN is must.",
+      "Troubleshoot and resolve issues related to IoT hardware and software components.",
+      "Conduct feasibility studies and evaluate the performance of various IoT solutions.",
+      "Collaborate with stakeholders to gather and analyze requirements for the projects.",
+      "Develop and execute network strategies using DNAC to isolate and secure IoT traffic.",
+      "Knowledge of designing networks that can efficiently scale to accommodate a future growth of IoT devices.",
+      "Document design specifications, system architecture, and troubleshooting procedures."
+    ]
+  },
+  {
+    "company name": "Avi & Co.",
+    "job title": "CRM/Salesforce Lead",
+    "salary": "$63,000 - $70,000 a year",
+    "skills": [
+      "Leadership",
+      "Salesforce",
+      "CRM software",
+      "Computer science"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Adswizz",
+    "job title": "Staff Data Software Engineer, Conditional Access",
+    "salary": "$95,800 - $180,000 a year",
+    "skills": [
+      "SQL",
+      "GitHub",
+      "Tableau",
+      "Git",
+      "TypeScript",
+      "Software development",
+      "Statistics",
+      "AWS",
+      "Elasticsearch",
+      "Kanban",
+      "Test automation",
+      "Java",
+      "Data mining",
+      "Experience design",
+      "Analytics",
+      "Cloud development",
+      "Scala",
+      "Application development",
+      "Unit testing",
+      "S3",
+      "T-SQL",
+      "Python",
+      "PostgreSQL",
+      "Relational databases",
+      "Apache Hive",
+      "Scripting",
+      "Linux",
+      "CI/CD",
+      "OOP",
+      "Data analysis skills",
+      "Big data",
+      "Data analytics",
+      "Shell Scripting",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Technology, Automation, and Management, Inc.",
+    "job title": "CIO/G6 - .NET Developer",
+    "salary": "0",
+    "skills": [
+      ".NET",
+      "SharePoint",
+      "SDLC"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Trepp",
+    "job title": "Senior Software Engineer – Data Group",
+    "salary": "From $165,000 a year",
+    "skills": [
+      "SQL",
+      "GitHub",
+      "Financial services",
+      "Software development",
+      "Google Cloud Platform",
+      "AWS",
+      "C++",
+      "Spark",
+      "SDLC",
+      "CI/CD",
+      "Java",
+      "REST",
+      "Scala",
+      "Application development",
+      "Python",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Caregiver leave",
+      "Commuter assistance",
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Pet insurance",
+      "Vision insurance",
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Velocity Tech Inc",
+    "job title": "Oracle DBA/Developer",
+    "salary": "$57.27 - $65.97 an hour",
+    "skills": [
+      "SQL",
+      "UNIX",
+      "Microsoft SQL Server",
+      "MySQL",
+      "Linux",
+      "SOX",
+      "Oracle HCM",
+      "Microsoft Windows Server",
+      "Oracle",
+      "DB2",
+      "Data structures",
+      "ArcGIS",
+      "Software troubleshooting",
+      "GIS",
+      "System design",
+      "PL/SQL",
+      "Load balancing",
+      "Database administration",
+      "Solaris",
+      "Shell Scripting",
+      "Windows"
+    ],
+    "education": [],
+    "benefits": [
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  }
+]

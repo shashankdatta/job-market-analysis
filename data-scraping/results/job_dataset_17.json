@@ -1,0 +1,416 @@
+[
+  {
+    "company name": "adMarketplace",
+    "job title": "Staff Software Engineer, Java",
+    "salary": "$190,000 - $240,000 a year",
+    "skills": [
+      "Distributed systems",
+      "AWS",
+      "Spring",
+      "Spring Boot",
+      "SDLC",
+      "CI/CD",
+      "Java",
+      "RabbitMQ",
+      "Martech",
+      "Software architecture",
+      "Kafka",
+      "Design patterns",
+      "Redis"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Commuter assistance",
+      "Continuing education credits",
+      "Happy hour",
+      "Lunch & learns",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon Web Services, Inc.",
+    "job title": "Frontend Engineer, AWS Commerce Platform",
+    "salary": "From $115,000 a year",
+    "skills": [
+      "TypeScript",
+      "Software development",
+      "AWS",
+      "HTML5",
+      "SDLC",
+      "Java",
+      "Unit testing",
+      "S3",
+      "Python",
+      "Pricing",
+      "JavaScript",
+      "CSS",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "Flexible schedule",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Citi",
+    "job title": "Security Software Engineer- VP (Hybrid)",
+    "salary": "$142,320 - $213,480 a year",
+    "skills": [
+      "Git",
+      "Microservices",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "AWS",
+      "Azure",
+      "Cloud infrastructure",
+      "Linux",
+      "SDLC",
+      "DevOps",
+      "Go",
+      "CI/CD",
+      "Java",
+      "REST",
+      "Jenkins",
+      "Python",
+      "Terraform",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Intone Networks",
+    "job title": "Senior C/C++ Developer",
+    "salary": "0",
+    "skills": [
+      "C++",
+      "C",
+      "Python",
+      "Perl"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "iCapital",
+    "job title": "Blockchain, Back End Engineer - Vice President",
+    "salary": "$160,000 - $210,000 a year",
+    "skills": [
+      "Leadership",
+      "Relational databases",
+      "SaaS",
+      "AWS",
+      "Encryption",
+      "Blockchain",
+      "SDLC",
+      "Python",
+      "APIs"
+    ],
+    "education": [],
+    "benefits": [
+      "Dental insurance",
+      "Paid time off",
+      "Parental leave",
+      "Retirement plan",
+      "Unlimited paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Google",
+    "job title": "Software Engineer III, Infrastructure, Google Assistant",
+    "salary": "0",
+    "skills": [
+      "Distributed systems",
+      "Software development",
+      "Natural language processing",
+      "Computer science",
+      "Data structures",
+      "Data analysis skills",
+      "Debugging",
+      "Distributed computing",
+      "AI"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Arch Capital Group Ltd.",
+    "job title": "Lead Software Engineer - Hybrid, White Plains Preferred, Open to Remote (EST)",
+    "salary": "$135,000 - $175,000 a year",
+    "skills": [
+      "GitHub",
+      "Software development",
+      "Microservices",
+      "GraphQL",
+      "APIs",
+      "Problem management",
+      "Application development",
+      "UI development",
+      "Scalability",
+      "Microsoft SQL Server",
+      "C#",
+      "CI/CD",
+      "SOAP",
+      "Software troubleshooting",
+      ".NET",
+      "Authentication",
+      "REST",
+      "Jira",
+      "Database design",
+      "Cloud computing",
+      "React",
+      "JavaScript",
+      "Agile",
+      "UI design"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Parabit Systems",
+    "job title": "Senior Firmware Engineer",
+    "salary": "$115,000 - $145,000 a year",
+    "skills": [
+      "Network protocols",
+      "Firmware",
+      "Computer networking",
+      "System design",
+      "Schematics",
+      "Internet of things",
+      "Debugging",
+      "TCP",
+      "TCP/IP"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon Web Services, Inc.",
+    "job title": "Senior Software Dev Engineer, AWS Marketplace",
+    "salary": "From $134,500 a year",
+    "skills": [
+      "Leadership",
+      "Software development",
+      "AWS",
+      "Computer science",
+      "SDLC",
+      "Design patterns",
+      "Mentoring",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Flexible schedule",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "S&P Global",
+    "job title": "UI Developer with .Net",
+    "salary": "$58,300 - $115,850 a year",
+    "skills": [
+      "Software development",
+      "ADO.NET",
+      "Software implementation",
+      "AWS",
+      "HTML5",
+      "Microsoft SQL Server",
+      "C#",
+      "Computer science",
+      "SSRS",
+      "Angular",
+      "Analysis skills",
+      ".NET",
+      ".NET Core",
+      "jQuery",
+      "MVC",
+      "React",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Continuing education credits",
+      "Health insurance",
+      "Referral program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Wells Fargo",
+    "job title": "Lead Specialty Software Engineer",
+    "salary": "0",
+    "skills": [
+      "NoSQL",
+      "GitHub",
+      "Relational databases",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "Azure",
+      "SDLC",
+      "DevOps",
+      "OOP",
+      "Java",
+      "Jira",
+      "Confluence",
+      "Analytics",
+      "Jenkins",
+      "Kafka",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Caregiver leave",
+      "Commuter assistance",
+      "Dependent care reimbursement",
+      "Health insurance",
+      "Paid time off",
+      "Parental leave",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Little Ruby's Cafe",
+    "job title": "Sous Chef - Little Ruby's Cafe",
+    "salary": "From $65,000 a year",
+    "skills": [
+      "Kitchen management",
+      "Leadership",
+      "Kitchen experience",
+      "Financial acumen",
+      "Ruby"
+    ],
+    "education": [],
+    "benefits": [
+      "Dental insurance",
+      "Employee assistance program",
+      "Employee discount",
+      "Food provided",
+      "Health insurance",
+      "Paid time off",
+      "Referral program",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "MongoDB",
+    "job title": "Staff Software Engineer, Atlas Serverless",
+    "salary": "$137,000 - $260,000 a year",
+    "skills": [
+      "Performance tuning",
+      "Distributed systems",
+      "TypeScript",
+      "Google Cloud Platform",
+      "AWS",
+      "C++",
+      "C#",
+      "Encryption",
+      "Go",
+      "PaaS",
+      "MongoDB",
+      "Java",
+      "Debugging",
+      "Load balancing",
+      "Mentoring",
+      "JavaScript"
+    ],
+    "education": [],
+    "benefits": [
+      "Parental leave"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Tishman Speyer",
+    "job title": "Senior Data & Software Engineer",
+    "salary": "$140,000 - $160,000 a year",
+    "skills": [
+      "SQL",
+      "GitHub",
+      "Azure",
+      "Docker",
+      "Python",
+      "DevOps",
+      "Agile",
+      "Team development"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Activate Games",
+    "job title": "Game Facilitator at Activate Games",
+    "salary": "0",
+    "skills": [
+      "Construction painting"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

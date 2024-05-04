@@ -1,0 +1,449 @@
+[
+  {
+    "company name": "Veterinary Emergency Group (VEG)",
+    "job title": "IT SaaS Engineer",
+    "salary": "$80,000 - $90,000 a year",
+    "skills": [
+      "Conflict management",
+      "Intune",
+      "JSON",
+      "PowerShell",
+      "Python"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Benefits from day one",
+      "Cell phone reimbursement",
+      "Dental insurance",
+      "Health insurance",
+      "Parental leave",
+      "Unlimited paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Ogury",
+    "job title": "Principal Software Engineer, UI",
+    "salary": "$175,000 - $220,000 a year",
+    "skills": [
+      "Leadership",
+      "Node.js",
+      "SaaS",
+      "B2B",
+      "UI development",
+      "React",
+      "APIs"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Life insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Communication Experts",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "AJAX",
+      "Apache",
+      "C++",
+      "Spring",
+      "JBoss",
+      "Linux",
+      "Oracle",
+      "Maven",
+      "Visual Basic",
+      "Java",
+      "Hibernate",
+      "Tomcat",
+      "Struts"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "dYdX",
+    "job title": "Staff Web Engineer",
+    "salary": "$230,000 - $305,000 a year",
+    "skills": [
+      "Mentoring"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NBCUniversal",
+    "job title": "Principal Software Engineer",
+    "salary": "0",
+    "skills": [
+      "Distributed systems",
+      "Software development",
+      "Computer science",
+      "DevOps",
+      "APIs",
+      "React",
+      "JavaScript",
+      "Vue.js"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Triunity Software",
+    "job title": "Senior Java Developer",
+    "salary": "$40 an hour",
+    "skills": [
+      "Java",
+      "Spring",
+      "Computer science",
+      "Spring MVC",
+      "JSF",
+      "OOP"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Alpha Clinical Systems",
+    "job title": "SOFTWARE ENGINEERS",
+    "salary": "0",
+    "skills": [
+      "Hadoop",
+      "Elasticsearch",
+      "Kafka",
+      "Spark",
+      "Scala",
+      "Python"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Apple",
+    "job title": "AIML - Machine Learning Engineer, Foundation Models",
+    "salary": "$199,800 - $364,100 a year",
+    "skills": [
+      "PyTorch",
+      "Distributed systems",
+      "Natural language processing",
+      "TensorFlow",
+      "Computer science",
+      "Python",
+      "Deep learning",
+      "Machine learning"
+    ],
+    "education": [
+      "Doctoral degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Employee stock purchase plan",
+      "Health insurance",
+      "RSU",
+      "Retirement plan"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "adMarketplace",
+    "job title": "Senior Front End Engineer - Consumer Tech and Gen AI",
+    "salary": "$170,000 - $220,000 a year",
+    "skills": [
+      "TypeScript",
+      "Software development",
+      "GraphQL",
+      "AWS",
+      "HTML5",
+      "Computer science",
+      "APIs",
+      "Back-end development",
+      "React Native",
+      "Front-end development",
+      "S3",
+      "Business requirements",
+      "CI/CD",
+      "JSON",
+      "E-commerce",
+      "Docker",
+      "Jest",
+      "AI",
+      "React",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Commuter assistance",
+      "Continuing education credits",
+      "Happy hour",
+      "Lunch & learns",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Nova Credit",
+    "job title": "Senior Software Engineer - Cash flow Platform",
+    "salary": "$193,500 - $236,500 a year",
+    "skills": [
+      "SQL",
+      "Distributed systems",
+      "NumPy",
+      "Flask",
+      "Hadoop",
+      "AWS",
+      "Software testing",
+      "Spark",
+      "Pandas",
+      "Yardi",
+      "Django",
+      "Databases",
+      "SciPy",
+      "Python",
+      "C",
+      "Distributed computing",
+      "Data lake",
+      "Banking"
+    ],
+    "education": [],
+    "benefits": [
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Spruce",
+    "job title": "Full Stack .Net Developer",
+    "salary": "$75 - $80 an hour",
+    "skills": [
+      "SQL",
+      "XML",
+      "HTML5",
+      "TFS",
+      "Computer science",
+      "APIs",
+      "DevOps",
+      "Kendo",
+      "Entity Framework",
+      ".NET Core",
+      "Unit testing",
+      "ASP.NET",
+      "Relational databases",
+      "ADO.NET",
+      "Azure",
+      "Microsoft SQL Server",
+      "C#",
+      "Angular",
+      "Oracle",
+      "OOP",
+      "SOAP",
+      ".NET",
+      "Authentication",
+      "REST",
+      "JSON",
+      "B2C",
+      "Cloud computing",
+      "Telerik",
+      "C",
+      "MVC",
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Employee discount",
+      "Life insurance",
+      "Referral program"
+    ],
+    "experience": [],
+    "responsibilities": [
+      "Collaborate with business stakeholders to understand requirements and translate them into technical specifications.",
+      "Design, develop, test, and deploy full-stack scalable solutions using Microsoft technology stack, including ASP.NET, MVC 5, C#, SQL Server, and related frameworks.",
+      "Work closely with cross-functional teams to integrate applications with existing systems and third-party services.",
+      "Participate in code reviews and provide constructive feedback to ensure code quality and adherence to coding standards.",
+      "Contribute to applications Design and Architecture efforts.",
+      "Create and maintain technical documentation, including system designs, architecture diagrams, and code documentation.",
+      "Analyze and troubleshoot complex technical issues, providing timely resolution and recommendations for improvement.",
+      "Create and maintain technical documentation, including system designs, architecture diagrams, and code documentation.",
+      "Stay updated on emerging technologies and industry trends, proposing innovative solutions to enhance our applications and architecture.",
+      "Work with technical project managers and application directors to ensure that business expectations are met and that project schedules are adhered to.",
+      "Use SCA tools to report activities and update project status as required."
+    ]
+  },
+  {
+    "company name": "Walmart",
+    "job title": "(USA) Staff, Software Engineer",
+    "salary": "$132,000 - $264,000 a year",
+    "skills": [
+      "NoSQL",
+      "Distributed systems",
+      "Elasticsearch",
+      "Spark",
+      "Web accessibility",
+      "Solr",
+      "Java",
+      "Unit testing",
+      "Python",
+      "Redis",
+      "Machine learning",
+      "Search engines",
+      "Kubernetes",
+      "Project management",
+      "Lucene",
+      "Product management",
+      "Data structures",
+      "Analysis skills",
+      "OOP",
+      "WCAG",
+      "Kafka",
+      "Systems engineering",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee stock purchase plan",
+      "Family leave",
+      "Health insurance",
+      "Life insurance",
+      "Military leave",
+      "Paid jury duty",
+      "Paid parental leave",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "IT Ideology",
+    "job title": "Software Engineer",
+    "salary": "0",
+    "skills": [
+      "IT"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ProIT Inc.",
+    "job title": "Azure Cloud Engineer (FULL TIME)",
+    "salary": "$111,381.99 - $130,137.45 a year",
+    "skills": [
+      "Git",
+      "Continuous integration",
+      "Test-driven development",
+      "Kubernetes",
+      "AWS",
+      "Azure",
+      "Scripting",
+      "Cloud infrastructure",
+      "Linux",
+      "Kanban",
+      "APIs",
+      "Go",
+      "Leadership",
+      "Java",
+      "Jenkins",
+      "Debugging",
+      "Cloud computing",
+      "Python",
+      "Shell Scripting",
+      "Terraform",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Health insurance",
+      "Health savings account",
+      "Life insurance",
+      "Retirement plan",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "JPM Global",
+    "job title": "Web HTML/CSS/JavaScript Web Master / Coder",
+    "salary": "0",
+    "skills": [
+      "AJAX",
+      "Web design",
+      "HTML5",
+      "JavaScript",
+      "Adobe Photoshop",
+      "UI",
+      "CSS",
+      "Adobe Illustrator"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

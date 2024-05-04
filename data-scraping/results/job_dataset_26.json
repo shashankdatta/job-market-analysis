@@ -1,0 +1,477 @@
+[
+  {
+    "company name": "Trepp",
+    "job title": "Senior Software Engineer – Data Group",
+    "salary": "From $165,000 a year",
+    "skills": [
+      "SQL",
+      "GitHub",
+      "Financial services",
+      "Software development",
+      "Google Cloud Platform",
+      "AWS",
+      "C++",
+      "Spark",
+      "SDLC",
+      "CI/CD",
+      "Java",
+      "REST",
+      "Scala",
+      "Application development",
+      "Python",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Caregiver leave",
+      "Commuter assistance",
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Pet insurance",
+      "Vision insurance",
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Velocity Tech Inc",
+    "job title": "Oracle DBA/Developer",
+    "salary": "$57.27 - $65.97 an hour",
+    "skills": [
+      "SQL",
+      "UNIX",
+      "Microsoft SQL Server",
+      "MySQL",
+      "Linux",
+      "SOX",
+      "Oracle HCM",
+      "Microsoft Windows Server",
+      "Oracle",
+      "DB2",
+      "Data structures",
+      "ArcGIS",
+      "Software troubleshooting",
+      "GIS",
+      "System design",
+      "PL/SQL",
+      "Load balancing",
+      "Database administration",
+      "Solaris",
+      "Shell Scripting",
+      "Windows"
+    ],
+    "education": [],
+    "benefits": [
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Snapchat",
+    "job title": "Principal Software Engineer",
+    "salary": "$208,000 - $311,000 a year",
+    "skills": [
+      "Distributed systems",
+      "Java",
+      "C++",
+      "System design",
+      "Application development",
+      "Computer science",
+      "C",
+      "AI",
+      "Mobile applications",
+      "Go",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Paid parental leave",
+      "Parental leave",
+      "RSU"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Walmart",
+    "job title": "(USA) Director, Software Engineering - Commerce Technologies",
+    "salary": "$156,000 - $312,000 a year",
+    "skills": [
+      "Web accessibility",
+      "Leadership",
+      "SaaS",
+      "WCAG",
+      "Supervising experience",
+      "Lean",
+      "Systems engineering"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee stock purchase plan",
+      "Family leave",
+      "Health insurance",
+      "Life insurance",
+      "Military leave",
+      "Paid jury duty",
+      "Paid parental leave",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Walmart",
+    "job title": "(USA) Senior, Software Engineer",
+    "salary": "$90,000 - $180,000 a year",
+    "skills": [
+      "SQL",
+      "Node.js",
+      "Spring",
+      "Computer science",
+      "SDLC",
+      "Analysis skills",
+      "Web accessibility",
+      "Java",
+      "WCAG",
+      "Systems engineering",
+      "React"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee stock purchase plan",
+      "Family leave",
+      "Health insurance",
+      "Life insurance",
+      "Military leave",
+      "Paid jury duty",
+      "Paid parental leave",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "AbbVie",
+    "job title": "Engineer, Automation I",
+    "salary": "0",
+    "skills": [
+      "Software testing",
+      "Visio",
+      "Computer science",
+      "Databases",
+      "Software troubleshooting",
+      "Robotics",
+      "System design",
+      "Cloud computing",
+      "Statistical analysis",
+      "Robot programming",
+      "AI",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Société Générale",
+    "job title": "Senior Programmer Analyst (Exotic Pricing Applications)- H/F/X",
+    "salary": "$169,229 - $200,000 a year",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "Relational databases",
+      "Microservices",
+      "C#",
+      "Full-stack development",
+      "APIs",
+      "Databases",
+      "Python",
+      "Pricing",
+      "React",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Intercontinental Exchange Holdings, Inc.",
+    "job title": "Lead Cloud Engineer",
+    "salary": "$145,000 - $175,000 a year",
+    "skills": [
+      "Git",
+      "Continuous integration",
+      "Google Cloud Platform",
+      "AWS",
+      "Scripting",
+      "Chef",
+      "Cloud infrastructure",
+      "Software deployment",
+      "Splunk",
+      "Linux",
+      "DevOps",
+      "ETL",
+      "Docker",
+      "Puppet",
+      "Python",
+      "Shell Scripting",
+      "Terraform",
+      "Bash",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "UBS",
+    "job title": "Software Engineer- Core Java and Oracle PL/SQL",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "PostgreSQL",
+      "Java",
+      "Financial services",
+      "UNIX",
+      "Microservices",
+      "Azure",
+      "Database design",
+      "PL/SQL",
+      "Oracle",
+      "OOP"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NYC Careers",
+    "job title": ".NET Developer, Bureau of Application Development and Database Administration",
+    "salary": "$75,000 - $117,761 a year",
+    "skills": [
+      "IT service management",
+      "SQL",
+      "ASP.NET",
+      "Business requirements",
+      "Relational databases",
+      "ADO.NET",
+      "Microsoft SQL Server",
+      "C#",
+      "TFS",
+      "Xamarin",
+      "SSIS",
+      ".NET",
+      "ASP.NET Core",
+      "Database design",
+      "Database administration",
+      "IT",
+      "Public health",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Loan forgiveness",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Broadcom",
+    "job title": "Mainframe Software Engineer 4",
+    "salary": "$91,200 - $152,000 a year",
+    "skills": [
+      "UNIX",
+      "Spring",
+      "Linux",
+      "TCP",
+      "TCP/IP",
+      "Leadership",
+      "Java",
+      "ISPF",
+      "Mainframe development"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Employee assistance program",
+      "Employee stock purchase plan",
+      "Family leave",
+      "Health insurance",
+      "Paid sick time",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NMG Technology Services",
+    "job title": "Oracle Business Intelligence Developer",
+    "salary": "$34.76 - $41.87 an hour",
+    "skills": [
+      "OBIEE",
+      "Oracle",
+      "Data visualization",
+      "Requirements management",
+      "Data modeling",
+      "Analytics",
+      "Scrum"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": [
+      "Design, develop, and maintain OBIEE reporting and repository layers."
+    ]
+  },
+  {
+    "company name": "NYC Careers",
+    "job title": "Systems Developer",
+    "salary": "$75,000 - $160,000 a year",
+    "skills": [
+      "SQL",
+      "XML",
+      "AJAX",
+      "Git",
+      "Continuous integration",
+      "Multithreading",
+      "J2EE",
+      "HTML5",
+      "TFS",
+      "SDLC",
+      "DevOps",
+      "Mobile applications",
+      "Xpath",
+      "Java",
+      "Hibernate",
+      "Tomcat",
+      "Weblogic",
+      "Unit testing",
+      "PL/SQL",
+      "Design patterns",
+      "Kubernetes",
+      "Azure",
+      "Microsoft SQL Server",
+      "Spring",
+      "JUnit",
+      "Software deployment",
+      "Angular",
+      "Oracle",
+      "Analysis skills",
+      "Solarwinds",
+      "Eclipse",
+      "Data visualization",
+      "JavaScript",
+      "CSS",
+      "Agile",
+      "Struts",
+      "Web services"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Associate's degree"
+    ],
+    "benefits": [
+      "Loan forgiveness"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon Advertising LLC",
+    "job title": "Software Dev. Engineer II, Audio + Podcast Ads",
+    "salary": "From $115,000 a year",
+    "skills": [
+      "Computer science",
+      "SDLC",
+      "Design patterns"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Softnet Consulting",
+    "job title": "Software Developer",
+    "salary": "0",
+    "skills": [
+      "SDLC"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

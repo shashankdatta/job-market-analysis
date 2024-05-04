@@ -1,0 +1,492 @@
+[
+  {
+    "company name": "UBS",
+    "job title": "Data Platform DevOps Engineer",
+    "salary": "0",
+    "skills": [
+      "Financial services",
+      "SRE",
+      "Spark",
+      "Computer science",
+      "SDLC",
+      "Kanban",
+      "DevOps",
+      "GitLab",
+      "Java",
+      "Scala",
+      "Python",
+      "PostgreSQL",
+      "Kubernetes",
+      "Azure",
+      "CI/CD",
+      "Azure Data Lake",
+      "Leadership",
+      "AI",
+      "Model deployment",
+      "Terraform",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon.com Services LLC",
+    "job title": "Principal Technical Program Manager, Amazon",
+    "salary": "From $141,600 a year",
+    "skills": [
+      "Software development",
+      "Project management",
+      "Program management",
+      "Product management"
+    ],
+    "education": [],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Springer Nature",
+    "job title": "Director, DevOps, Scientific American",
+    "salary": "$170,000 - $210,000 a year",
+    "skills": [
+      "NoSQL",
+      "GitHub",
+      "PostgreSQL",
+      "Continuous integration",
+      "Node.js",
+      "AWS",
+      "Computer science",
+      "DevOps",
+      "APIs",
+      "Leadership",
+      "Data science",
+      "Python"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee assistance program",
+      "Employee discount",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Pet insurance",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": [
+      "Provide leadership to a team of DevOps and site reliability engineers.",
+      "Be responsible for site uptime, performance, and security.",
+      "Define and implement best security practices, including collaborating with corporate compliance and security.",
+      "Be an ongoing link between our frontend developers, data engineers, and data analysts to ensure best practices for Dataops and data compliance.",
+      "Document operating processes, configurations, and incident responses.",
+      "Manage outage/incident response including defining responsibilities incorporating other team members.",
+      "Contribute to the definition of reliability and performance metrics for technology products and work to contribute solutions for meeting/improving on those KPIs.",
+      "Evaluate new tools and techniques as needed and keep up with latest industry trends on an ongoing basis.",
+      "Be a teacher and a mentor for the entire SciAm engineering organization.",
+      "Additional responsibilities as needed."
+    ]
+  },
+  {
+    "company name": "Rockstar Games",
+    "job title": "Senior Animation R&D Programmer: GPU",
+    "salary": "$119,200 - $161,800 a year",
+    "skills": [
+      "Character animation",
+      "C++",
+      "Computer science"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "UBS",
+    "job title": "Full Stack Engineer (Java, Scala)",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "PostgreSQL",
+      "Cloud architecture",
+      "Test-driven development",
+      "Microservices",
+      "Kubernetes",
+      "Azure",
+      "Spring",
+      "Spark",
+      "Spring Boot",
+      "Full-stack development",
+      "DevOps",
+      "Analysis skills",
+      "Azure Data Lake",
+      "Java",
+      "Scala",
+      "Big data",
+      "Risk management",
+      "Python",
+      "UI development",
+      "React",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "JSR Tech Consulting",
+    "job title": "Lead Software Engineer",
+    "salary": "0",
+    "skills": [
+      "NoSQL",
+      "GitHub",
+      "XML",
+      "Distributed systems",
+      "Multithreading",
+      "AWS",
+      "Encryption",
+      "MySQL",
+      "Computer science",
+      "SDLC",
+      "DevOps",
+      "APIs",
+      "Maven",
+      "Java",
+      "Service-oriented architecture",
+      "SVN",
+      "Design patterns",
+      "SSL",
+      "Python",
+      "Node.js",
+      "Test-driven development",
+      "Spring",
+      "Spring Boot",
+      "JUnit",
+      "Design thinking",
+      "Angular",
+      "Data structures",
+      "MongoDB",
+      "OOP",
+      "SOAP",
+      "REST",
+      "JSON",
+      "Jenkins",
+      "Kafka",
+      "JDBC",
+      "React",
+      "JavaScript",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Morgan Stanley",
+    "job title": "Technology- Senior Java Developer- Non-Financial Risk- Vice President",
+    "salary": "0",
+    "skills": [
+      "NoSQL",
+      "SQL",
+      "Kubernetes",
+      "Microservices",
+      "HTML5",
+      "Angular",
+      "DevOps",
+      "Analysis skills",
+      "CI/CD",
+      "Databases",
+      "Leadership",
+      "Java",
+      "Docker",
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Walmart",
+    "job title": "(USA) Principal, Software Engineer",
+    "salary": "$132,000 - $264,000 a year",
+    "skills": [
+      "Distributed systems",
+      "Elasticsearch",
+      "SDLC",
+      "DevOps",
+      "Web accessibility",
+      "Java",
+      "Operating systems",
+      "Design patterns",
+      "Python",
+      "PostgreSQL",
+      "Business requirements",
+      "Test cases",
+      "Kubernetes",
+      "Spring",
+      "C#",
+      "Spring Boot",
+      "Full-stack development",
+      "CI/CD",
+      ".NET",
+      "REST",
+      "Jira",
+      "PCI",
+      "WCAG",
+      "Software architecture",
+      "Kafka",
+      "Docker",
+      "Systems engineering",
+      "Data science",
+      "JavaScript",
+      "React",
+      "Selenium"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee stock purchase plan",
+      "Family leave",
+      "Health insurance",
+      "Life insurance",
+      "Military leave",
+      "Paid jury duty",
+      "Paid parental leave",
+      "Paid sick time",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "NYU Langone",
+    "job title": "Senior Bioinformatics Programmer",
+    "salary": "$89,000 - $115,000 a year",
+    "skills": [
+      "GitHub",
+      "Software development",
+      "UNIX",
+      "Linux",
+      "Computer science",
+      "MDS",
+      "Django",
+      "Data structures",
+      "Analysis skills",
+      "R",
+      "Quality control",
+      "Docker",
+      "Python",
+      "Machine learning"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [
+      "Opportunities for advancement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Invonto",
+    "job title": "Full-Stack ASP.NET Developer (hybrid)",
+    "salary": "$65,000 - $90,000 a year",
+    "skills": [
+      "ASP.NET",
+      "AWS",
+      "HTML5",
+      "Microsoft SQL Server",
+      "Full-stack development",
+      "Angular",
+      "Entity Framework",
+      "REST",
+      "ASP.NET Core",
+      ".NET Core",
+      "Bootstrap",
+      "S3",
+      "MVC",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "ADP",
+    "job title": "Lead Machine Learning Engineer",
+    "salary": "0",
+    "skills": [
+      "Kubernetes",
+      "Natural language processing",
+      "TensorFlow",
+      "Keras",
+      "DevOps",
+      "APIs",
+      "Deep learning",
+      "OOP",
+      "Docker",
+      "Matplotlib",
+      "Python",
+      "ADP",
+      "AI",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Vision insurance",
+      "Volunteer time off",
+      "Wellness program"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Traba",
+    "job title": "Senior Software Engineer (Frontend)",
+    "salary": "$160,000 - $200,000 a year",
+    "skills": [
+      "TypeScript",
+      "Responsive web design",
+      "React Native",
+      "Design patterns",
+      "APIs",
+      "React",
+      "JavaScript",
+      "Machine learning"
+    ],
+    "education": [],
+    "benefits": [
+      "Commuter assistance",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "PENTAX Medical",
+    "job title": "Senior Embedded Software Engineer",
+    "salary": "0",
+    "skills": [
+      "Microsoft Project",
+      "C++",
+      "C"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Cloud and Things Inc",
+    "job title": "Drupal Architect",
+    "salary": "$100,000 - $120,000 a year",
+    "skills": [
+      "AJAX",
+      "AWS",
+      "HTML5",
+      "C++",
+      "MySQL",
+      "APIs",
+      "IIS",
+      "Java",
+      "Data modeling",
+      "Application development",
+      "Drupal",
+      "ASP.NET",
+      "Node.js",
+      "Apache",
+      "Angular",
+      "UX",
+      "OOP",
+      "Software architecture",
+      "Bootstrap",
+      "PHP",
+      "SEO",
+      "C",
+      "JavaScript",
+      "CSS",
+      "Social media management",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": [
+      "Yearly pay"
+    ]
+  },
+  {
+    "company name": "iLink Digital",
+    "job title": "DevOps Engineer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Kubernetes",
+      "DNS",
+      "Azure",
+      "Linux",
+      "IaaS",
+      "DevOps",
+      "Terraform",
+      "CI/CD",
+      "PaaS",
+      "MongoDB"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

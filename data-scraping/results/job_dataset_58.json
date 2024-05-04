@@ -1,0 +1,426 @@
+[
+  {
+    "company name": "Grayscale Investments",
+    "job title": "Quant Developer, Digital Assets",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Rust",
+      "AWS",
+      "Analytics",
+      "Full-stack development",
+      "Snowflake",
+      "Python",
+      "JavaScript",
+      "Go"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "IntegriChain",
+    "job title": "Manager, Gross-to-Net",
+    "salary": "0",
+    "skills": [
+      "Account reconciliation",
+      "Accounting",
+      "GAAP",
+      "Analysis skills"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Triunity Software",
+    "job title": "Senior Mainframe COBOL Developer",
+    "salary": "$100,000 - $120,000 a year",
+    "skills": [
+      "XML",
+      "AWS",
+      "Pegasystems",
+      "Computer science",
+      "Cassandra",
+      "CICS",
+      "DB2",
+      "Data structures",
+      "Analysis skills",
+      "COBOL",
+      "Java",
+      "JSON",
+      "Jira",
+      "System design",
+      "Mainframe development",
+      "FileAid"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Work from home"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Everest Re Group, Ltd.",
+    "job title": "Senior DevOps Engineer",
+    "salary": "0",
+    "skills": [
+      "GitHub",
+      "Kubernetes",
+      "Google Cloud Platform",
+      "Azure",
+      "AWS",
+      "Scripting",
+      "Computer science",
+      "Ansible",
+      "DevOps",
+      "Analysis skills",
+      "CI/CD",
+      "Computer networking",
+      "Scrum",
+      "Docker",
+      "IT",
+      "Terraform",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Continuing education credits"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Delta Dental of NJ",
+    "job title": "Senior DevOps Engineer - HYBRID",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "GitHub",
+      "Git",
+      "Kanban",
+      "TCP",
+      "DevOps",
+      "APIs",
+      "TCP/IP",
+      "HTTPS",
+      "Cloud architecture",
+      "Google Cloud Platform",
+      "Azure",
+      "Project management",
+      "Software deployment",
+      "Analysis skills",
+      "CI/CD",
+      "Network protocols",
+      "Computer networking",
+      "DNS",
+      "Load balancing",
+      "IT",
+      "Terraform"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Benjamin Moore & Co",
+    "job title": "Technology Automation Engineer",
+    "salary": "0",
+    "skills": [
+      "PyTorch",
+      "Machine learning frameworks",
+      "AWS",
+      "SDLC",
+      "Python",
+      "Machine learning",
+      "Business requirements",
+      "Node.js",
+      "Google Cloud Platform",
+      "Natural language processing",
+      "TensorFlow",
+      "Azure",
+      "C#",
+      "Angular",
+      "OOP",
+      "Leadership",
+      "Cloud computing",
+      "Release management",
+      "AI",
+      "React",
+      "JavaScript"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Continuing education credits",
+      "Loan assistance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "PRO IT",
+    "job title": "ODM Developer",
+    "salary": "$67,879.00 - $81,746.75 a year",
+    "skills": [
+      "XML",
+      "XSLT",
+      "Java",
+      "WebSphere",
+      "Web design",
+      "Application development",
+      "Maven",
+      "Website maintenance"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Universal Technical Resource Services, Inc.",
+    "job title": "Senior Software Developer",
+    "salary": "0",
+    "skills": [
+      "Debugging",
+      "Process engineering",
+      "Agile"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Katalyst Healthcares & Life Sciences",
+    "job title": "Principal Statistical Programmer",
+    "salary": "0",
+    "skills": [
+      "XML",
+      "Data manipulation",
+      "Clinical trials",
+      "SAS"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Resideo",
+    "job title": "Sr Embedded Linux Engineer",
+    "salary": "$135,999 - $236,601 a year",
+    "skills": [
+      "Git",
+      "Encryption",
+      "Schematics",
+      "Linux",
+      "CI/CD",
+      "IP networking",
+      "Jira",
+      "Confluence",
+      "Debugging",
+      "Bamboo",
+      "OS Kernels",
+      "Zigbee",
+      "Python",
+      "Shell Scripting",
+      "Bash",
+      "Cybersecurity"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Modus Closing",
+    "job title": "Senior Android Engineer",
+    "salary": "$110,800 - $166,100 a year",
+    "skills": [
+      "Kotlin",
+      "Computer science",
+      "Test automation",
+      "Maven",
+      "Android development",
+      "CI/CD",
+      "Leadership",
+      "REST",
+      "Scrum",
+      "Unit testing",
+      "Design patterns",
+      "Mentoring",
+      "Agile"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee assistance program",
+      "Flexible spending account",
+      "Health insurance",
+      "Parental leave",
+      "Pet insurance",
+      "RSU",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Zenith Services",
+    "job title": "Sr. Oracle DBA\\Developer OMS\\GIS",
+    "salary": "$75 an hour",
+    "skills": [
+      "SQL",
+      "UNIX",
+      "Microsoft SQL Server",
+      "SOX",
+      "Oracle HCM",
+      "MySQL",
+      "Linux",
+      "Microsoft Windows Server",
+      "Oracle",
+      "DB2",
+      "Data structures",
+      "ArcGIS",
+      "Software troubleshooting",
+      "GIS",
+      "System design",
+      "PL/SQL",
+      "Load balancing",
+      "Database administration",
+      "Solaris",
+      "Shell Scripting",
+      "Windows"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "FanDuel",
+    "job title": "Staff Machine Learning Engineer",
+    "salary": "$158,000 - $208,000 a year",
+    "skills": [
+      "PyTorch",
+      "Tableau",
+      "Machine learning frameworks",
+      "AWS",
+      "TensorFlow",
+      "Azure",
+      "Spark",
+      "Machine learning libraries",
+      "Keras",
+      "Data structures",
+      "Scikit-learn",
+      "CI/CD",
+      "Leadership",
+      "Java",
+      "Flutter",
+      "Software architecture",
+      "Kafka",
+      "Design patterns",
+      "Python",
+      "Machine learning"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k) matching",
+      "Dental insurance",
+      "Disability insurance",
+      "Health insurance",
+      "Life insurance",
+      "Opportunities for advancement",
+      "Paid sick time",
+      "Paid time off",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Selective Insurance Company of America",
+    "job title": "AVP Application Delivery- Corporate Systems (Hybrid)",
+    "salary": "$164,000 - $225,000 a year",
+    "skills": [
+      "Leadership",
+      "Software development",
+      "Project management",
+      "Relationship management",
+      "Team management"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Flexible schedule",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Meta",
+    "job title": "Technical Game Designer",
+    "salary": "$165,000 - $231,000 a year",
+    "skills": [
+      "Leadership",
+      "TypeScript",
+      "C++",
+      "C#",
+      "Product management",
+      "Unity",
+      "Machine learning"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]

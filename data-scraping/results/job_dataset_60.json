@@ -1,0 +1,409 @@
+[
+  {
+    "company name": "DVG TECH SOLUTIONS LLC",
+    "job title": "Sr. .NET Developer with Azure AD",
+    "salary": "From $55 an hour",
+    "skills": [
+      "Azure",
+      "Active Directory",
+      "PowerShell",
+      "DevOps",
+      "APIs",
+      "ServiceNow",
+      ".NET",
+      "Java",
+      "Authentication",
+      "PKI",
+      "DNS",
+      "B2C",
+      "Jenkins",
+      "JavaScript",
+      "DHCP"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "JPMorgan Chase & Co",
+    "job title": "Software Engineer II (Core Java)",
+    "salary": "$109,250 - $145,000 a year",
+    "skills": [
+      "PostgreSQL",
+      "Git",
+      "J2EE",
+      "Microservices",
+      "AWS",
+      "Spring",
+      "Spring Boot",
+      "Cloud infrastructure",
+      "Maven",
+      "Java",
+      "Software troubleshooting",
+      "REST",
+      "Jira",
+      "Debugging",
+      "Application development",
+      "Unit testing",
+      "S3",
+      "Terraform",
+      "Web services"
+    ],
+    "education": [],
+    "benefits": [
+      "Health insurance",
+      "Retirement plan",
+      "Tuition reimbursement"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Amazon.com Services LLC",
+    "job title": "Software Development Manager",
+    "salary": "From $148,000 a year",
+    "skills": [
+      "TypeScript",
+      "AWS",
+      "Team management",
+      "Computer science",
+      "DevOps",
+      "CI/CD",
+      "Leadership",
+      "Java",
+      "React Native",
+      "S3",
+      "Mentoring",
+      "Recruiting",
+      "Python"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "AXQ Capital",
+    "job title": "Quantitative Developer",
+    "salary": "0",
+    "skills": [
+      "UNIX",
+      "Statistics",
+      "Google Cloud Platform",
+      "AWS",
+      "Scripting",
+      "C++",
+      "Go",
+      "Java",
+      "Big data",
+      "Operating systems",
+      "Python",
+      "Shell Scripting",
+      "Machine learning"
+    ],
+    "education": [
+      "Doctoral degree",
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Steneral Consulting",
+    "job title": "Hybrid Work - Need Python Developer in Jersey City NJ",
+    "salary": "$65 - $70 an hour",
+    "skills": [
+      "Authentication",
+      "Power BI",
+      "HTML5",
+      "Python",
+      "React",
+      "JavaScript",
+      "Django",
+      "CSS",
+      "Vue.js"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CVS Health",
+    "job title": "Lead Cloud Engineer",
+    "salary": "$124,372.50 - $267,800.00 a year",
+    "skills": [
+      "Hadoop",
+      "Google Cloud Platform",
+      "AWS",
+      "Spark",
+      "Computer science",
+      "Java",
+      "ETL",
+      "Analytics",
+      "Scala",
+      "Big data",
+      "Data science",
+      "Mentoring",
+      "Python",
+      "Machine learning"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Disability insurance",
+      "Employee discount",
+      "Employee stock purchase plan",
+      "Health insurance",
+      "Life insurance",
+      "Paid time off",
+      "Store discount",
+      "Tuition reimbursement",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Qrypt",
+    "job title": "Software Engineer II",
+    "salary": "$115,000 - $155,000 a year",
+    "skills": [
+      "Back-end development",
+      "Rust",
+      "C++",
+      "Encryption",
+      "Computer science",
+      "Python",
+      "Data structures",
+      "Agile",
+      "CI/CD",
+      "OOP"
+    ],
+    "education": [
+      "Bachelor's degree"
+    ],
+    "benefits": [
+      "401(k) matching",
+      "Gym membership",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Rippling",
+    "job title": "Staff Machine Learning Engineer",
+    "salary": "$180,000 - $315,000 a year",
+    "skills": [
+      "Java",
+      "Natural language processing",
+      "C++",
+      "C",
+      "Python",
+      "Go",
+      "Machine learning"
+    ],
+    "education": [
+      "Doctoral degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "StubHub",
+    "job title": "Lead Staff Software Engineer - Visual Assets",
+    "salary": "$240,000 - $350,000 a year",
+    "skills": [
+      "Performance marketing",
+      "Software development",
+      "Metadata",
+      "C#",
+      "CAD",
+      "Customer service",
+      "Adobe Illustrator",
+      "Leadership",
+      "Java",
+      "Project leadership",
+      "Mentoring",
+      "Python",
+      "React",
+      "JavaScript",
+      "Unity"
+    ],
+    "education": [],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance",
+      "Paid parental leave",
+      "Paid time off",
+      "Parental leave",
+      "Vision insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "US Mobile",
+    "job title": "Solution Architect",
+    "salary": "$130,000 - $180,000 a year",
+    "skills": [
+      "5G",
+      "Test-driven development",
+      "Software development",
+      "Kubernetes",
+      "Microservices",
+      "Enterprise software",
+      "JavaScript",
+      "CI/CD"
+    ],
+    "education": [],
+    "benefits": [
+      "Flexible schedule",
+      "Food provided",
+      "Gym membership",
+      "Professional development assistance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "SANS Consulting Services, Inc.",
+    "job title": "Quantitative Developer for Risk Analytics, Risk Management, Portfolio Management Systems for Asset M",
+    "salary": "$100 - $200 an hour",
+    "skills": [
+      "SQL",
+      "Angular",
+      "Entity Framework",
+      ".NET Core",
+      "Bootstrap",
+      "NoSQL",
+      "Cloud architecture",
+      "Test-driven development",
+      "Kubernetes",
+      "C#",
+      "Databases",
+      "SOAP",
+      "REST",
+      "Data modeling",
+      "Service-oriented architecture",
+      "Docker",
+      "jQuery",
+      "JavaScript"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [
+      "401(k)",
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Apple",
+    "job title": "Site Reliability Engineering Manager, Apple Services Engineering",
+    "salary": "$183,400 - $316,900 a year",
+    "skills": [
+      "Distributed systems",
+      "Java",
+      "iOS",
+      "Computer science",
+      "Go"
+    ],
+    "education": [
+      "Bachelor's degree",
+      "Master's degree"
+    ],
+    "benefits": [
+      "Dental insurance",
+      "Employee stock purchase plan",
+      "Health insurance",
+      "RSU",
+      "Retirement plan"
+    ],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Rutgers University",
+    "job title": "Research Programmer",
+    "salary": "0",
+    "skills": [
+      "SQL",
+      "Git",
+      "Software development",
+      "HTML5",
+      "C++",
+      "Full-stack development",
+      "Software deployment",
+      "Computer science",
+      "DevOps",
+      "APIs",
+      "Databases",
+      "System design",
+      "Debugging",
+      "Application development",
+      "Python",
+      "JavaScript",
+      "CSS"
+    ],
+    "education": [
+      "Master's degree"
+    ],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "CapB InfoteK",
+    "job title": "iOS Developer - C63020 5.2 New York, NY",
+    "salary": "$52 an hour",
+    "skills": [
+      "Performance tuning",
+      "Git",
+      "Continuous integration",
+      "Back-end development",
+      "SVN",
+      "iOS development",
+      "APIs",
+      "Swift",
+      "UX"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  },
+  {
+    "company name": "Codinix Technologies",
+    "job title": "C++ Developer",
+    "salary": "From $45 an hour",
+    "skills": [
+      "C++",
+      "AJAX",
+      "Web design",
+      "JSP",
+      "Website maintenance"
+    ],
+    "education": [],
+    "benefits": [],
+    "experience": [],
+    "responsibilities": []
+  }
+]
