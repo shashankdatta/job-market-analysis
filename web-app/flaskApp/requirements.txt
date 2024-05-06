@@ -1,0 +1,6 @@
+Flask
+numpy
+textdistance
+scipy
+scikit-learn
+openai

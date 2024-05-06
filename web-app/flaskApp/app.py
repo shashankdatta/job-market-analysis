@@ -5,10 +5,7 @@ import numbers
 import numpy as np
 from difflib import SequenceMatcher
 import textdistance as td
-
-from scipy.stats import cosine
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
 
 app = Flask(__name__)
 client = OpenAI(api_key="sk-proj-Um9DvySRUnrWkLAp8UiaT3BlbkFJWdRq9HQB5rwCda8GY8kK")
