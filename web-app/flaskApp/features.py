@@ -215,14 +215,14 @@ def find_jobs():
     if not top_roles:
         return Response("Try changing your search criteria. No suitable jobs found.", mimetype='text/plain')
 
-
-    prompt = f"Here is a list of job roles that fit the user based on a set of criteria: \n{top_roles}\nCan you translate this list into a more readable format, intended for a user that wants to find what jobs are suitable for them based off their desired salary and the skills they possess?"
+    prompt = f"Here is a list of job roles that fit the user based on a set of criteria: \n{top_roles}\nCan you translate this list into a more readable format, intended for a user that wants to find what jobs are suitable for them based off their desired salary and the skills they possess? Feel free to expand a little as you see fit."
     formatted_response = client.chat.completions.create(
         messages=[{"role": "user", "content": prompt}],
         model="gpt-3.5-turbo"
     )
     formatted_response = formatted_response.choices[0].message.content.strip()
     return Response(formatted_response, mimetype='text/plain')
+
 
 
 if __name__ == '__main__':
