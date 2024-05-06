@@ -6,7 +6,7 @@ This is a scraper for **software engineer** job postings on indeed.com in **New 
 ```linux
 conda create -n scrapper python==3.10
 conda activate
-pip3 install -r requirement.txt
+pip3 install -r requirements.txt
 ```
 Indeed.com has anti scraping protection. This scrapper uses [oxylabs](https://oxylabs.io/) to bypass it.
 
