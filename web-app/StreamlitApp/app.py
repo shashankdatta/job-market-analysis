@@ -145,7 +145,7 @@ def generate_openai_response(user_que):
     return response
 
 st.title('🤖 Ask Jobly')
-st.caption("🚀 A streamlit chatbot powered by OpenAI LLM")
+st.caption("🚀 A streamlit chatbot powered by OpenAI & LangChain 🦜🔗")
 
 # Set up a session state to store the chat messages variable to hold all the old messages
 if len(msgs.messages) == 0:
