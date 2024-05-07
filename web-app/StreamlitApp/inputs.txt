@@ -1,0 +1,26 @@
+Hi, how are you doing?
+
+What can you do?
+
+What tools do you possess?
+
+Feature 1 - Industry Standard Job Comparison: 
+    I want to use the Job Comparison tool.
+    
+    Software Developer - AI Trainer (Contract)- job post DataAnnotation 4.4out of 5 New York, NY•Remote From $40 an hour - Contract You must create an Indeed account before continuing to the company website to apply Profile insights Find out how your skills align with the job description Skills  Do you have experience in AI? Education  Do you have a Bachelor's degree? &nbsp; Job details Here’s how the job details align with your profile. Pay From $40 an hour Job type Contract &nbsp; Benefits Pulled from the full job description Work from home &nbsp; Full job description We are looking for proficient programmers to join our team to train our AI chatbots to code. You will work with the chatbots that we are building in order to measure their progress, as well as write and evaluate code.  In this role you will need to be proficient in at least one programming language and able to solve coding problems (think LeetCode, HackerRank, etc). For each coding problem, you must be able to explain how your solution solves the problem.  Benefits:  This is a full-time or part-time REMOTE position You’ll be able to choose which projects you want to work on You can work on your own schedule Projects are paid hourly, with bonuses on high-quality and high-volume work Responsibilities:  Come up with diverse problems and solutions for a coding chatbot Write high-quality answers and code snippets Evaluate code quality produced by AI models for correctness and performance Qualifications:  Fluency in English Proficient in at least one programming language Detail-oriented Excellent writing and grammar skills A bachelor's degree (completed or in progress) Note: Payment is made via PayPal. We will never ask for any money from you. PayPal will handle any currency conversions from USD. This job is only available to those in the US, UK, Ireland, Canada, Australia, or New Zealand. Those located outside of these countries will not see work or assessments available on our site at this time.  Job Type: Contract  Pay: From $40.00 per hour  Expected hours: 1 – 40 per week  Benefits:  Work from home Location:  New York, NY (Required) Work Location: Remote
+
+Feature 2 - Job Role Skills Finder:
+    Now, I want to use the Skills finder tool
+    Software Developer
+
+    Again, but for a different a role
+    Machine Learning Engineer
+
+Feature 3 - Similar Job Search:
+    Now, I want to use the job search tool.
+
+    I want a salary of 80K. My skills include api knowledge, restful api, web frameworks, backend programming, data technologies, and big data.
+
+What all tools have I used today?
+
+Ty! Bye bye
