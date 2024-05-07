@@ -1,4 +1,4 @@
-import requests
+import requests, json
 
 def get_available_openai_models(key):
     url = "https://api.openai.com/v1/models"

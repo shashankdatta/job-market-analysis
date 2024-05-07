@@ -1,0 +1,11 @@
+Flask
+numpy
+textdistance
+scipy
+scikit-learn
+openai
+langchain
+langchain-core
+langchain-community
+langchain_openai
+streamlit

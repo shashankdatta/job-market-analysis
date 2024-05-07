@@ -1,38 +1,17 @@
 # Import Langchain dependencies
-from langchain.agents import AgentExecutor, create_openai_tools_agent, Tool, ConversationalChatAgent
-from langchain.pydantic_v1 import BaseModel, Field
-from langchain.tools import BaseTool, StructuredTool, tool
-from langchain_community.tools import DuckDuckGoSearchRun, DuckDuckGoSearchResults, WikipediaQueryRun
-from langchain_community.utilities import WikipediaAPIWrapper, DuckDuckGoSearchAPIWrapper
-from langchain_community.tools.wikidata.tool import WikidataAPIWrapper, WikidataQueryRun
-
+from langchain.agents import AgentExecutor, create_openai_tools_agent, Tool
 from langchain.memory import ConversationBufferMemory, ConversationBufferWindowMemory
 from langchain_community.callbacks import StreamlitCallbackHandler
 from langchain_community.chat_message_histories import StreamlitChatMessageHistory
 from langchain_core.runnables import RunnableConfig
-from langchain.chains import LLMChain
+from langchain_core.prompts import PromptTemplate
+from langchain_openai import ChatOpenAI
 from langchain_core.prompts import PromptTemplate
 
-from langchain_openai import ChatOpenAI
-from langchain_core.prompts import (
-    ChatPromptTemplate,
-    MessagesPlaceholder,
-    SystemMessagePromptTemplate,
-    HumanMessagePromptTemplate,
-    PromptTemplate,
-)
-
-from langchain_community.document_loaders import PyPDFLoader
-from langchain.indexes import VectorstoreIndexCreator
-from langchain.chains import RetrievalQA
-from langchain_community.embeddings import HuggingFaceEmbeddings
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-
+# Import Streamlit dependencies
 import streamlit as st
-from langchain import hub
 from PIL import Image
-import replicate
-import os, re, json, requests
+import os, re
 from modules.openai_tools import *
 
 # Setup the app UI
@@ -108,7 +87,7 @@ def generate_openai_response(user_que):
                 Tool(
                     name='ComparingJob',
                     func= ComparingJob,
-                    description="Useful for when you need to answer the user questions about job Comparison of a job. The input should be unedited user question!."
+                    description="Useful for when you need to answer the user questions about how a job compares to industry averages. The input should be unedited user question!."
                 ),
                 Tool(
                     name='JobSkillsDescriptionTool',
@@ -129,13 +108,13 @@ def generate_openai_response(user_que):
     Begin!
     
     If the user hasn't mentioned which tool to use, ask for what tool and respond with one of the questions based on what tool they want to use:
-    - ComparingJob: "Please provide me the job description you want to compare."
+    - ComparingJob: "Please provide me the job description you want to compare to industry averages."
     - JobSkillsDescriptionTool: "What job role are you looking for?"
     - FindJobsTool: "Tell me about yourself and what you're looking for in a job. What sort of salary are you looking for? What skills do you possess right now?"
 
     The user's response will be the input to the tool you should use. 
     
-    Do not modify the tool's output. If the tool's output is not what you expected, ask the user for more information or clarification.
+    Do not modify the tool's input and output. If the tool's output is not what you expected, ask the user for more information or clarification.
     Any additional information you need to provide should be in the form of a question to the user.
 
     Previous conversation history:
