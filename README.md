@@ -2,7 +2,7 @@
 
 CS-GY 6513 - Big Data - Final Project
 
-![Jobly Home Page](web-app/streamlitApp/jobly_homepage.png)
+![Jobly Home Page](./web-app/StreamlitApp/jobly_homepage.png)
 
 We aim to answer 3 questions for users -
 
