@@ -27,11 +27,11 @@ To view more details, refer to the `README` under each section (`data-analysis`,
 
 # Authors
 
-**Matthew So** - BigData
-**Rohit Mohanty** - BigData
-**Shashank datta Bezgam** - Full Stack & LangChain
-**Ke Zhang** - Full Stack & LangChain
-**Jasmine Wu** - Jobs Data Web Crawler
+**Matthew So** - BigData 
+**Rohit Mohanty** - BigData 
+**Shashank datta Bezgam** - Full Stack & LangChain 
+**Ke Zhang** - Full Stack & LangChain 
+**Jasmine Wu** - Jobs Data Web Crawler 
 
 ---
 
