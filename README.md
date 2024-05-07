@@ -40,4 +40,5 @@ To view more details, refer to the `README` under each section (`data-analysis`,
 ---
 
 [Get an OpenAI API key](https://platform.openai.com/account/api-keys)
+
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashankdatta/job-market-analysis)
