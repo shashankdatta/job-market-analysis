@@ -30,7 +30,7 @@ role_skills  = load_role_skills()
 
 @app.route('/')
 def index():
-    return render_template('feature3.html')
+    return render_template('feature2.html')
 
 @app.route('/compare_job_posting', methods=['POST'])
 def compare_job_posting():

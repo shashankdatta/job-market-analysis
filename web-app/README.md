@@ -45,6 +45,9 @@ Both Flask and Streamlit are chosen for their simplicity and efficiency, allowin
 - **Skill Analysis**: The app identifies key skills required for job roles, aiding users in skill development and job preparation.
 - **Role Recommendation**: Based on user profiles, the app suggests job roles that users are most suited for.
 
+## Querying Process
+Our application does not merely perform exact matches against the database entries; instead, it aims to find the most similar or relevant results based on the processed input. When an exact match is not found in the database, the system utilizes advanced matching algorithms to identify and return the closest approximate entries. This ensures that users receive the most pertinent and useful information even if their exact query specifics are not directly available in the database.
+
 ## Development
 
 - Integrating **Streamlit** for frontend UI components.
