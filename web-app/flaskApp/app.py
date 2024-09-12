@@ -8,7 +8,7 @@ import textdistance as td
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 app = Flask(__name__)
-client = OpenAI(api_key="sk-proj-Um9DvySRUnrWkLAp8UiaT3BlbkFJWdRq9HQB5rwCda8GY8kK")
+client = OpenAI(api_key="OPENAI_API_KEY_HERE")
 
 
 # Load role statistics from a local JSON file
